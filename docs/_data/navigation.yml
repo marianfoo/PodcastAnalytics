@@ -4,11 +4,15 @@ main:
     children:
     - title: "Alle Episoden"
       url: /fest-flauschig/alle-episoden
+    - title: "Analyse"
+      url: /fest-flauschig/analyse
   - title: "Sanft und Sorgfältig"
     url: /sanft-sorgfältig
     children:
     - title: "Alle Episoden"
       url: /sanft-sorgfältig/alle-episoden
+    - title: "Analyse"
+      url: /sanft-sorgfältig/analyse
 
 sidebar:
   - title: "Fest und Flauschig"
@@ -16,8 +20,12 @@ sidebar:
     children:
     - title: "Alle Episoden"
       url: /fest-flauschig/alle-episoden
+    - title: "Analyse"
+      url: /fest-flauschig/analyse
   - title: "Sanft und Sorgfältig"
     url: /sanft-sorgfältig
     children:
     - title: "Alle Episoden"
       url: /sanft-sorgfältig/alle-episoden
+    - title: "Analyse"
+      url: /sanft-sorgfältig/analyse
