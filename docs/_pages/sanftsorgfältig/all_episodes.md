@@ -9,7 +9,7 @@ sidebar:
   {% for row in site.data.list_episodes_metadata_ss %}
     {% if forloop.first %}
     <tr>
-        <th>Nummer</th>
+        <th>Num.</th>
         <th>Titel</th>
         <th>Datum</th>
         <th>Länge in Minuten</th>
@@ -18,7 +18,7 @@ sidebar:
     <tr>
     <td markdown="span">{{ row['track'] }}</td>
     <td markdown="span">{{ row['name'] }}</td>
-    <td markdown="span">
+    <td markdown="span" style="white-space: nowrap;overflow: hidden;text-overflow:ellipsis;">
                   {{ row['release_date'] | date: "%-d." }}{% assign month = row['release_date'] | date: '%-m' %}
               {% case month %}
                 {% when '1' %}Jan.
