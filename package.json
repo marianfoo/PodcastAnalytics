@@ -1,0 +1,28 @@
+{
+    "name": "podcast-analytics-ff-ss",
+    "version": "0.0.1",
+    "description": "",
+    "main": "--none",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/marianfoo/PodcastAnalyticsF-F-S-S.git"
+    },
+    "keywords": [
+    ],
+    "author": "",
+    "license": "MIT",
+    "homepage": "https://github.com/marianfoo/PodcastAnalyticsF-F-S-S#readme",
+    "dependencies": {
+      "@commitlint/cli": "^11.0.0",
+      "@commitlint/config-conventional": "^11.0.0",
+      "husky": "^4.3.7",
+      "lint-staged": "^10.5.3",
+      "markdownlint-cli": "^0.26.0"
+    },
+    "lint-staged": {
+      "*.md": "markdownlint -c .markdownlint.jsonc --fix"
+    }
+  }
