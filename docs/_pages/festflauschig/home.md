@@ -5,7 +5,7 @@ title: Fest und Flauschig
 ---
 
 
-## [Alle Episoden](alle-episoden)
+## [Alle Episoden]( {{ "/fest-flauschig/alle-episoden" | relative_url  }} )
 ## [Analysen](analyse)
 
 ## [Rubriken](rubriken)
