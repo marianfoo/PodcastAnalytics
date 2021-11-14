@@ -1,6 +1,9 @@
 ---
 layout: single
 ---
+{{ content }}
+
+<p class="notice--warning"><strong>Achtung!</strong> Bei den Spotify Links können die Timestamps minimal abweichen.</p>
 
 <table style="display: table;">
       {% assign items_grouped = site.data[page.type_csv][page.csv_name] | group_by: 'track' %}
