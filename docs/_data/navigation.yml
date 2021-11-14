@@ -12,12 +12,10 @@ sidebar:
       url: /fest-flauschig/alle-episoden
     - title: "Analyse"
       url: /fest-flauschig/analyse
-    - title: "Die großen 5"
-      url: /fest-flauschig/die-grossen-5
-    - title: "Tiere dies geschafft haben"
-      url: /fest-flauschig/tiere-dies-geschaft-haben
-    - title: "Jingle: Hinauslaufen"
-      url: /fest-flauschig/jingle-hinauslaufen
+    - title: "Jingles"
+      url: /fest-flauschig/jingles
+    - title: "Rubriken"
+      url: /fest-flauschig/rubriken
   - title: "Sanft und Sorgfältig"
     url: /sanft-sorgfältig
     children:

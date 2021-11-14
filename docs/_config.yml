@@ -54,15 +54,44 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+breadcrumbs: true
+
 
 include:
   - _pages
+collections_dir: _timestamps
+collections:
+  rubriken:
+    output: true
+    permalink: /fest-flauschig/:collection/:path/
+  jingles:
+    output: true
+    permalink: /fest-flauschig/:collection/:path/
 
 defaults:
 # _docs
-- scope:
-    path: ""
-    type: pages
-  values:
-    sidebar:
-      nav: "sidebar"
+  - scope:
+      path: ""
+      type: pages
+    values:
+      sidebar:
+        nav: "sidebar"
+    # rubriken
+  - scope:
+      path: ""
+      type: rubriken
+    values:
+      layout: timestamp
+      author_profile: false
+      share: false
+      sidebar:
+        nav: "sidebar"
+  - scope:
+      path: ""
+      type: jingles
+    values:
+      layout: timestamp
+      author_profile: false
+      share: false
+      sidebar:
+        nav: "sidebar"
