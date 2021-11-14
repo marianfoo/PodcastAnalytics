@@ -1,6 +1,15 @@
 ---
 permalink: /fest-flauschig
 layout: single
+title: Fest und Flauschig
 ---
 
-Die ist ein Test
+
+## [Alle Episoden](alle-episoden)
+## [Analysen](analyse)
+
+## [Rubriken](rubriken)
+## [Jingles](jingles)
+
+
+

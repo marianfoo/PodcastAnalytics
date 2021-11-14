@@ -1,6 +1,7 @@
 ---
 permalink: /sanft-sorgfältig/analyse
 layout: single
+title: Analyse
 ---
 
 ## Länge aller Episoden

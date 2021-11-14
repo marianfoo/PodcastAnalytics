@@ -1,6 +1,7 @@
 ---
 permalink: /fest-flauschig/analyse
 layout: single
+title: Analyse
 ---
 
 ## Länge aller Episoden

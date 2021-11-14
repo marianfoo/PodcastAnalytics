@@ -1,6 +1,7 @@
 ---
 permalink: /fest-flauschig/alle-episoden
 layout: single
+title: Alle Episoden
 ---
 
 <table>
