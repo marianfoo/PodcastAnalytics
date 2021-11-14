@@ -5,3 +5,15 @@ permalink: /
 layout: single
 title: Home
 ---
+
+## Fest und Flauschig
+
+### [Alle Episoden]( {{ "/fest-flauschig/alle-episoden" | relative_url  }} )
+### [Analysen]( {{ "/fest-flauschig/analyse" | relative_url  }} )
+### [Rubriken]( {{ "/fest-flauschig/rubriken" | relative_url  }} )
+### [Jingles]( {{ "/fest-flauschig/jingles" | relative_url  }} )
+
+## Sanft und Sorgfältig
+
+## [Alle Episoden]( {{ "/sanft-sorgfältig/alle-episoden" | relative_url  }} )
+## [Analysen]( {{ "/sanft-sorgfältig/analyse" | relative_url  }} )
