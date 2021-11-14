@@ -4,5 +4,6 @@ layout: single
 title: Sanft und Sorgfältig
 ---
 
-## [Alle Episoden](alle-episoden)
-## [Analysen](analyse)
+
+## [Alle Episoden]( {{ "/sanft-sorgfältig/alle-episoden" | relative_url  }} )
+## [Analysen]( {{ "/sanft-sorgfältig/analyse" | relative_url  }} )

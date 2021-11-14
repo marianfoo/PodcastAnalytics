@@ -6,10 +6,6 @@ title: Fest und Flauschig
 
 
 ## [Alle Episoden]( {{ "/fest-flauschig/alle-episoden" | relative_url  }} )
-## [Analysen](analyse)
-
-## [Rubriken](rubriken)
-## [Jingles](jingles)
-
-
-
+## [Analysen]( {{ "/fest-flauschig/analyse" | relative_url  }} )
+## [Rubriken]( {{ "/fest-flauschig/rubriken" | relative_url  }} )
+## [Jingles]( {{ "/fest-flauschig/jingles" | relative_url  }} )
