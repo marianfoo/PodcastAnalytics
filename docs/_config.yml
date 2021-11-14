@@ -55,6 +55,10 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+relative_links:
+  enabled:     true
+  collections: true
+
 breadcrumbs: true
 
 
