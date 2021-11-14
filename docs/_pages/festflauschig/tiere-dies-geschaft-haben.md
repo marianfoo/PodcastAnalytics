@@ -2,6 +2,8 @@
 permalink: /fest-flauschig/tiere-dies-geschaft-haben
 layout: single
 ---
+{: .notice--warning}
+**Achtung!** Die Auswertung sind maschinell erstellt worden und können Fehler enthalten.
 
 <table style="display: table;">
 {% assign items_grouped = site.data.timestamps_tiere_dies_geschafft_haben | group_by: 'track' %}

@@ -2,6 +2,8 @@
 permalink: /fest-flauschig/jingle-hinauslaufen
 layout: single
 ---
+{: .notice--warning}
+**Achtung!** Die Auswertung sind maschinell erstellt worden und können Fehler enthalten.
 
 <table style="display: table;">
 {% assign items_grouped = site.data.timestamps_jinge_hinauslaufen | group_by: 'track' %}
