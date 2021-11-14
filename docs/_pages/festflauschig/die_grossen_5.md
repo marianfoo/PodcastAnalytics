@@ -1,8 +1,6 @@
 ---
 permalink: /fest-flauschig/die-grossen-5
 layout: single
-sidebar:
-  nav: "sidebar"
 ---
 
 <table style="display: table;">

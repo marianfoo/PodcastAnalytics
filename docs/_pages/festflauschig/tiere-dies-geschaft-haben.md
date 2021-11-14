@@ -1,8 +1,6 @@
 ---
 permalink: /fest-flauschig/tiere-dies-geschaft-haben
 layout: single
-sidebar:
-  nav: "sidebar"
 ---
 
 <table style="display: table;">

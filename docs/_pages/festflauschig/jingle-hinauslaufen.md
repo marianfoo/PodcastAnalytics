@@ -1,8 +1,6 @@
 ---
 permalink: /fest-flauschig/jingle-hinauslaufen
 layout: single
-sidebar:
-  nav: "sidebar"
 ---
 
 <table style="display: table;">

@@ -57,3 +57,12 @@ plugins:
 
 include:
   - _pages
+
+defaults:
+# _docs
+- scope:
+    path: ""
+    type: pages
+  values:
+    sidebar:
+      nav: "sidebar"

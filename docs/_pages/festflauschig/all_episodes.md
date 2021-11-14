@@ -1,8 +1,6 @@
 ---
 permalink: /fest-flauschig/alle-episoden
 layout: single
-sidebar:
-  nav: "sidebar"
 ---
 
 <table>

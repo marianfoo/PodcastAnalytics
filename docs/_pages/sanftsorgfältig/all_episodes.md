@@ -1,8 +1,6 @@
 ---
 permalink: /sanft-sorgfältig/alle-episoden
 layout: single
-sidebar:
-  nav: "sidebar"
 ---
 
 <table>

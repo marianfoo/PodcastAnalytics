@@ -25,7 +25,7 @@
       35729
     ],
     // Use 'postCreateCommand' to run commands after the container is created.
-    "postCreateCommand": "npm install && sudo gem install bundler && cd docs && bundle install",
+    "postCreateCommand": "npm install && sudo gem install bundler && cd docs && bundle install", //bundle exec jekyll serve --livereload --force-polling 
     // Comment out connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
     "remoteUser": "node"
   }
