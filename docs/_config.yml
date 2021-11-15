@@ -24,8 +24,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Übersicht über alle Episoden und Timestamps von "die großen 5","Tiere dies geschafft haben" und mehr.
 baseurl: "/PodcastAnalyticsF-F-S-S" # the subpath of your site, e.g. /blog
 url: "https://marianfoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  
+twitter_username: mianbsp
+twitter:
+  username: "mianbsp"
+github_username:  marianfoo/PodcastAnalyticsF-F-S-S
 locale: "de-DE"
 
 # Build settings
@@ -54,6 +56,20 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mianbsp"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/marianfoo/PodcastAnalyticsF-F-S-S"
+
+atom_feed:
+  hide: true
+  
+search: true
 
 relative_links:
   enabled:     true
