@@ -6,6 +6,10 @@ layout: single
 title: Home
 ---
 
+Wenn dir Fehler aufgefallen sind, du weitere Analysen/Rubriken/Jingles hinzugefügt haben möchtest oder weitere Anregungen hast, schreibe mir einfach auf [Twitter](https://twitter.com/mianbsp){:target="_blank" rel="noopener"} oder [erstelle ein Issue auf Github](https://github.com/marianfoo/PodcastAnalyticsF-F-S-S/issues){:target="_blank" rel="noopener"}.
+
+Alle Rohdaten die hier dargestellt werden sind auch [auf Github vorhanden](https://github.com/marianfoo/PodcastAnalyticsF-F-S-S/tree/main/data){:target="_blank" rel="noopener"}.
+
 ## Fest und Flauschig
 
 ### [Alle Episoden]( {{ "/fest-flauschig/alle-episoden" | relative_url  }} )
