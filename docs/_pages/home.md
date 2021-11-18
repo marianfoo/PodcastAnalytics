@@ -21,3 +21,16 @@ Alle Rohdaten die hier dargestellt werden sind auch [auf Github vorhanden](https
 
 ## [Alle Episoden]( {{ "/sanft-sorgfältig/alle-episoden" | relative_url  }} )
 ## [Analysen]( {{ "/sanft-sorgfältig/analyse" | relative_url  }} )
+
+## Baywatch Berlin
+
+## [Alle Episoden]( {{ "/baywatch-berlin/alle-episoden" | relative_url  }} )
+## [Spezial Episoden]( {{ "/baywatch-berlin/spezial-episoden" | relative_url  }} )
+## [Analysen]( {{ "/baywatch-berlin/analyse" | relative_url  }} )
+## [Jakobs Seufzer]( {{ "/baywatch-berlin/jakobs-seufzer" | relative_url  }} )
+
+## Eulen vor die Säue
+
+## [Alle Episoden]( {{ "/eulen-vor-die-saeue/alle-episoden" | relative_url  }} )
+## [Spezial Episoden]( {{ "/eulen-vor-die-saeue/spezial-episoden" | relative_url  }} )
+## [Analysen]( {{ "/eulen-vor-die-saeue/analyse" | relative_url  }} )
