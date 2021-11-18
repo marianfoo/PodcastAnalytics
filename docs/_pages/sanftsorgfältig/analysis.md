@@ -6,4 +6,4 @@ title: Analyse
 
 ## Länge aller Episoden
 
-![Länge Episoden "Sanft und Sorgfältig"](../../img/ss_duration.png)
+![Länge Episoden "Sanft und Sorgfältig"]( {{ "/img/ss_duration.png" | relative_url  }} )
