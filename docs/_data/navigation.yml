@@ -3,6 +3,8 @@ main:
     url: /fest-flauschig
   - title: "Sanft und Sorgfältig"
     url: /sanft-sorgfältig
+  - title: "Baywatch Berlin"
+    url: /baywatch-berlin
 
 sidebar:
   - title: "Fest und Flauschig"
@@ -23,3 +25,12 @@ sidebar:
       url: /sanft-sorgfältig/alle-episoden
     - title: "Analyse"
       url: /sanft-sorgfältig/analyse
+  - title: "Baywatch Berlin"
+    url: /baywatch-berlin
+    children:
+    - title: "Alle Episoden"
+      url: /baywatch-berlin/alle-episoden
+    - title: "Spezial Episoden"
+      url: /baywatch-berlin/spezial-episoden
+    - title: "Analyse"
+      url: /baywatch-berlin/analyse
