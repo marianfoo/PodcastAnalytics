@@ -34,3 +34,12 @@ sidebar:
       url: /baywatch-berlin/spezial-episoden
     - title: "Analyse"
       url: /baywatch-berlin/analyse
+  - title: "Euelen vor die Säue"
+    url: /eulen-vor-die-saeue
+    children:
+    - title: "Alle Episoden"
+      url: /eulen-vor-die-saeue/alle-episoden
+    - title: "Spezial Episoden"
+      url: /eulen-vor-die-saeue/spezial-episoden
+    - title: "Analyse"
+      url: /eulen-vor-die-saeue/analyse
