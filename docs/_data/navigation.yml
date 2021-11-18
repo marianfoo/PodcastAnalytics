@@ -34,6 +34,8 @@ sidebar:
       url: /baywatch-berlin/spezial-episoden
     - title: "Analyse"
       url: /baywatch-berlin/analyse
+    - title: "Jakobs Seufzer"
+      url: /baywatch-berlin/jakobs-seufzer
   - title: "Euelen vor die Säue"
     url: /eulen-vor-die-saeue
     children:
