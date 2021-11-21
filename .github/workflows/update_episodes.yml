@@ -28,4 +28,4 @@ jobs:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update Episodes
+          commit_message: action - update episodes from spotify
