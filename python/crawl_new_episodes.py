@@ -56,6 +56,38 @@ dict_data = {
             'filename_image' : 'evds_duration_other.png'
         }
         
+    },
+    "gemischtes-hack" : {
+        "download": "False",
+        "new_episodes" : [],
+        "filename_csv" : "list_episodes_metadata_gh.csv",
+        "filename_other_csv" : "list_episodes_metadata_gh_other.csv",
+        "spotify_show_id" : "7BTOsF2boKmlYr76BelijW",
+        "special_episodes" : [
+            "4mS4sjzeN9CErnXa4a6sse",
+            "5Fn1nq18i1FDszX8Svt0Rq",
+            "1Fo1syQZc61L1KNGtEpNCJ",
+            "6KOoIQfExicyCVVZJHKSzX",
+            "0bnUbX1qZ3jP9SDSXIVAhx",
+            "2g2WNcPnnLikAmliNGBYgV",
+            "0XeT9ulNqscTwCfPSVdK7Y",
+            "5ETygU0iaKqrBRpQsl5aGH",
+            "7KZHTYHfUqtyJQ0VTxAXlU",
+            "2BMk5tZtrYCmRPtWeMcJwD",
+            "2qCyfaR131IEH8jn70CE1R",
+            "4s13hiJyaMrKLJZPdjH3rD",
+            "5u7XOTUdFgCB7tgbOJhCRJ",
+            "4nLiClCoyBTtTrd8Lo3NwQ"
+        ],
+        "plot" : {
+            "title" : "Gemischtes Hack",
+            "filename_image" : "gh_duration.png"
+        },
+        "plot_other" : {
+            "title" : "Gemischtes Hack Spezial",
+            "filename_image" : "gh_duration_other.png"
+        }
+        
     }
 }
 

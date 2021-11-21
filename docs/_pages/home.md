@@ -29,6 +29,12 @@ Alle Rohdaten die hier dargestellt werden sind auch [auf Github vorhanden](https
 ## [Analysen]( {{ "/baywatch-berlin/analyse" | relative_url  }} )
 ## [Jakobs Seufzer]( {{ "/baywatch-berlin/jakobs-seufzer" | relative_url  }} )
 
+## Gemischtes Hack
+
+## [Alle Episoden]( {{ "/gemischtes-hack/alle-episoden" | relative_url  }} )
+## [Spezial Episoden]( {{ "/gemischtes-hack/spezial-episoden" | relative_url  }} )
+## [Analysen]( {{ "/gemischtes-hack/analyse" | relative_url  }} )
+
 ## Eulen vor die Säue
 
 ## [Alle Episoden]( {{ "/eulen-vor-die-saeue/alle-episoden" | relative_url  }} )

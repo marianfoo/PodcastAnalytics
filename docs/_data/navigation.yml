@@ -36,7 +36,16 @@ sidebar:
       url: /baywatch-berlin/analyse
     - title: "Jakobs Seufzer"
       url: /baywatch-berlin/jakobs-seufzer
-  - title: "Euelen vor die Säue"
+  - title: "Gemischtes Hack"
+    url: /gemischtes-hack
+    children:
+    - title: "Alle Episoden"
+      url: /gemischtes-hack/alle-episoden
+    - title: "Spezial Episoden"
+      url: /gemischtes-hack/spezial-episoden
+    - title: "Analyse"
+      url: /gemischtes-hack/analyse
+  - title: "Eulen vor die Säue"
     url: /eulen-vor-die-saeue
     children:
     - title: "Alle Episoden"
