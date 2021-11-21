@@ -1,0 +1,4 @@
+spotipy
+pandas
+plotly
+kaleido
