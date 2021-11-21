@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 permalink: /
 layout: single
-title: Home
+title: Übersicht über alle Podcasts
 ---
 
 Wenn dir Fehler aufgefallen sind, du weitere Analysen/Rubriken/Jingles hinzugefügt haben möchtest oder weitere Anregungen hast, schreibe mir einfach auf [Twitter](https://twitter.com/mianbsp){:target="_blank" rel="noopener"} oder [erstelle ein Issue auf Github](https://github.com/marianfoo/PodcastAnalyticsF-F-S-S/issues){:target="_blank" rel="noopener"}.
