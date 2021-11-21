@@ -1,0 +1,169 @@
+{
+    "baywatchberlin" : {
+        "download": "True",
+        "new_episodes" : ["https://open.spotify.com/episode/7GdVfsq8vtYHhStTQnCMbV?si=30e68a7706eb414d"],
+        "path_raw" :  "G:/bwb/mp3/",
+        "path_small" : "G:/bwb/small/",
+        "path_wav" : "G:/bwb/wav/",
+        "filename_csv" : "list_episodes_metadata_bwb.csv",
+        "filename_other_csv" : "list_episodes_metadata_bwb_other.csv",
+        "spotify_show_id" : "3jtLk2Zlutfjo91QZYXmlA",
+        "special_episodes" : [
+            "4VYA0hxnzjKKtL9QCHDeDr",
+            "1KLAaERQGMmMxEtjNmojpj", 
+            "0pf0XgtnCzNAlwq7bmWTUz"
+        ],
+        "plot" : {
+            "title" : "Baywatch Berlin",
+            "filename_image" : "bwb_duration.png"
+        },
+        "plot_other" : {
+            "title" : "Baywatch Berlin Spezial",
+            "filename_image" : "bwb_duration_other.png"
+        },
+        "samples" : {
+            "jakobsigh" : {
+                "path" : "snippets/bwb/jakobsigh.wav",
+                "threshold" : 20,
+                "gap" : 10000,
+                "sub_path" : "bwb/"
+            }
+        }
+        
+    },
+    "festflauschig" : {
+        "download": "True",
+        "new_episodes" : ["https://open.spotify.com/episode/7GwvJ6w4ihJn0ehnFQhT5V?si=6c265220c4b24e9e"],
+        "path_raw" :  "G:/festflauschig/raw_new/",
+        "path_small" : "G:/festflauschig/small_new/",
+        "path_wav" : "G:/festflauschig/wav_new/", 
+        "filename_csv" : "list_episodes_metadata_ff.csv",
+        "filename_other_csv" : "list_episodes_metadata_ff_other.csv",
+        "spotify_show_id" : "1OLcQdw2PFDPG1jo3s0wbp",
+        "special_episodes" : [
+        ],
+        "plot" : {
+            "title" : "Fest und Flauschig",
+            "filename_image" : "ff_duration.png"
+        },
+        "plot_other" : {
+            "title" : "Fest und Flauschig Spezial",
+            "filename_image" : "ff_duration_other.png"
+        },
+        "samples" : {
+            "diegrossen5" : {
+                "path" : "snippets/diegrossen5.wav",
+                "threshold" : 100,
+                "gap" : 1000000,
+                "sub_path" : "rubriken/"
+            },
+            "wendler1" : {
+                "path" : "snippets/wendler1.wav",
+                "threshold" : 1000,
+                "gap" :1000000,
+                "sub_path" : "jingles/"
+            },
+            "deutschlandwirdrasiert" : {
+                "path" : "snippets/deutschlandwirdrasiert.wav",
+                "threshold" : 1000,
+                "gap": 1000000,
+                "sub_path" : "jingles/"
+            },
+            "dummheitkenntkeinegrenzen" : {
+                "path" : "snippets/dummheitkenntkeinegrenzen.wav",
+                "threshold" : 300,
+                "gap": 1000000,
+                "sub_path" : "jingles/"
+            },
+            "fraumagdiecliquenicht" : {
+                "path" : "snippets/fraumagdiecliquenicht.wav",
+                "threshold" : 500,
+                "gap": 1000000,
+                "sub_path" : "jingles/"
+            },
+            "tiere_dies_geschafft_haben" : {
+                "path" : "snippets/tiere_dies_geschafft_haben.wav",
+                "threshold" : 1000,
+                "gap": 1000000,
+                "sub_path" : "rubriken/"
+            },
+            "hausboot" : {
+                "path" : "snippets/hausboot.wav",
+                "threshold" : 400,
+                "gap": 1000000,
+                "sub_path" : "jingles/"
+            },
+            "jinge_hinauslaufen" : {
+                "path" : "snippets/jinge_hinauslaufen.wav",
+                "threshold" : 200,
+                "gap": 1000000,
+                "sub_path" : "jingles/"
+            },
+            "jennyelvers" : {
+                "path" : "snippets/jennyelvers.wav",
+                "threshold" : 400,
+                "gap": 1000000,
+                "sub_path" : "jingles/"
+            },
+            "partyhopping" : {
+                "path" : "snippets/partyhopping.wav",
+                "threshold" : 2000,
+                "gap" :1000000,
+                "sub_path" : "rubriken/"
+            }
+        }
+
+        
+    },
+    "evds" : {
+        "download": "False",
+        "new_episodes" : ["https://open.spotify.com/episode/7GdVfsq8vtYHhStTQnCMbV?si=30e68a7706eb414d"],
+        "filename_csv" : "list_episodes_metadata_evds.csv",
+        "filename_other_csv" : "list_episodes_metadata_evds_other.csv",
+        "spotify_show_id" : "3bL0TxU43Md3M384UAoIc5",
+        "special_episodes" : [
+            "7CWfRPC38OrBmm6mfCBBIb"
+        ],
+        "plot" : {
+            "title" : "Eulen vor die Säue",
+            "filename_image" : "evds_duration.png"
+        },
+        "plot_other" : {
+            "title" : "Eulen vor die Säue Spezial",
+            "filename_image" : "evds_duration_other.png"
+        }
+        
+    },
+    "gemischtes-hack" : {
+        "download": "False",
+        "new_episodes" : [],
+        "filename_csv" : "list_episodes_metadata_gh.csv",
+        "filename_other_csv" : "list_episodes_metadata_gh_other.csv",
+        "spotify_show_id" : "7BTOsF2boKmlYr76BelijW",
+        "special_episodes" : [
+            "4mS4sjzeN9CErnXa4a6sse",
+            "5Fn1nq18i1FDszX8Svt0Rq",
+            "1Fo1syQZc61L1KNGtEpNCJ",
+            "6KOoIQfExicyCVVZJHKSzX",
+            "0bnUbX1qZ3jP9SDSXIVAhx",
+            "2g2WNcPnnLikAmliNGBYgV",
+            "0XeT9ulNqscTwCfPSVdK7Y",
+            "5ETygU0iaKqrBRpQsl5aGH",
+            "7KZHTYHfUqtyJQ0VTxAXlU",
+            "2BMk5tZtrYCmRPtWeMcJwD",
+            "2qCyfaR131IEH8jn70CE1R",
+            "4s13hiJyaMrKLJZPdjH3rD",
+            "5u7XOTUdFgCB7tgbOJhCRJ",
+            "4nLiClCoyBTtTrd8Lo3NwQ"
+        ],
+        "plot" : {
+            "title" : "Gemischtes Hack",
+            "filename_image" : "gh_duration.png"
+        },
+        "plot_other" : {
+            "title" : "Gemischtes Hack Spezial",
+            "filename_image" : "gh_duration_other.png"
+        }
+        
+    }
+}
