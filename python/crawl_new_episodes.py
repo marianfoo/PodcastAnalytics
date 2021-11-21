@@ -60,7 +60,7 @@ dict_data = {
 }
 
 def save_new_plot(csv,title,filename_image):
-    df_ff = pd.read_csv(str(Path().resolve().parent.resolve()) + '/Podcast_test/data/' + csv)
+    df_ff = pd.read_csv(str(Path().resolve().parent.resolve()) + '/PodcastAnalyticsF-F-S-S/data/' + csv)
     fig = px.bar(df_ff, x='track', y='duration_sec')
     fig.update_layout(
         title=title,
@@ -68,7 +68,7 @@ def save_new_plot(csv,title,filename_image):
         yaxis_title='duration in seconds ',
         xaxis_title='number show'
     )
-    fig.write_image(str(Path().resolve().parent.resolve()) + "/Podcast_test/docs/img/" + filename_image)
+    fig.write_image(str(Path().resolve().parent.resolve()) + "/PodcastAnalyticsF-F-S-S/docs/img/" + filename_image)
 
 
 def update_metadata(show):

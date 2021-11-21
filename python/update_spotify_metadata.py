@@ -35,9 +35,9 @@ def update_data(show_id,filename_csv,filename_csv_other,special_episodes):
     df['track'] = tracks
     df = df[['id','track','release_date','duration_sec','spotify_url','name','description']]
     print(df)
-    print(str(Path().resolve().parent.resolve()) + '/Podcast_test/data/' + filename_csv)
-    df.to_csv(str(Path().resolve().parent.resolve()) + '/Podcast_test/data/' + filename_csv, index = False, header=True)
-    df.to_csv(str(Path().resolve().parent.resolve()) + '/Podcast_test/docs/_data/' + filename_csv, index = False, header=True)
+    print(str(Path().resolve().parent.resolve()) + '/PodcastAnalyticsF-F-S-S/data/' + filename_csv)
+    df.to_csv(str(Path().resolve().parent.resolve()) + '/PodcastAnalyticsF-F-S-S/data/' + filename_csv, index = False, header=True)
+    df.to_csv(str(Path().resolve().parent.resolve()) + '/PodcastAnalyticsF-F-S-S/docs/_data/' + filename_csv, index = False, header=True)
 
     if len(episodes_other) > 0 :
         df = pd.DataFrame(episodes_other, columns = ['id', 'release_date','spotify_url', 'name','duration_sec','description'])
@@ -48,8 +48,8 @@ def update_data(show_id,filename_csv,filename_csv_other,special_episodes):
             tracks.append(index + 1)
         df['track'] = tracks
         df = df[['id','track','release_date','duration_sec','spotify_url','name','description']]
-        df.to_csv(str(Path().resolve().parent.resolve()) + '/Podcast_test/data/' + filename_csv_other, index = False, header=True)
-        df.to_csv(str(Path().resolve().parent.resolve()) + '/Podcast_test/docs/_data/' + filename_csv_other, index = False, header=True)
+        df.to_csv(str(Path().resolve().parent.resolve()) + '/PodcastAnalyticsF-F-S-S/data/' + filename_csv_other, index = False, header=True)
+        df.to_csv(str(Path().resolve().parent.resolve()) + '/PodcastAnalyticsF-F-S-S/docs/_data/' + filename_csv_other, index = False, header=True)
     
 def get_metadata(filename_csv):
     metadata = []
