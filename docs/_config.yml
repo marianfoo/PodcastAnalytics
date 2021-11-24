@@ -22,7 +22,7 @@ title: Podcast Analysen (Fest und Flauschig, Baywatch Berlin etc.)
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Übersicht über alle Episoden und Timestamps von "Fest und Flauschig", "Sanft und Sorgfältig", "Baywatch Berlin" und mehr...
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://podcast-analysen.de/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mianbsp
 twitter:
