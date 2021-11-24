@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Übersicht über alle Episoden und Timestamps von "Fest und Flauschig", "Sanft und Sorgfältig", "Baywatch Berlin" und mehr...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://podcast-analysen.de/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://podcast-analysen.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mianbsp
 twitter:
   username: "mianbsp"
@@ -36,7 +36,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-relative-links
-  - 'jekyll-sitemap'
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
