@@ -1,7 +1,9 @@
 ---
 permalink: /fest-flauschig/analyse
-layout: single
+layout: default
 title: Analyse
+parent: Fest und Flauschig
+nav_order: 1
 ---
 
 ## Länge aller Episoden

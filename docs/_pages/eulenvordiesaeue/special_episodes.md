@@ -1,7 +1,9 @@
 ---
 permalink: /eulen-vor-die-saeue/spezial-episoden
-layout: single
+layout: page
 title: Spezial Episoden
+parent: Eulen vor die Säue
+nav_order: 1
 ---
 
 <table>

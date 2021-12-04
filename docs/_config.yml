@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Podcast Analysen (Fest und Flauschig, Baywatch Berlin etc.)
+title: Podcast Analysen
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Übersicht über alle Episoden und Timestamps von "Fest und Flauschig", "Sanft und Sorgfältig", "Baywatch Berlin" und mehr...
@@ -31,7 +31,7 @@ github_username:  marianfoo/PodcastAnalyticsF-F-S-S
 locale: "de-DE"
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: pmarsceill/just-the-docs # for github pages
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -81,14 +81,6 @@ breadcrumbs: true
 
 include:
   - _pages
-collections_dir: _timestamps
-collections:
-  rubriken:
-    output: true
-    permalink: /fest-flauschig/:collection/:path/
-  jingles:
-    output: true
-    permalink: /fest-flauschig/:collection/:path/
 
 defaults:
 # _docs
@@ -96,24 +88,5 @@ defaults:
       path: ""
       type: pages
     values:
-      sidebar:
-        nav: "sidebar"
-    # rubriken
-  - scope:
-      path: ""
-      type: rubriken
-    values:
-      layout: timestamp
-      author_profile: false
-      share: false
-      sidebar:
-        nav: "sidebar"
-  - scope:
-      path: ""
-      type: jingles
-    values:
-      layout: timestamp
-      author_profile: false
-      share: false
       sidebar:
         nav: "sidebar"

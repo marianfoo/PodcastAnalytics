@@ -1,7 +1,9 @@
 ---
 permalink: /sanft-sorgfältig/analyse
-layout: single
+layout: page
 title: Analyse
+parent: Sanft und Sorgfältig
+nav_order: 1
 ---
 
 ## Länge aller Episoden

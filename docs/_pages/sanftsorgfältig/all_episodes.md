@@ -1,7 +1,9 @@
 ---
 permalink: /sanft-sorgfältig/alle-episoden
-layout: single
+layout: page
 title: Alle Episoden
+parent: Sanft und Sorgfältig
+nav_order: 1
 ---
 
 <table>

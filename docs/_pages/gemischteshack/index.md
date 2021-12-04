@@ -1,7 +1,10 @@
 ---
 permalink: /gemischtes-hack
-layout: single
+layout: page
 title: Gemischtes Hack
+name: gemischtes-hack
+has_children: true
+nav_order: 30
 ---
 
 

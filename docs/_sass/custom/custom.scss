@@ -1,0 +1,4 @@
+.remove-before *::before {
+    content: none !important;
+    margin-top: 0em
+}

@@ -1,7 +1,9 @@
 ---
 permalink: /fest-flauschig/alle-episoden
-layout: single
+layout: page
 title: Alle Episoden
+parent: Fest und Flauschig
+nav_order: 1
 ---
 
 <table>

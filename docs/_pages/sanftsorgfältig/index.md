@@ -1,7 +1,10 @@
 ---
 permalink: /sanft-sorgfältig
-layout: single
+layout: page
 title: Sanft und Sorgfältig
+name: sanft-sorgfaeltig
+has_children: true
+nav_order: 20
 ---
 
 

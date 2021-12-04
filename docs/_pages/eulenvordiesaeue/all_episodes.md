@@ -1,7 +1,9 @@
 ---
 permalink: /eulen-vor-die-saeue/alle-episoden
-layout: single
+layout: page
 title: Alle Episoden
+parent: Eulen vor die Säue
+nav_order: 1
 ---
 
 <table>

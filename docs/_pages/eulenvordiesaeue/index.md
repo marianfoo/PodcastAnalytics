@@ -1,7 +1,10 @@
 ---
 permalink: /eulen-vor-die-saeue
-layout: single
+layout: page
 title: Eulen vor die Säue
+name: evds
+has_children: true
+nav_order: 50
 ---
 
 

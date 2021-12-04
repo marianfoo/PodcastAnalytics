@@ -1,7 +1,10 @@
 ---
 permalink: /fest-flauschig
-layout: single
+layout: default
 title: Fest und Flauschig
+name: fest-flauschig
+has_children: true
+nav_order: 10
 ---
 
 

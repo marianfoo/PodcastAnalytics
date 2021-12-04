@@ -1,7 +1,9 @@
 ---
 permalink: /eulen-vor-die-saeue/analyse
-layout: single
+layout: page
 title: Analyse
+parent: Eulen vor die Säue
+nav_order: 1
 ---
 
 ## Länge aller Episoden

@@ -1,7 +1,9 @@
 ---
 permalink: /baywatch-berlin/spezial-episoden
-layout: single
+layout: page
 title: Spezial Episoden
+parent: Baywatch Berlin
+nav_order: 1
 ---
 
 <table>

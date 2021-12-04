@@ -1,7 +1,9 @@
 ---
 permalink: /gemischtes-hack/spezial-episoden
-layout: single
+layout: page
 title: Spezial Episoden
+parent: Gemischtes Hack
+nav_order: 1
 ---
 
 <table>

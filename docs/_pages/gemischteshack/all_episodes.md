@@ -1,7 +1,9 @@
 ---
 permalink: /gemischtes-hack/alle-episoden
-layout: single
+layout: page
 title: Alle Episoden
+parent: Gemischtes Hack
+nav_order: 1
 ---
 
 <table>

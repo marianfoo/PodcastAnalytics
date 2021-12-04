@@ -1,7 +1,9 @@
 ---
 permalink: /gemischtes-hack/analyse
-layout: single
+layout: page
 title: Analyse
+parent: Gemischtes Hack
+nav_order: 1
 ---
 
 ## Länge aller Episoden

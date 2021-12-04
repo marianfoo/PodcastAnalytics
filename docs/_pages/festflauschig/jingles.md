@@ -1,6 +1,8 @@
 ---
 permalink: /fest-flauschig/jingles/
-layout: collection
+layout: default
 collection: jingles
 title: Jingles
+parent: Fest und Flauschig
+has_children: true
 ---

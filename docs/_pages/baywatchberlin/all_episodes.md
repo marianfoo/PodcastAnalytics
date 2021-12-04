@@ -1,7 +1,9 @@
 ---
 permalink: /baywatch-berlin/alle-episoden
-layout: single
+layout: page
 title: Alle Episoden
+parent: Baywatch Berlin
+nav_order: 1
 ---
 
 <table>

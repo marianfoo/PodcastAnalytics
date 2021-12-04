@@ -1,7 +1,9 @@
 ---
 permalink: /baywatch-berlin/analyse
-layout: single
+layout: page
 title: Analyse
+parent: Baywatch Berlin
+nav_order: 1
 ---
 
 ## Länge aller Episoden
