@@ -10,19 +10,19 @@ layout: default
         {% for row in items_grouped %}
           {% if forloop.first %}
           <tr>
-              <th>Num.</th>
-              <th>Titel</th>
-              <th style="word-wrap: break-word;max-width: 100px;">Timestamps</th>
+              <th class="tableColumnNum">Num.</th>
+              <th class="tableColumnTitle">Titel</th>
+              <th class="tableColumnTimestamps">Timestamps</th>
           </tr>
           {% endif %}
           <tr>
-          <td markdown="span">{{ row['name'] }}</td>
+          <td markdown="span" class="tableColumnNum">{{ row['name'] }}</td>
             {% for row in row.items %}
               {% if forloop.first %}
-              <td markdown="span"  style="word-wrap: break-word;max-width: 100px;">{{ row['name']| slice: 0,30  }}</td>
+              <td markdown="span"  class="tableColumnTitle">{{ row['name']}}</td>
               {% endif %}
             {% endfor %}
-            <td markdown="span">
+            <td markdown="span" class="tableColumnTimestamps">
             {% for row in row.items %}
             <br>
             <a href="https://open.spotify.com/episode/{{ row['id'] }}?t={{ row['duration_total_min'] | round }}">{{ row['duration_min'] }} Minuten / {{ row['duration_sec'] }} Sekunden</a>

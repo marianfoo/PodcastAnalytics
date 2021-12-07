@@ -2,3 +2,29 @@
     content: none !important;
     margin-top: 0em
 }
+
+// new css class with name maxwidhtcolum table column class with max width of 50px with important
+.tableColumnNum {
+    width: 50px !important;
+    min-width: unset !important;
+}
+.tableColumnTitle {
+    width: 50px !important;
+    min-width: unset !important;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 150px;
+}
+.tableColumnTimestamps {
+    width: 50px !important;
+    min-width: unset !important;
+}
+.tableColumnTitleAllEpisodes {
+    min-width: unset !important;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 250px;
+}
+
