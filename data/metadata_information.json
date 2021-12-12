@@ -23,7 +23,9 @@
         },
         "samples" : {
             "jakobsigh" : {
-                "path" : "snippets/bwb/jakobsigh.wav",
+                "csv" : "timestamps_jakobsigh.csv",
+                "type" : "other",
+                "path" : "C:/Users/maria/Documents/festflauschig/jupyter/snippets/bwb/jakobsigh.wav",
                 "threshold" : 20,
                 "gap" : 10000,
                 "sub_path" : "bwb/"
@@ -38,7 +40,6 @@
         "path_small" : "G:/festflauschig/small_new/",
         "path_wav" : "G:/festflauschig/wav_new/", 
         "filename_csv" : "list_episodes_metadata_ff.csv",
-        "filename_other_csv" : "list_episodes_metadata_ff_other.csv",
         "spotify_show_id" : "1OLcQdw2PFDPG1jo3s0wbp",
         "special_episodes" : [
         ],
@@ -52,67 +53,113 @@
         },
         "samples" : {
             "diegrossen5" : {
+                "csv" : "timestamps_diegrossen5.csv",
+                "type" : "rubriken",
                 "path" : "snippets/diegrossen5.wav",
                 "threshold" : 100,
                 "gap" : 1000000,
                 "sub_path" : "rubriken/"
             },
             "wendler1" : {
+                "csv" : "timestamps_wendler1.csv",
+                "type" : "jingles",
                 "path" : "snippets/wendler1.wav",
                 "threshold" : 1000,
                 "gap" :1000000,
                 "sub_path" : "jingles/"
             },
             "deutschlandwirdrasiert" : {
+                "csv" : "timestamps_deutschlandwirdrasiert.csv",
+                "type" : "jingles",
                 "path" : "snippets/deutschlandwirdrasiert.wav",
                 "threshold" : 1000,
                 "gap": 1000000,
                 "sub_path" : "jingles/"
             },
             "dummheitkenntkeinegrenzen" : {
+                "csv" : "timestamps_dummheitkenntkeinegrenzen.csv",
+                "type" : "jingles",
                 "path" : "snippets/dummheitkenntkeinegrenzen.wav",
                 "threshold" : 300,
                 "gap": 1000000,
                 "sub_path" : "jingles/"
             },
             "fraumagdiecliquenicht" : {
+                "csv" : "timestamps_fraumagdiecliquenicht.csv",
+                "type" : "jingles",
                 "path" : "snippets/fraumagdiecliquenicht.wav",
                 "threshold" : 500,
                 "gap": 1000000,
                 "sub_path" : "jingles/"
             },
             "tiere_dies_geschafft_haben" : {
+                "csv" : "timestamps_tiere_dies_geschafft_haben.csv",
+                "type" : "rubriken",
                 "path" : "snippets/tiere_dies_geschafft_haben.wav",
                 "threshold" : 1000,
                 "gap": 1000000,
                 "sub_path" : "rubriken/"
             },
             "hausboot" : {
+                "csv" : "timestamps_hausboot.csv",
+                "type" : "rubriken",
                 "path" : "snippets/hausboot.wav",
                 "threshold" : 400,
                 "gap": 1000000,
                 "sub_path" : "jingles/"
             },
             "jinge_hinauslaufen" : {
+                "csv" : "timestamps_jinge_hinauslaufen.csv",
+                "type" : "jingles",
                 "path" : "snippets/jinge_hinauslaufen.wav",
                 "threshold" : 200,
                 "gap": 1000000,
                 "sub_path" : "jingles/"
             },
             "jennyelvers" : {
+                "csv" : "timestamps_jennyelvers.csv",
+                "type" : "jingles",
                 "path" : "snippets/jennyelvers.wav",
                 "threshold" : 400,
                 "gap": 1000000,
                 "sub_path" : "jingles/"
             },
             "partyhopping" : {
+                "csv" : "timestamps_partyhopping.csv",
+                "type" : "rubriken",
                 "path" : "snippets/partyhopping.wav",
                 "threshold" : 2000,
                 "gap" :1000000,
                 "sub_path" : "rubriken/"
+            },
+            "traeumerschlauma" : {
+                "csv" : "timestamps_traeumerschlauma.csv",
+                "type" : "jingles",
+                "path" : "snippets/traeumerschlauma.wav",
+                "threshold" : 1000,
+                "gap": 1000000,
+                "sub_path" : "jingles/"
+            },
+            "elmshorn" : {
+                "csv" : "timestamps_elmshorn.csv",
+                "type" : "jingles",
+                "path" : "snippets/elmshorn.wav",
+                "threshold" : 1000,
+                "gap": 1000000,
+                "sub_path" : "jingles/"
             }
         }
 
+        
+    },
+    "sanftsorgfaeltig" : {
+        "download": "False",
+        "new_episodes" : [],
+        "filename_csv" : "list_episodes_metadata_ss.csv",
+        "plot" : {
+            "title" : "Sanft und Sorgfältig",
+            "filename_image" : "ss_duration.png"
+        }
         
     },
     "evds" : {

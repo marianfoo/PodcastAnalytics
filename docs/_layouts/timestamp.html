@@ -6,7 +6,7 @@ layout: default
 <p class="label label-yellow"><strong>Achtung!</strong> Bei den Spotify Links können die Timestamps minimal abweichen.</p>
 
 <table style="display: table;">
-      {% assign items_grouped = site.data[page.type_csv][page.csv_name] | group_by: 'track' %}
+      {% assign items_grouped = site.data[page.type_csv][page.csv_name] | where:"found","True" | group_by: 'track'   %}
         {% for row in items_grouped %}
           {% if forloop.first %}
           <tr>
@@ -24,8 +24,8 @@ layout: default
             {% endfor %}
             <td markdown="span" class="tableColumnTimestamps">
             {% for row in row.items %}
-            <br>
-            <a href="https://open.spotify.com/episode/{{ row['id'] }}?t={{ row['duration_total_min'] | round }}">{{ row['duration_min'] }} Minuten / {{ row['duration_sec'] }} Sekunden</a>
+              <br>
+              <a href="https://open.spotify.com/episode/{{ row['id'] }}?t={{ row['duration_total_min'] | round }}">{{ row['duration_min'] }} Minuten / {{ row['duration_sec'] }} Sekunden</a>
             {% endfor %}
             </td>
         </tr>
