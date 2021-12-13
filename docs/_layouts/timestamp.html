@@ -25,7 +25,7 @@ layout: default
             <td markdown="span" class="tableColumnTimestamps">
             {% for row in row.items %}
               <br>
-              <a href="https://open.spotify.com/episode/{{ row['id'] }}?t={{ row['duration_total_min'] | round }}">{{ row['duration_min'] }} Minuten / {{ row['duration_sec'] }} Sekunden</a>
+              <a href="https://open.spotify.com/episode/{{ row['id'] }}?t={{ row['duration_total_min'] | round }}">{{ row['duration_min'] | round  }} Minuten / {{ row['duration_sec'] | round  }} Sekunden</a>
             {% endfor %}
             </td>
         </tr>
