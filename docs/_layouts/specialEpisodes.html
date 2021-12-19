@@ -14,7 +14,7 @@ layout: default
       </tr>
       {% endif %}
           {% assign row = episodes[1] %}
-          {% if row['show_in_all'] == true  %}
+          {% if row['tags'][page.tagName] == false or row['tags'][page.tagName] == true %}
               <tr>
               <td markdown="span" class="tableColumnNum">{{ row['track'] }}</td>
                   {% if  row['spotify_url'] != null and  row['spotify_url'] != "" %}
