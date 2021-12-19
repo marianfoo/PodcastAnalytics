@@ -7,6 +7,6 @@ title: Übersicht über alle Podcasts
 nav_exclude: true
 ---
 
-Wenn dir Fehler aufgefallen sind, du weitere Analysen/Rubriken/Jingles hinzugefügt haben möchtest oder weitere Anregungen hast, schreibe mir einfach auf [Twitter](https://twitter.com/mianbsp){:target="_blank" rel="noopener"} oder [erstelle ein Issue auf Github](https://github.com/marianfoo/PodcastAnalyticsF-F-S-S/issues){:target="_blank" rel="noopener"}.
+Wenn dir Fehler aufgefallen sind, du weitere Analysen/Rubriken/Jingles hinzugefügt haben möchtest oder weitere Anregungen hast, schreibe mir einfach auf [Twitter](https://twitter.com/mianbsp){:target="_blank" rel="noopener"} oder [erstelle ein Issue auf Github](https://github.com/marianfoo/PodcastAnalytics/issues){:target="_blank" rel="noopener"}.
 
-Alle Rohdaten die hier dargestellt werden sind auch [auf Github vorhanden](https://github.com/marianfoo/PodcastAnalyticsF-F-S-S/tree/main/data){:target="_blank" rel="noopener"}.
+Alle Rohdaten die hier dargestellt werden sind auch [auf Github vorhanden](https://github.com/marianfoo/PodcastAnalytics/tree/main/data){:target="_blank" rel="noopener"}.
