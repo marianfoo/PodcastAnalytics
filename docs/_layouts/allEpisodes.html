@@ -4,6 +4,7 @@ layout: default
 {{ content }}
 
 <table>
+{% assign track = 1 %}
   {% for episodes in site.data.data[page.metadataName]['all_episodes'] %}
       {% if forloop.first %}
       <tr>
@@ -16,7 +17,7 @@ layout: default
           {% assign row = episodes[1] %}
           {% if row['show_in_all'] == true  %}
               <tr>
-              <td markdown="span" class="tableColumnNum">{{ row['track'] }}</td>
+              <td markdown="span" class="tableColumnNum">{{ track }}</td>
                   {% if  row['spotify_url'] != null and  row['spotify_url'] != "" %}
                   <td markdown="span" class="tableColumnTitleAllEpisodes"><a href="{{ row['spotify_url'] }}">{{ row['name'] }}</a></td>
                   {% else %}
@@ -42,5 +43,6 @@ layout: default
               <td markdown="span">{{ row['duration_sec'] | divided_by: 60.00 | round }}</td>
               </tr>
           {% endif %}
+    {% assign track = track | plus: 1 %}
   {% endfor %}
 </table>

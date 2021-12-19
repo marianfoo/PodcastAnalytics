@@ -4,6 +4,7 @@ layout: default
 {{ content }}
 
 <table>
+{% assign track = 1 %}
   {% for episodes in site.data.data[page.metadataName]['all_episodes'] %}
       {% if forloop.first %}
       <tr>
@@ -42,5 +43,6 @@ layout: default
               <td markdown="span">{{ row['duration_sec'] | divided_by: 60.00 | round }}</td>
               </tr>
           {% endif %}
+    {% assign track = track | plus: 1 %}
   {% endfor %}
 </table>
