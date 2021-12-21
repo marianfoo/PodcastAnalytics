@@ -5,4 +5,5 @@ title: Alle Episoden
 parent: Gemischtes Hack
 nav_order: 1
 metadataName: gemischtes-hack
+has_children: true
 ---
