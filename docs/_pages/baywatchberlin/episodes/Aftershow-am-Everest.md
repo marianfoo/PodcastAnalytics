@@ -28,7 +28,7 @@ nav_order: 5
 ## Beschreibung der Folge
 
 <div>
-Baywatch Berlin<br>Sex, Crime, SPD und Paarbeziehungen sind auch diese Woche kein Thema bei „Baywatch Berlin“. Dafür werden die elementare Fragen der Menschheit gestellt und mit dem gewohnten Mix aus Schreierei und wirren Reden halbwegs beantwortet:  Darf man randalierende Besoffene auf dem Weihnachtsmarkt erschießen?  Wieviel Kritik muss ein Starmoderator hinnehmen?   Welche geheime Leidenschaft teilen Schmitt und der Rapper Casper?  Darf ein Ankündigungstext nur aus vielen Fragen bestehen und wo hat Klaas Heufer-Umlauf eigentlich seinen Mercedes verbummelt?  Das alles in Folge 4 „Aftershow am Everest“. Out now?<br><br>Alle Infos und Rabatte zu unseren Werbepartnern unter <a href="https://linktr.ee/BaywatchBerlin">https://linktr.ee/BaywatchBerlin</a>  
+Baywatch Berlin <br> Sex, Crime, SPD und Paarbeziehungen sind auch diese Woche kein Thema bei „Baywatch Berlin“. Dafür werden die elementare Fragen der Menschheit gestellt und mit dem gewohnten Mix aus Schreierei und wirren Reden halbwegs beantwortet:  Darf man randalierende Besoffene auf dem Weihnachtsmarkt erschießen?  Wieviel Kritik muss ein Starmoderator hinnehmen?   Welche geheime Leidenschaft teilen Schmitt und der Rapper Casper?  Darf ein Ankündigungstext nur aus vielen Fragen bestehen und wo hat Klaas Heufer-Umlauf eigentlich seinen Mercedes verbummelt?  Das alles in Folge 4 „Aftershow am Everest“. Out now? <br>  <br> Alle Infos und Rabatte zu unseren Werbepartnern unter <a href="https://linktr.ee/BaywatchBerlin">https://linktr.ee/BaywatchBerlin</a>  
 </div>
 
 ***
