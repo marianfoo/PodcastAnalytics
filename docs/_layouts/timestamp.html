@@ -10,22 +10,22 @@ layout: default
         {% for row in items_grouped %}
           {% if forloop.first %}
           <tr>
-              <th class="tableColumnNum">Num.</th>
-              <th class="tableColumnTitle">Titel</th>
-              <th class="tableColumnTimestamps">Timestamps</th>
+              <th class="tableCustom tableColumnLength">Num.</th>
+              <th class="tableCustom tableColumnTitleAllEpisodes">Titel</th>
+              <th class="tableCustom tableColumnLength">Timestamps</th>
           </tr>
           {% endif %}
           <tr>
-          <td markdown="span" class="tableColumnNum">{{ row['name'] }}</td>
+          <td markdown="span" class="tableCustom tableColumnLength">{{ row['name'] }}</td>
             {% for row in row.items %}
               {% if forloop.first %}
-              <td markdown="span"  class="tableColumnTitle">{{ row['name']}}</td>
+              <td markdown="span"  class="tableCustom tableColumnTitleAllEpisodes">{{ row['name']}}</td>
               {% endif %}
             {% endfor %}
-            <td markdown="span" class="tableColumnTimestamps">
+            <td markdown="span" class="tableCustom tableColumnLength">
             {% for row in row.items %}
               <br>
-              <a href="https://open.spotify.com/episode/{{ row['id'] }}?t={{ row['duration_total_min'] | round }}">{{ row['duration_min'] | round  }} Minuten / {{ row['duration_sec'] | round  }} Sekunden</a>
+              <a href="https://open.spotify.com/episode/{{ row['id'] }}?t={{ row['duration_total_min'] | round }}">{{ row['duration_min'] | round  }} Min./{{ row['duration_sec'] | round  }} Sek.</a>
             {% endfor %}
             </td>
         </tr>

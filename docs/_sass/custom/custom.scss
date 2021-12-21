@@ -3,9 +3,15 @@
     margin-top: 0em
 }
 
+.tableCustom {
+    padding-left: 2px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
 // new css class with name maxwidhtcolum table column class with max width of 50px with important
-.tableColumnNum {
-    width: 50px !important;
+.tableColumnLength {
+    width: 1px !important;
     min-width: unset !important;
 }
 .tableColumnTitle {
@@ -25,6 +31,6 @@
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
-    max-width: 250px;
+    max-width: 11vw;
 }
 

@@ -8,22 +8,22 @@ layout: default
   {% for episodes in site.data.data[page.metadataName]['all_episodes'] %}
       {% if forloop.first %}
       <tr>
-          <th class="tableColumnNum">Num.</th>
-          <th class="tableColumnTitleAllEpisodes">Titel</th>
-          <th>Datum</th>
-          <th>Länge in Minuten</th>
+          <th class="tableCustom tableColumnLength">Num.</th>
+          <th class="tableCustom tableColumnTitleAllEpisodes">Titel</th>
+          <th class="tableCustom tableColumnLength">Datum</th>
+          <th class="tableCustom tableColumnLength">Min.</th>
       </tr>
       {% endif %}
           {% assign row = episodes[1] %}
           {% if row['tags'][page.tagName] == false or row['tags'][page.tagName] == true %}
               <tr>
-              <td markdown="span" class="tableColumnNum">{{ row['track'] }}</td>
+              <td markdown="span" class="tableCustom tableColumnLength">{{ row['track'] }}</td>
                   {% if  row['spotify_url'] != null and  row['spotify_url'] != "" %}
-                  <td markdown="span" class="tableColumnTitleAllEpisodes"><a href="{{ row['spotify_url'] }}">{{ row['name'] }}</a></td>
+                  <td markdown="span" class="tableCustom tableColumnTitleAllEpisodes"><a href="{{ row['spotify_url'] }}">{{ row['name'] }}</a></td>
                   {% else %}
-                  <td markdown="span" class="tableColumnTitleAllEpisodes">{{ row['name'] }}</td>
+                  <td markdown="span" class="tableCustom tableColumnTitleAllEpisodes">{{ row['name'] }}</td>
                   {% endif %}
-              <td markdown="span" style="white-space: nowrap;overflow: hidden;text-overflow:ellipsis;">
+              <td markdown="span" class="tableCustom tableColumnLength" style="white-space: nowrap;overflow: hidden;text-overflow:ellipsis;">
                               {{ row['release_date'] | date: "%-d." }}{% assign month = row['release_date'] | date: '%-m' %}
                           {% case month %}
                           {% when '1' %}Jan.
@@ -40,7 +40,7 @@ layout: default
                           {% when '12' %}Dez.
                           {% endcase %}{{ row['release_date'] | date: "%Y" }}
               </td>
-              <td markdown="span">{{ row['duration_sec'] | divided_by: 60.00 | round }}</td>
+              <td class="tableCustom tableColumnLength" markdown="span">{{ row['duration_sec'] | divided_by: 60.00 | round }}</td>
               </tr>
           {% endif %}
     {% assign track = track | plus: 1 %}
