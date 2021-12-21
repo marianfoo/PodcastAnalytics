@@ -6,10 +6,15 @@ on:
     schedule:
       - cron: '0 0 * * *' # runs every day at 8
 
+env:
+  LANG: "de_DE.UTF-8"
+  LANGUAGE: "de_DE:en"
+  LC_ALL: "de_DE.UTF-8"
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  build:
+  updateMetaData:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     permissions:
@@ -26,6 +31,11 @@ jobs:
         env:
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+      - name: Set locales
+        run: |
+          sudo locale-gen ${{ env.LANG }}
+          sudo update-locale LANG=${{ env.LANG }}
+      - run: python python/create_episode_pages.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: action - update episodes from spotify

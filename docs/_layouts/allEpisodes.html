@@ -16,10 +16,10 @@ layout: default
       {% endif %}
           {% assign row = episodes[1] %}
           {% if row['show_in_all'] == true  %}
-              <tr>
-              <td markdown="span" class="tableCustom tableColumnLength">{{ track }}</td>
+              <tr  style="cursor: pointer;"  onclick="window.location='episoden/{{ row['internal_url'] }}'">
+              <td markdown="span" class="tableColumnNum">{{ track }}</td>
                   {% if  row['spotify_url'] != null and  row['spotify_url'] != "" %}
-                  <td markdown="span" class="tableCustom tableColumnTitleAllEpisodes"><a href="{{ row['spotify_url'] }}">{{ row['name'] }}</a></td>
+                  <td markdown="span" class="tableColumnTitleAllEpisodes"><a href="episoden/{{ row['internal_url'] }}">{{ row['name'] }}</a></td>
                   {% else %}
                   <td markdown="span" class="tableCustom tableColumnTitleAllEpisodes">{{ row['name'] }}</td>
                   {% endif %}

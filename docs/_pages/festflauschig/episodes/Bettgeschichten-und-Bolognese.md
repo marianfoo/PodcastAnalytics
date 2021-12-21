@@ -1,0 +1,49 @@
+---
+title: Bettgeschichten und Bolognese
+layout: page
+permalink: /fest-flauschig/episoden/Bettgeschichten-und-Bolognese
+parent: Alle Episoden
+grand_parent: Fest und Flauschig
+nav_order: 281
+---
+
+# Bettgeschichten und Bolognese
+<table class="resp-table dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
+                    <tbody>
+                        <tr>
+                            <th scope="row">Veröffentlich am:</th>
+                            <td data-label="Veröffentlich am:">14. November 2020</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Länge </th>
+                            <td data-label="Länge ">56 Minuten</td>
+                        </tr><tr>
+                                <th scope="row">Spotify Link</th>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/4AUWpgpnwliozXZ7sAH6OD">Spotify Link</a></td>
+                            </tr></tbody>
+                </table>
+
+***
+
+## Beschreibung der Folge
+
+<div>
+<p>Haltet Hack, Sellerie und Katzenstreu bereit - die Male Models Jan und Olli sind zurück. Diesmal neben Küchengeschichten auch mit tiefen Einblicken in Bett- und Kissengewohnheiten. Außerdem ruft eine gute Bekannte (und Yogalehrerin!) an.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>  
+</div>
+
+***
+
+## Gefundene Jingles
+
+<table style="display: table;">
+                                    <tr>
+                                        <th class="tableColumnTitle">Titel</th>
+                                        <th class="tableColumnTimestamps">Timestamps</th>
+                                    </tr>
+                                    <tr>
+                                <td markdown="span"  class="tableColumnTitle">wendler1</td>
+                                <td markdown="span" class="tableColumnTimestamps">
+                                <br>
+                                <a href="https://open.spotify.com/episode/4AUWpgpnwliozXZ7sAH6OD?t=1128">
+                                18 Minuten / 48 Sekunden</a>
+                                </td></tr></table>
