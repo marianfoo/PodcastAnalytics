@@ -1,9 +1,7 @@
 ---
 title: Kurt Cobain im Outlet-Center
-layout: page
 permalink: /baywatch-berlin/episoden/Kurt-Cobain-im-Outlet-Center
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 7
 ---
 

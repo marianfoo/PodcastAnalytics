@@ -1,9 +1,7 @@
 ---
 title: #56 ALLES ALBERN
-layout: page
 permalink: /gemischtes-hack/episoden/56-ALLES-ALBERN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 56
 ---
 

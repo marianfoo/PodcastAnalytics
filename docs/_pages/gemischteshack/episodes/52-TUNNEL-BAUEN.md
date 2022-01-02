@@ -1,9 +1,7 @@
 ---
 title: #52 TUNNEL BAUEN
-layout: page
 permalink: /gemischtes-hack/episoden/52-TUNNEL-BAUEN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 52
 ---
 

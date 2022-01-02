@@ -1,9 +1,7 @@
 ---
 title: #82 SCHWINDIGKEIT
-layout: page
 permalink: /gemischtes-hack/episoden/82-SCHWINDIGKEIT
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 82
 ---
 

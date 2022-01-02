@@ -1,9 +1,7 @@
 ---
 title: ne Sieben auf der Bristol-Skala
-layout: page
 permalink: /fest-flauschig/episoden/ne-Sieben-auf-der-Bristol-Skala
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 352
 ---
 

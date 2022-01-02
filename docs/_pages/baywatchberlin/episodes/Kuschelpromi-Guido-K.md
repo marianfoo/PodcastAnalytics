@@ -1,9 +1,7 @@
 ---
 title: Kuschelpromi Guido K.
-layout: page
 permalink: /baywatch-berlin/episoden/Kuschelpromi-Guido-K
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 98
 ---
 

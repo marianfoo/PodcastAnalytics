@@ -1,9 +1,7 @@
 ---
 title: Revenge of the Euromaus
-layout: page
 permalink: /baywatch-berlin/episoden/Revenge-of-the-Euromaus
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 13
 ---
 

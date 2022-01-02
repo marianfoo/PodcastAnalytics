@@ -1,9 +1,7 @@
 ---
 title: #78 STEVE ALTER
-layout: page
 permalink: /gemischtes-hack/episoden/78-STEVE-ALTER
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 78
 ---
 

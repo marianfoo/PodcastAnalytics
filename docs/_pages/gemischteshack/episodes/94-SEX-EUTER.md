@@ -1,9 +1,7 @@
 ---
 title: #94 SEX-EUTER
-layout: page
 permalink: /gemischtes-hack/episoden/94-SEX-EUTER
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 94
 ---
 

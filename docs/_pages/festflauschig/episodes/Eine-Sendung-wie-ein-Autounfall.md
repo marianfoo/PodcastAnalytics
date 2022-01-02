@@ -1,9 +1,7 @@
 ---
 title: Eine Sendung wie ein Autounfall
-layout: page
 permalink: /fest-flauschig/episoden/Eine-Sendung-wie-ein-Autounfall
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 179
 ---
 

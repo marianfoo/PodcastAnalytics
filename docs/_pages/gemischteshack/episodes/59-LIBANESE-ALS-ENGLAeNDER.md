@@ -1,9 +1,7 @@
 ---
 title: #59 LIBANESE ALS ENGLÄNDER
-layout: page
 permalink: /gemischtes-hack/episoden/59-LIBANESE-ALS-ENGLAeNDER
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 59
 ---
 

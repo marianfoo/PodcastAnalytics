@@ -1,9 +1,7 @@
 ---
 title: Keine Risikobegegnung in den nächsten acht Wochen
-layout: page
 permalink: /fest-flauschig/episoden/Keine-Risikobegegnung-in-den-naechsten-acht-Wochen
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 339
 ---
 

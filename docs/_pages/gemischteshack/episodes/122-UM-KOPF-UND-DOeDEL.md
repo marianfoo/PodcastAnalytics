@@ -1,9 +1,7 @@
 ---
 title: #122 UM KOPF UND DÖDEL
-layout: page
 permalink: /gemischtes-hack/episoden/122-UM-KOPF-UND-DOeDEL
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 133
 ---
 

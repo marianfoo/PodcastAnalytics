@@ -1,9 +1,7 @@
 ---
 title: Die drei von der Riptide
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Die-drei-von-der-Riptide
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 32
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #39 WENIGER APPLAUS
-layout: page
 permalink: /gemischtes-hack/episoden/39-WENIGER-APPLAUS
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 39
 ---
 

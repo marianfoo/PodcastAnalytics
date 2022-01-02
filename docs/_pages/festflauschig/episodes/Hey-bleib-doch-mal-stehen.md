@@ -1,9 +1,7 @@
 ---
 title: Hey, bleib doch mal stehen!
-layout: page
 permalink: /fest-flauschig/episoden/Hey-bleib-doch-mal-stehen
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 153
 ---
 

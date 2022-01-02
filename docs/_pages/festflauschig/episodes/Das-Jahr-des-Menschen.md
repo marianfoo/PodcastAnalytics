@@ -1,9 +1,7 @@
 ---
 title: Das Jahr des Menschen
-layout: page
 permalink: /fest-flauschig/episoden/Das-Jahr-des-Menschen
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 81
 ---
 

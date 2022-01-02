@@ -1,9 +1,7 @@
 ---
 title: Schmitt gönnt Jesus
-layout: page
 permalink: /baywatch-berlin/episoden/Schmitt-goennt-Jesus
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 58
 ---
 

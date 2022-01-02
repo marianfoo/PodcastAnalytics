@@ -1,9 +1,7 @@
 ---
 title: Olli & Jan loben sich gegenseitig
-layout: page
 permalink: /sanft-sorgfältig/episoden/Olli-und-Jan-loben-sich-gegenseitig
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 51
 ---
 

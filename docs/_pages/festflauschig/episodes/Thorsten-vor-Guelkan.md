@@ -1,9 +1,7 @@
 ---
 title: Thorsten vor Gülkan
-layout: page
 permalink: /fest-flauschig/episoden/Thorsten-vor-Guelkan
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 60
 ---
 

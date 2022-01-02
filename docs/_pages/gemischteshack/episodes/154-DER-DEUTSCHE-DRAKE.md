@@ -1,9 +1,7 @@
 ---
 title: #154 DER DEUTSCHE DRAKE
-layout: page
 permalink: /gemischtes-hack/episoden/154-DER-DEUTSCHE-DRAKE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 167
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Die Relativität des Glücks
-layout: page
 permalink: /sanft-sorgfältig/episoden/Die-Relativitaet-des-Gluecks
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 2
 ---
 

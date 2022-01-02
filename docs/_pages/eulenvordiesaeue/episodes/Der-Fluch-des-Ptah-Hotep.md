@@ -1,9 +1,7 @@
 ---
 title: Der Fluch des Ptah-Hotep
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Der-Fluch-des-Ptah-Hotep
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 54
 ---
 

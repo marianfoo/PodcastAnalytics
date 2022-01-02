@@ -1,9 +1,7 @@
 ---
 title: Tomorrow Belongs To Me
-layout: page
 permalink: /fest-flauschig/episoden/Tomorrow-Belongs-To-Me
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 104
 ---
 

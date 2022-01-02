@@ -1,9 +1,7 @@
 ---
 title: #75 WIR MACHEN GEILERES PAPIER
-layout: page
 permalink: /gemischtes-hack/episoden/75-WIR-MACHEN-GEILERES-PAPIER
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 75
 ---
 

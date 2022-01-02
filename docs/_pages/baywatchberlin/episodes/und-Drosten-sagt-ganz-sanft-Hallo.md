@@ -1,9 +1,7 @@
 ---
 title: ...und Drosten sagt ganz sanft „Hallo.“
-layout: page
 permalink: /baywatch-berlin/episoden/und-Drosten-sagt-ganz-sanft-Hallo
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 49
 ---
 

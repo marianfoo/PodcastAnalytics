@@ -1,9 +1,7 @@
 ---
 title: Technischer Fortschritt
-layout: page
 permalink: /fest-flauschig/episoden/Technischer-Fortschritt
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 11
 ---
 

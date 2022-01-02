@@ -1,9 +1,7 @@
 ---
 title: Haftbefehl vom Bofrostmann
-layout: page
 permalink: /baywatch-berlin/episoden/Haftbefehl-vom-Bofrostmann
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 85
 ---
 

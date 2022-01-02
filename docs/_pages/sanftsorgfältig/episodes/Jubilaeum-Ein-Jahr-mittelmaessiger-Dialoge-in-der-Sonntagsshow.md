@@ -1,9 +1,7 @@
 ---
 title: Jubiläum Ein Jahr mittelmäßiger Dialoge in der Sonntagsshow
-layout: page
 permalink: /sanft-sorgfältig/episoden/Jubilaeum-Ein-Jahr-mittelmaessiger-Dialoge-in-der-Sonntagsshow
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 25
 ---
 

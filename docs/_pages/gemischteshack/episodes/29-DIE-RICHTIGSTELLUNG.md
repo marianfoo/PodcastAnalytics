@@ -1,9 +1,7 @@
 ---
 title: #29 DIE RICHTIGSTELLUNG
-layout: page
 permalink: /gemischtes-hack/episoden/29-DIE-RICHTIGSTELLUNG
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 29
 ---
 

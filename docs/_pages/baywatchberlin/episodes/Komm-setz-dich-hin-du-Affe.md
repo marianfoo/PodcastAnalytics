@@ -1,9 +1,7 @@
 ---
 title: „Komm setz dich hin, du Affe!“
-layout: page
 permalink: /baywatch-berlin/episoden/Komm-setz-dich-hin-du-Affe
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 39
 ---
 

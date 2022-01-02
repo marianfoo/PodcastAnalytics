@@ -1,9 +1,7 @@
 ---
 title: Am toten Punkt
-layout: page
 permalink: /fest-flauschig/episoden/Am-toten-Punkt
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 114
 ---
 

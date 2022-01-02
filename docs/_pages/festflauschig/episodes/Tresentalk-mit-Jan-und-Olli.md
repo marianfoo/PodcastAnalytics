@@ -1,9 +1,7 @@
 ---
 title: Tresentalk mit Jan & Olli
-layout: page
 permalink: /fest-flauschig/episoden/Tresentalk-mit-Jan-und-Olli
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 283
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #69 KENNST DOCH DIE BRÜDER
-layout: page
 permalink: /gemischtes-hack/episoden/69-KENNST-DOCH-DIE-BRUeDER
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 69
 ---
 

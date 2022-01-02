@@ -1,9 +1,7 @@
 ---
 title: Endstation TV Podcast
-layout: page
 permalink: /baywatch-berlin/episoden/Endstation-TV-Podcast
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 17
 ---
 

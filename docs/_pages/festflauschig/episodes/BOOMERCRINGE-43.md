@@ -1,9 +1,7 @@
 ---
 title: #BOOMERCRINGE 43
-layout: page
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-43
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 357
 ---
 

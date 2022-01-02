@@ -1,9 +1,7 @@
 ---
 title: #138 KACKI AM UNTERARM
-layout: page
 permalink: /gemischtes-hack/episoden/138-KACKI-AM-UNTERARM
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 151
 ---
 

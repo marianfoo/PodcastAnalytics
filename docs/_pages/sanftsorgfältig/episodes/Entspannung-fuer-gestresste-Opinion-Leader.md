@@ -1,9 +1,7 @@
 ---
 title: Entspannung für gestresste Opinion Leader
-layout: page
 permalink: /sanft-sorgfältig/episoden/Entspannung-fuer-gestresste-Opinion-Leader
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 5
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Das Leben entrümpeln
-layout: page
 permalink: /sanft-sorgfältig/episoden/Das-Leben-entruempeln
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 62
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #17 MITTEN IN DER NACHT
-layout: page
 permalink: /gemischtes-hack/episoden/17-MITTEN-IN-DER-NACHT
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 17
 ---
 

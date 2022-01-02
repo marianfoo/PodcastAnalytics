@@ -1,9 +1,7 @@
 ---
 title: Liebe auf sehr lange Distanz
-layout: page
 permalink: /fest-flauschig/episoden/Liebe-auf-sehr-lange-Distanz
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 125
 ---
 

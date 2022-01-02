@@ -1,9 +1,7 @@
 ---
 title: Blue Jeans für Günther Jauch
-layout: page
 permalink: /baywatch-berlin/episoden/Blue-Jeans-fuer-Guenther-Jauch
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 52
 ---
 

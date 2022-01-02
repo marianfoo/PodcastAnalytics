@@ -1,9 +1,7 @@
 ---
 title: Löwen gegen Murmelpromis
-layout: page
 permalink: /baywatch-berlin/episoden/Loewen-gegen-Murmelpromis
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 88
 ---
 

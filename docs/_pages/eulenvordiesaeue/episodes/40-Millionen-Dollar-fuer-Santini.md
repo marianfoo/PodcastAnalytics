@@ -1,9 +1,7 @@
 ---
 title: 40 Millionen Dollar für Santini
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/40-Millionen-Dollar-fuer-Santini
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 45
 ---
 

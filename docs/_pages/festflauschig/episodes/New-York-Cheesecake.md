@@ -1,9 +1,7 @@
 ---
 title: New York Cheesecake
-layout: page
 permalink: /fest-flauschig/episoden/New-York-Cheesecake
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 103
 ---
 

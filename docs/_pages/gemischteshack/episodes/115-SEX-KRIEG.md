@@ -1,9 +1,7 @@
 ---
 title: #115 SEX-KRIEG
-layout: page
 permalink: /gemischtes-hack/episoden/115-SEX-KRIEG
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 121
 ---
 

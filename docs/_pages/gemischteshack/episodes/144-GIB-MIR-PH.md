@@ -1,9 +1,7 @@
 ---
 title: #144 GIB MIR PH
-layout: page
 permalink: /gemischtes-hack/episoden/144-GIB-MIR-PH
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 157
 ---
 

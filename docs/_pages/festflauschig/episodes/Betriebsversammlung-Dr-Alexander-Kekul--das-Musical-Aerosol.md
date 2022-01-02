@@ -1,9 +1,7 @@
 ---
 title: Betriebsversammlung Dr. Alexander Kekulé – das Musical (Aerosol)
-layout: page
 permalink: /fest-flauschig/episoden/Betriebsversammlung-Dr-Alexander-Kekul--das-Musical-Aerosol
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 239
 ---
 

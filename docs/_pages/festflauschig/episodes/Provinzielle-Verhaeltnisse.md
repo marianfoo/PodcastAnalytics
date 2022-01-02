@@ -1,9 +1,7 @@
 ---
 title: Provinzielle Verhältnisse
-layout: page
 permalink: /fest-flauschig/episoden/Provinzielle-Verhaeltnisse
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 181
 ---
 

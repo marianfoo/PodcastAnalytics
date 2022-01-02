@@ -1,9 +1,7 @@
 ---
 title: Sommerbrief #2
-layout: page
 permalink: /fest-flauschig/episoden/Sommerbrief-2
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 161
 ---
 

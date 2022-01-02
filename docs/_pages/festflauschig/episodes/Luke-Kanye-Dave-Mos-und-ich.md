@@ -1,9 +1,7 @@
 ---
 title: Luke, Kanye, Dave, Mos und ich
-layout: page
 permalink: /fest-flauschig/episoden/Luke-Kanye-Dave-Mos-und-ich
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 83
 ---
 

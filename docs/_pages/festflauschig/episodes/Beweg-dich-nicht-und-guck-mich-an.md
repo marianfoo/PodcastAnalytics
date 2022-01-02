@@ -1,9 +1,7 @@
 ---
 title: Beweg dich nicht und guck mich an
-layout: page
 permalink: /fest-flauschig/episoden/Beweg-dich-nicht-und-guck-mich-an
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 139
 ---
 

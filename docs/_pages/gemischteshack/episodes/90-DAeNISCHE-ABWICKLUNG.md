@@ -1,9 +1,7 @@
 ---
 title: #90 DÄNISCHE ABWICKLUNG
-layout: page
 permalink: /gemischtes-hack/episoden/90-DAeNISCHE-ABWICKLUNG
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 90
 ---
 

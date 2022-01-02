@@ -1,9 +1,7 @@
 ---
 title: #63 POLAROID-PRINZIP
-layout: page
 permalink: /gemischtes-hack/episoden/63-POLAROID-PRINZIP
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 63
 ---
 

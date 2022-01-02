@@ -1,9 +1,7 @@
 ---
 title: Partymischung
-layout: page
 permalink: /fest-flauschig/episoden/Partymischung
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 136
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Die 101. Folge - Live aus Hamburg
-layout: page
 permalink: /fest-flauschig/episoden/Die-101-Folge-Live-aus-Hamburg
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 117
 ---
 

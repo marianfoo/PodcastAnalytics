@@ -1,9 +1,7 @@
 ---
 title: Das Gottesteilchen von Cala Ratata
-layout: page
 permalink: /baywatch-berlin/episoden/Das-Gottesteilchen-von-Cala-Ratata
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 86
 ---
 

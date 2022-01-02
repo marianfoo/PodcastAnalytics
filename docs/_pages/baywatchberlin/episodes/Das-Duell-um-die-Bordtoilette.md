@@ -1,9 +1,7 @@
 ---
 title: Das Duell um die Bordtoilette
-layout: page
 permalink: /baywatch-berlin/episoden/Das-Duell-um-die-Bordtoilette
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 29
 ---
 

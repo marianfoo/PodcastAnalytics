@@ -1,9 +1,7 @@
 ---
 title: #113 BULGAREN-MACRON
-layout: page
 permalink: /gemischtes-hack/episoden/113-BULGAREN-MACRON
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 119
 ---
 

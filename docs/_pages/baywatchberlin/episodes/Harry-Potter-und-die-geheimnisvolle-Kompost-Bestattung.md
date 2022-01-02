@@ -1,9 +1,7 @@
 ---
 title: Harry Potter und die geheimnisvolle Kompost-Bestattung
-layout: page
 permalink: /baywatch-berlin/episoden/Harry-Potter-und-die-geheimnisvolle-Kompost-Bestattung
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 56
 ---
 

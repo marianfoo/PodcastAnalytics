@@ -1,9 +1,7 @@
 ---
 title: #72 PAUSE KURZ VOR ARSCH
-layout: page
 permalink: /gemischtes-hack/episoden/72-PAUSE-KURZ-VOR-ARSCH
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 72
 ---
 

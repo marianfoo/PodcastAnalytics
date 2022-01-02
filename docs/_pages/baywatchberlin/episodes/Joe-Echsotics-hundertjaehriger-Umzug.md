@@ -1,9 +1,7 @@
 ---
 title: Joe Echsotics hundertjähriger Umzug
-layout: page
 permalink: /baywatch-berlin/episoden/Joe-Echsotics-hundertjaehriger-Umzug
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 26
 ---
 

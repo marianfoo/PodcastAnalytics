@@ -1,9 +1,7 @@
 ---
 title: Freunde bleiben trotz Erfolg
-layout: page
 permalink: /sanft-sorgfältig/episoden/Freunde-bleiben-trotz-Erfolg
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 145
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Albern und ein bisschen lustig
-layout: page
 permalink: /fest-flauschig/episoden/Albern-und-ein-bisschen-lustig
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 111
 ---
 

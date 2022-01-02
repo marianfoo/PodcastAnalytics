@@ -1,13 +1,11 @@
 ---
-title: "Firm & Fluffy" L.A. Style
-layout: page
+title: ”Firm & Fluffy” L.A. Style
 permalink: /fest-flauschig/episoden/Firm-und-Fluffy-LA-Style
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 177
 ---
 
-# "Firm & Fluffy" L.A. Style
+# ”Firm & Fluffy” L.A. Style
 <table class="resp-table dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
                     <tbody>
                         <tr>

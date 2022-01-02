@@ -1,9 +1,7 @@
 ---
 title: #150 SEIL SEIL SEIL
-layout: page
 permalink: /gemischtes-hack/episoden/150-SEIL-SEIL-SEIL
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 163
 ---
 

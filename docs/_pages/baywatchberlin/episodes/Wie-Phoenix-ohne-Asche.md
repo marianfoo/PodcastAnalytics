@@ -1,9 +1,7 @@
 ---
 title: Wie Phönix ohne Asche
-layout: page
 permalink: /baywatch-berlin/episoden/Wie-Phoenix-ohne-Asche
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 30
 ---
 

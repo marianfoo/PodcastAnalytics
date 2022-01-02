@@ -1,9 +1,7 @@
 ---
 title: Haschfüchse im Bingobus
-layout: page
 permalink: /baywatch-berlin/episoden/Haschfuechse-im-Bingobus
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 33
 ---
 

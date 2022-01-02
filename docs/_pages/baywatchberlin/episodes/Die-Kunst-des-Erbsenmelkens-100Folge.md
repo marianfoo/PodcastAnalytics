@@ -1,9 +1,7 @@
 ---
 title: Die Kunst des Erbsenmelkens (100.Folge)
-layout: page
 permalink: /baywatch-berlin/episoden/Die-Kunst-des-Erbsenmelkens-100Folge
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 103
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Kotze in der Kuschelecke
-layout: page
 permalink: /fest-flauschig/episoden/Kotze-in-der-Kuschelecke
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 126
 ---
 

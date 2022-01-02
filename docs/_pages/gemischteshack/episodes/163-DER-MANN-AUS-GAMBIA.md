@@ -1,9 +1,7 @@
 ---
 title: #163 DER MANN AUS GAMBIA
-layout: page
 permalink: /gemischtes-hack/episoden/163-DER-MANN-AUS-GAMBIA
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 177
 ---
 

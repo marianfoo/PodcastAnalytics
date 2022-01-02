@@ -1,9 +1,7 @@
 ---
 title: #155 WO SIND DIE GLORYHOLES? 
-layout: page
 permalink: /gemischtes-hack/episoden/155-WO-SIND-DIE-GLORYHOLES
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 168
 ---
 

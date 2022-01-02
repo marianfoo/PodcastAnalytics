@@ -1,9 +1,7 @@
 ---
 title: Fest & Flauschig Zuhause - 05
-layout: page
 permalink: /fest-flauschig/episoden/Fest-und-Flauschig-Zuhause-05
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 204
 ---
 

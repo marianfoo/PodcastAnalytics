@@ -1,9 +1,7 @@
 ---
 title: #153 GEDANKEN ZUM AUSDRUCKEN BRINGEN
-layout: page
 permalink: /gemischtes-hack/episoden/153-GEDANKEN-ZUM-AUSDRUCKEN-BRINGEN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 166
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Die unerträgliche Einsamkeit des Piñata-Verkäufers
-layout: page
 permalink: /baywatch-berlin/episoden/Die-unertraegliche-Einsamkeit-des-Piata-Verkaeufers
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 24
 ---
 

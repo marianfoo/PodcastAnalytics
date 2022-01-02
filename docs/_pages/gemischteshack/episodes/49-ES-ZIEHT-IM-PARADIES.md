@@ -1,9 +1,7 @@
 ---
 title: #49 ES ZIEHT IM PARADIES
-layout: page
 permalink: /gemischtes-hack/episoden/49-ES-ZIEHT-IM-PARADIES
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 49
 ---
 

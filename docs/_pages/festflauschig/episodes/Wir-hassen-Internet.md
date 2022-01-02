@@ -1,9 +1,7 @@
 ---
 title: Wir hassen Internet
-layout: page
 permalink: /fest-flauschig/episoden/Wir-hassen-Internet
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 61
 ---
 

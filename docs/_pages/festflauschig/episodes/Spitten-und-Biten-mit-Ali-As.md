@@ -1,9 +1,7 @@
 ---
 title: Spitten und Biten (mit Ali As)
-layout: page
 permalink: /fest-flauschig/episoden/Spitten-und-Biten-mit-Ali-As
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 52
 ---
 

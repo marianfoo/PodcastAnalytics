@@ -1,9 +1,7 @@
 ---
 title: #22 GEMISCHTES HUG
-layout: page
 permalink: /gemischtes-hack/episoden/22-GEMISCHTES-HUG
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 22
 ---
 

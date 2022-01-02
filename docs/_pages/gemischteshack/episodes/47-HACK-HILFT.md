@@ -1,9 +1,7 @@
 ---
 title: #47 HACK HILFT
-layout: page
 permalink: /gemischtes-hack/episoden/47-HACK-HILFT
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 47
 ---
 

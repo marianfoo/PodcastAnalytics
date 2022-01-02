@@ -1,9 +1,7 @@
 ---
 title: Reptilienstarre mit Baklava (feat. Joko Winterscheidt)
-layout: page
 permalink: /baywatch-berlin/episoden/Reptilienstarre-mit-Baklava-feat-Joko-Winterscheidt
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 84
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: „Nimm mal die 12er, sonst wirste nicht braun!“
-layout: page
 permalink: /baywatch-berlin/episoden/Nimm-mal-die-12er-sonst-wirste-nicht-braun
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 34
 ---
 

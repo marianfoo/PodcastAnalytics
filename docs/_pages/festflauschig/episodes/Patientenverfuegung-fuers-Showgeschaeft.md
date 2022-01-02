@@ -1,9 +1,7 @@
 ---
 title: Patientenverfügung fürs Showgeschäft
-layout: page
 permalink: /fest-flauschig/episoden/Patientenverfuegung-fuers-Showgeschaeft
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 370
 ---
 

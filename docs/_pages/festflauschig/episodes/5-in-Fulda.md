@@ -1,9 +1,7 @@
 ---
 title: 5% in Fulda
-layout: page
 permalink: /fest-flauschig/episoden/5-in-Fulda
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 248
 ---
 

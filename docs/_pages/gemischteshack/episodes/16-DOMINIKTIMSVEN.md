@@ -1,9 +1,7 @@
 ---
 title: #16 DOMINIK.TIM.SVEN
-layout: page
 permalink: /gemischtes-hack/episoden/16-DOMINIKTIMSVEN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 16
 ---
 

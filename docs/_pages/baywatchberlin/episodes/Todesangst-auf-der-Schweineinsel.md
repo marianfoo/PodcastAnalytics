@@ -1,9 +1,7 @@
 ---
 title: Todesangst auf der Schweineinsel
-layout: page
 permalink: /baywatch-berlin/episoden/Todesangst-auf-der-Schweineinsel
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 4
 ---
 

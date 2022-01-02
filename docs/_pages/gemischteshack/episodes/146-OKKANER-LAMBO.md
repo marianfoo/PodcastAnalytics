@@ -1,9 +1,7 @@
 ---
 title: #146 OKKANER LAMBO
-layout: page
 permalink: /gemischtes-hack/episoden/146-OKKANER-LAMBO
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 159
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Live aus dem Cafe del Mar
-layout: page
 permalink: /sanft-sorgfältig/episoden/Live-aus-dem-Cafe-del-Mar
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 28
 ---
 

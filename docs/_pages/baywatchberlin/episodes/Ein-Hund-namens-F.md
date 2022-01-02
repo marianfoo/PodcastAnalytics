@@ -1,9 +1,7 @@
 ---
 title: Ein Hund namens F.
-layout: page
 permalink: /baywatch-berlin/episoden/Ein-Hund-namens-F
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 100
 ---
 

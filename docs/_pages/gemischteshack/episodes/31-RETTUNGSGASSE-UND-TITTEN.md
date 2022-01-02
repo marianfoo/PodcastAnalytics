@@ -1,9 +1,7 @@
 ---
 title: #31 RETTUNGSGASSE UND TITTEN
-layout: page
 permalink: /gemischtes-hack/episoden/31-RETTUNGSGASSE-UND-TITTEN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 31
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Der große Narzissmus-Test
-layout: page
 permalink: /fest-flauschig/episoden/Der-grosse-Narzissmus-Test
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 46
 ---
 

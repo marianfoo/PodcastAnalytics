@@ -1,9 +1,7 @@
 ---
 title: #40 ENGLAND ABSCHAFFEN!
-layout: page
 permalink: /gemischtes-hack/episoden/40-ENGLAND-ABSCHAFFEN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 40
 ---
 

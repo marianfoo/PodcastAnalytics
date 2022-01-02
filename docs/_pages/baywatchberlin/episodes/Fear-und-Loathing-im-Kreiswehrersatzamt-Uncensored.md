@@ -1,9 +1,7 @@
 ---
 title: Fear & Loathing im Kreiswehrersatzamt (Uncensored)
-layout: page
 permalink: /baywatch-berlin/episoden/Fear-und-Loathing-im-Kreiswehrersatzamt-Uncensored
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 31
 ---
 

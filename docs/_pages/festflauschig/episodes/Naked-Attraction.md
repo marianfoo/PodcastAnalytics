@@ -1,9 +1,7 @@
 ---
 title: Naked Attraction
-layout: page
 permalink: /fest-flauschig/episoden/Naked-Attraction
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 122
 ---
 

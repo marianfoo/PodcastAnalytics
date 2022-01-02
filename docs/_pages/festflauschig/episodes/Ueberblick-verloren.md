@@ -1,9 +1,7 @@
 ---
 title: Überblick verloren
-layout: page
 permalink: /fest-flauschig/episoden/Ueberblick-verloren
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 303
 ---
 

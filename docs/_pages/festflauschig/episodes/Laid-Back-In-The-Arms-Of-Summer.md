@@ -1,9 +1,7 @@
 ---
 title: Laid Back In The Arms Of Summer
-layout: page
 permalink: /fest-flauschig/episoden/Laid-Back-In-The-Arms-Of-Summer
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 106
 ---
 

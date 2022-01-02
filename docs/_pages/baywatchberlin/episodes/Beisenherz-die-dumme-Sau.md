@@ -1,9 +1,7 @@
 ---
 title: Beisenherz, die dumme Sau.
-layout: page
 permalink: /baywatch-berlin/episoden/Beisenherz-die-dumme-Sau
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 73
 ---
 

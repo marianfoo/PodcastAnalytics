@@ -1,9 +1,7 @@
 ---
 title: Unplugged 2 - Live aus Bochum
-layout: page
 permalink: /fest-flauschig/episoden/Unplugged-2-Live-aus-Bochum
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 129
 ---
 

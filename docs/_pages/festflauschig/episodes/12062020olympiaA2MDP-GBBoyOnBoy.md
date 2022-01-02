@@ -1,9 +1,7 @@
 ---
 title: 12062020olympiaA2M_DP-GB/BoyOnBoy
-layout: page
 permalink: /fest-flauschig/episoden/12062020olympiaA2MDP-GBBoyOnBoy
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 245
 ---
 

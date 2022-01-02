@@ -1,9 +1,7 @@
 ---
 title: §§ 223,224 StGB zum Nachteil des Herrn Klaas Heufer-Umlauf
-layout: page
 permalink: /baywatch-berlin/episoden/-223224-StGB-zum-Nachteil-des-Herrn-Klaas-Heufer-Umlauf
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 40
 ---
 

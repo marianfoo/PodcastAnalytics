@@ -1,9 +1,7 @@
 ---
 title: Tag der Entscheidungen
-layout: page
 permalink: /sanft-sorgfältig/episoden/Tag-der-Entscheidungen
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 67
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Vermeidbares Leid
-layout: page
 permalink: /baywatch-berlin/episoden/Vermeidbares-Leid
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 108
 ---
 

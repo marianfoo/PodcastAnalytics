@@ -1,9 +1,7 @@
 ---
 title: #3 ALLE ASTRONAUTEN SIND ALKOHOLIKER
-layout: page
 permalink: /gemischtes-hack/episoden/3-ALLE-ASTRONAUTEN-SIND-ALKOHOLIKER
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 3
 ---
 

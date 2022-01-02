@@ -1,9 +1,7 @@
 ---
 title: #43 HEUTE IST MORGENS
-layout: page
 permalink: /gemischtes-hack/episoden/43-HEUTE-IST-MORGENS
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 43
 ---
 

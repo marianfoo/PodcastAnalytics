@@ -1,9 +1,7 @@
 ---
 title: Leben und Wohnen
-layout: page
 permalink: /fest-flauschig/episoden/Leben-und-Wohnen
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 121
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Zwei Impfdurchbrüche an der Medienfront
-layout: page
 permalink: /fest-flauschig/episoden/Zwei-Impfdurchbrueche-an-der-Medienfront
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 346
 ---
 

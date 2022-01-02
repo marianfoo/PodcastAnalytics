@@ -1,9 +1,7 @@
 ---
 title: „Inspiring, du Idiot!“
-layout: page
 permalink: /baywatch-berlin/episoden/Inspiring-du-Idiot
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 35
 ---
 

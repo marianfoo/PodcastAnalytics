@@ -1,9 +1,7 @@
 ---
 title: Hass aus dem Seniorensessel
-layout: page
 permalink: /baywatch-berlin/episoden/Hass-aus-dem-Seniorensessel
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 48
 ---
 

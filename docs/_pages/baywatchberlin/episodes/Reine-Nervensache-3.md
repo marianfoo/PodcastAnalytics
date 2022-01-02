@@ -1,9 +1,7 @@
 ---
 title: Reine Nervensache 3
-layout: page
 permalink: /baywatch-berlin/episoden/Reine-Nervensache-3
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 105
 ---
 

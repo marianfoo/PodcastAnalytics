@@ -1,9 +1,7 @@
 ---
 title: Die Sizilianer von New York
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Die-Sizilianer-von-New-York
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 56
 ---
 

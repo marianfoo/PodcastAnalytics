@@ -1,9 +1,7 @@
 ---
 title: Umräumen im Kopf
-layout: page
 permalink: /sanft-sorgfältig/episoden/Umraeumen-im-Kopf
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 142
 ---
 

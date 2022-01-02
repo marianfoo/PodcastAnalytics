@@ -1,9 +1,7 @@
 ---
 title: Olli und Jan feiern Ostern
-layout: page
 permalink: /sanft-sorgfältig/episoden/Olli-und-Jan-feiern-Ostern
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 15
 ---
 

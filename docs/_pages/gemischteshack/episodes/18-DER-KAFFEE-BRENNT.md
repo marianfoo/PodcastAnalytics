@@ -1,9 +1,7 @@
 ---
 title: #18 DER KAFFEE BRENNT
-layout: page
 permalink: /gemischtes-hack/episoden/18-DER-KAFFEE-BRENNT
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 18
 ---
 

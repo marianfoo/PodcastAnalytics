@@ -1,9 +1,7 @@
 ---
 title: Paradiesvögel Lieferung frei Haus
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Paradiesvoegel-Lieferung-frei-Haus
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 49
 ---
 

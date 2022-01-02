@@ -1,9 +1,7 @@
 ---
 title: #55 KAUGUMMI IM GUCCI-SHIRT
-layout: page
 permalink: /gemischtes-hack/episoden/55-KAUGUMMI-IM-GUCCI-SHIRT
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 55
 ---
 

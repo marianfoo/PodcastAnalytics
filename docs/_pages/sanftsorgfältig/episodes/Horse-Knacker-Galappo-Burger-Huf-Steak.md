@@ -1,9 +1,7 @@
 ---
 title: Horse-Knacker, Galappo-Burger, Huf-Steak
-layout: page
 permalink: /sanft-sorgfältig/episoden/Horse-Knacker-Galappo-Burger-Huf-Steak
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 45
 ---
 

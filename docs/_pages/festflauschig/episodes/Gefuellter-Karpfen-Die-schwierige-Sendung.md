@@ -1,9 +1,7 @@
 ---
 title: Gefüllter Karpfen (Die schwierige Sendung)
-layout: page
 permalink: /fest-flauschig/episoden/Gefuellter-Karpfen-Die-schwierige-Sendung
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 331
 ---
 

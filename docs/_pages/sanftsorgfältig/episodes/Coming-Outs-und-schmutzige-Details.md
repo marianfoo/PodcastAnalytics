@@ -1,9 +1,7 @@
 ---
 title: Coming Outs und schmutzige Details
-layout: page
 permalink: /sanft-sorgfältig/episoden/Coming-Outs-und-schmutzige-Details
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 4
 ---
 

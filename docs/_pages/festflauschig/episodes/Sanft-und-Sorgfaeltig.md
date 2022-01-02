@@ -1,9 +1,7 @@
 ---
 title: Sanft & Sorgfältig
-layout: page
 permalink: /fest-flauschig/episoden/Sanft-und-Sorgfaeltig
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 67
 ---
 

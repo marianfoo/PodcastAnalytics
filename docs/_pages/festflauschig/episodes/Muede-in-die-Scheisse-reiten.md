@@ -1,9 +1,7 @@
 ---
 title: Müde in die Scheiße reiten
-layout: page
 permalink: /fest-flauschig/episoden/Muede-in-die-Scheisse-reiten
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 301
 ---
 

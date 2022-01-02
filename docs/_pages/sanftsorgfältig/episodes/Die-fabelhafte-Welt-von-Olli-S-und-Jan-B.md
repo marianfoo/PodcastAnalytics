@@ -1,9 +1,7 @@
 ---
 title: Die fabelhafte Welt von Olli S. und Jan B.
-layout: page
 permalink: /sanft-sorgfältig/episoden/Die-fabelhafte-Welt-von-Olli-S-und-Jan-B
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 100
 ---
 

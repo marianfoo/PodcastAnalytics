@@ -1,9 +1,7 @@
 ---
 title: Ein Richter spielt sein Spiel
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Ein-Richter-spielt-sein-Spiel
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 40
 ---
 

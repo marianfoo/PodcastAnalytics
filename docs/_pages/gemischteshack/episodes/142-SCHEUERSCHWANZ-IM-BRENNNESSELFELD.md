@@ -1,9 +1,7 @@
 ---
 title: #142 SCHEUERSCHWANZ IM BRENNNESSELFELD
-layout: page
 permalink: /gemischtes-hack/episoden/142-SCHEUERSCHWANZ-IM-BRENNNESSELFELD
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 155
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #158 ALT-HACKIS MIT HARTEN NIPPELN
-layout: page
 permalink: /gemischtes-hack/episoden/158-ALT-HACKIS-MIT-HARTEN-NIPPELN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 172
 ---
 

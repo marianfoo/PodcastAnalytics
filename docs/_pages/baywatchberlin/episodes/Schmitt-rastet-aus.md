@@ -1,9 +1,7 @@
 ---
 title: Schmitt rastet aus
-layout: page
 permalink: /baywatch-berlin/episoden/Schmitt-rastet-aus
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 3
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #73 WEIZEN IM CLUB
-layout: page
 permalink: /gemischtes-hack/episoden/73-WEIZEN-IM-CLUB
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 73
 ---
 

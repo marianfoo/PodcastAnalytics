@@ -1,9 +1,7 @@
 ---
 title: #117 ES WAR UNS EINE EHRE
-layout: page
 permalink: /gemischtes-hack/episoden/117-ES-WAR-UNS-EINE-EHRE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 123
 ---
 

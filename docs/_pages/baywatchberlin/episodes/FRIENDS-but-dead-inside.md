@@ -1,9 +1,7 @@
 ---
 title: F*R*I*E*N*D*S (but dead inside)
-layout: page
 permalink: /baywatch-berlin/episoden/FRIENDS-but-dead-inside
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 78
 ---
 

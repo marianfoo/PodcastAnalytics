@@ -1,9 +1,7 @@
 ---
 title: Event Airbnb mit Promis
-layout: page
 permalink: /fest-flauschig/episoden/Event-Airbnb-mit-Promis
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 110
 ---
 

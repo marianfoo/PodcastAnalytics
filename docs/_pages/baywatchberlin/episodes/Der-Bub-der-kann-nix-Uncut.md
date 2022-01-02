@@ -1,9 +1,7 @@
 ---
 title: Der Bub, der kann nix! (Uncut)
-layout: page
 permalink: /baywatch-berlin/episoden/Der-Bub-der-kann-nix-Uncut
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 19
 ---
 

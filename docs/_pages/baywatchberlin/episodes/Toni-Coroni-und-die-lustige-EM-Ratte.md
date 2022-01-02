@@ -1,9 +1,7 @@
 ---
 title: Toni Coroni & die lustige EM-Ratte
-layout: page
 permalink: /baywatch-berlin/episoden/Toni-Coroni-und-die-lustige-EM-Ratte
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 79
 ---
 

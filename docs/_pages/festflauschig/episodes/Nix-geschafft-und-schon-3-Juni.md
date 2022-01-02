@@ -1,9 +1,7 @@
 ---
 title: Nix geschafft und schon 3. Juni
-layout: page
 permalink: /fest-flauschig/episoden/Nix-geschafft-und-schon-3-Juni
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 100
 ---
 

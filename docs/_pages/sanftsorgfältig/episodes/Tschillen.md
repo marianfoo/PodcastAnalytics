@@ -1,9 +1,7 @@
 ---
 title: Tschillen
-layout: page
 permalink: /sanft-sorgfältig/episoden/Tschillen
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 27
 ---
 

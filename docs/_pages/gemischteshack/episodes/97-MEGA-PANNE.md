@@ -1,9 +1,7 @@
 ---
 title: #97 MEGA PANNE
-layout: page
 permalink: /gemischtes-hack/episoden/97-MEGA-PANNE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 97
 ---
 

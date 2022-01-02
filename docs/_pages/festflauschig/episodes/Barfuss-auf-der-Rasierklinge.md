@@ -1,9 +1,7 @@
 ---
 title: Barfuß auf der Rasierklinge
-layout: page
 permalink: /fest-flauschig/episoden/Barfuss-auf-der-Rasierklinge
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 273
 ---
 

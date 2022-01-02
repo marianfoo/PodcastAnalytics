@@ -1,9 +1,7 @@
 ---
 title: Das Knistern des Platin-Hamsters
-layout: page
 permalink: /baywatch-berlin/episoden/Das-Knistern-des-Platin-Hamsters
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 50
 ---
 

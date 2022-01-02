@@ -1,9 +1,7 @@
 ---
 title: Habeck zieht die Schuhe aus
-layout: page
 permalink: /baywatch-berlin/episoden/Habeck-zieht-die-Schuhe-aus
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 110
 ---
 

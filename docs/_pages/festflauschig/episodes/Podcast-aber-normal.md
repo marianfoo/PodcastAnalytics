@@ -1,9 +1,7 @@
 ---
 title: Podcast, aber normal
-layout: page
 permalink: /fest-flauschig/episoden/Podcast-aber-normal
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 315
 ---
 

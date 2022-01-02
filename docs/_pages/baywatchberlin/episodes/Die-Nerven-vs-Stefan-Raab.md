@@ -1,9 +1,7 @@
 ---
 title: Die Nerven vs. Stefan Raab
-layout: page
 permalink: /baywatch-berlin/episoden/Die-Nerven-vs-Stefan-Raab
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 28
 ---
 

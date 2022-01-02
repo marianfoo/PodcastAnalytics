@@ -1,9 +1,7 @@
 ---
 title: Die große Prosieben-Diffamierungs-Show
-layout: page
 permalink: /baywatch-berlin/episoden/Die-grosse-Prosieben-Diffamierungs-Show
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 66
 ---
 

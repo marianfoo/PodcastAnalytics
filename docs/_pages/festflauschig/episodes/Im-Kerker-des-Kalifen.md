@@ -1,9 +1,7 @@
 ---
 title: Im Kerker des Kalifen
-layout: page
 permalink: /fest-flauschig/episoden/Im-Kerker-des-Kalifen
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 172
 ---
 

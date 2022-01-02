@@ -1,9 +1,7 @@
 ---
 title: Das große Sommerfest
-layout: page
 permalink: /fest-flauschig/episoden/Das-grosse-Sommerfest
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 13
 ---
 

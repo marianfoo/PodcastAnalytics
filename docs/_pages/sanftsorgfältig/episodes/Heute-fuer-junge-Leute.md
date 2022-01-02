@@ -1,9 +1,7 @@
 ---
 title: Heute für junge Leute
-layout: page
 permalink: /sanft-sorgfältig/episoden/Heute-fuer-junge-Leute
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 59
 ---
 

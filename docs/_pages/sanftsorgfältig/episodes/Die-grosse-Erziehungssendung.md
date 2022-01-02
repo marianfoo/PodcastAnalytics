@@ -1,9 +1,7 @@
 ---
 title: Die große Erziehungssendung
-layout: page
 permalink: /sanft-sorgfältig/episoden/Die-grosse-Erziehungssendung
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 111
 ---
 

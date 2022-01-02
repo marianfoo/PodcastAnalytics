@@ -1,9 +1,7 @@
 ---
 title: #20 BLOWJOB PERSPEKTIVE
-layout: page
 permalink: /gemischtes-hack/episoden/20-BLOWJOB-PERSPEKTIVE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 20
 ---
 

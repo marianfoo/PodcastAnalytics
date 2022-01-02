@@ -1,9 +1,7 @@
 ---
 title: Captains Dinner bei Aufpuste-Schmitt
-layout: page
 permalink: /baywatch-berlin/episoden/Captains-Dinner-bei-Aufpuste-Schmitt
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 38
 ---
 

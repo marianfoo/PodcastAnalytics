@@ -1,9 +1,7 @@
 ---
 title: #74 ICH BRAUCH NE GUN
-layout: page
 permalink: /gemischtes-hack/episoden/74-ICH-BRAUCH-NE-GUN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 74
 ---
 

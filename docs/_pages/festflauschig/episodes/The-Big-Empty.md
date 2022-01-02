@@ -1,9 +1,7 @@
 ---
 title: The Big Empty
-layout: page
 permalink: /fest-flauschig/episoden/The-Big-Empty
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 3
 ---
 

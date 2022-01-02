@@ -1,9 +1,7 @@
 ---
 title: #135 AM OBEREN SCHAFT
-layout: page
 permalink: /gemischtes-hack/episoden/135-AM-OBEREN-SCHAFT
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 148
 ---
 

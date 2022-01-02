@@ -1,9 +1,7 @@
 ---
 title: Eisbaden ist geil!
-layout: page
 permalink: /baywatch-berlin/episoden/Eisbaden-ist-geil
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 111
 ---
 

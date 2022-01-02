@@ -1,9 +1,7 @@
 ---
 title: What? What? Ursula? What? Squirt!
-layout: page
 permalink: /fest-flauschig/episoden/What-What-Ursula-What-Squirt
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 178
 ---
 

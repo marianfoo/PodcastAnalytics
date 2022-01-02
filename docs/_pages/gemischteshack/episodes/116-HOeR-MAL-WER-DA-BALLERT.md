@@ -1,9 +1,7 @@
 ---
 title: #116 HÖR MAL WER DA BALLERT
-layout: page
 permalink: /gemischtes-hack/episoden/116-HOeR-MAL-WER-DA-BALLERT
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 122
 ---
 

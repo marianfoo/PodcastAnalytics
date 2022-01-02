@@ -1,9 +1,7 @@
 ---
 title: Willkommen auf Schloss Olli
-layout: page
 permalink: /fest-flauschig/episoden/Willkommen-auf-Schloss-Olli
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 53
 ---
 

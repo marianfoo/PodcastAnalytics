@@ -1,9 +1,7 @@
 ---
 title: Das ist nicht mehr meine Welt / Die aktuelle Wahlsendung
-layout: page
 permalink: /fest-flauschig/episoden/Das-ist-nicht-mehr-meine-Welt--Die-aktuelle-Wahlsendung
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 348
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Comedypreis, you did it again!
-layout: page
 permalink: /baywatch-berlin/episoden/Comedypreis-you-did-it-again
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 46
 ---
 

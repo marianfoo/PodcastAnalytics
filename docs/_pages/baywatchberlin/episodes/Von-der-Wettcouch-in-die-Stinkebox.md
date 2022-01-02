@@ -1,9 +1,7 @@
 ---
 title: Von der Wettcouch in die Stinkebox
-layout: page
 permalink: /baywatch-berlin/episoden/Von-der-Wettcouch-in-die-Stinkebox
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 102
 ---
 

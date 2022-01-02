@@ -1,9 +1,7 @@
 ---
 title: Falscher Stolz
-layout: page
 permalink: /sanft-sorgfältig/episoden/Falscher-Stolz
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 6
 ---
 

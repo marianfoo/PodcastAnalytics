@@ -1,9 +1,7 @@
 ---
 title: Reizthema Zaubertricks
-layout: page
 permalink: /baywatch-berlin/episoden/Reizthema-Zaubertricks
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 96
 ---
 

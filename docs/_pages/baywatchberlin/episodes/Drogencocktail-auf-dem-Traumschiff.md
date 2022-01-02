@@ -1,9 +1,7 @@
 ---
 title: Drogencocktail auf dem Traumschiff
-layout: page
 permalink: /baywatch-berlin/episoden/Drogencocktail-auf-dem-Traumschiff
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 59
 ---
 

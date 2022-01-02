@@ -1,9 +1,7 @@
 ---
 title: „Dann geh doch nach Wembley, du Otto!“
-layout: page
 permalink: /baywatch-berlin/episoden/Dann-geh-doch-nach-Wembley-du-Otto
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 69
 ---
 

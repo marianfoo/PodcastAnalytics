@@ -1,9 +1,7 @@
 ---
 title: Angst essen Döner auf
-layout: page
 permalink: /baywatch-berlin/episoden/Angst-essen-Doener-auf
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 95
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Das Teuerste ist oft das Beste
-layout: page
 permalink: /baywatch-berlin/episoden/Das-Teuerste-ist-oft-das-Beste
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 109
 ---
 

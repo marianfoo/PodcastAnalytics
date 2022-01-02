@@ -1,9 +1,7 @@
 ---
 title: Shownotes für die Kanzlerin
-layout: page
 permalink: /baywatch-berlin/episoden/Shownotes-fuer-die-Kanzlerin
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 68
 ---
 

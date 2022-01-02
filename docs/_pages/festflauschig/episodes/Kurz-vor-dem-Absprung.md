@@ -1,9 +1,7 @@
 ---
 title: Kurz vor dem Absprung
-layout: page
 permalink: /fest-flauschig/episoden/Kurz-vor-dem-Absprung
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 45
 ---
 

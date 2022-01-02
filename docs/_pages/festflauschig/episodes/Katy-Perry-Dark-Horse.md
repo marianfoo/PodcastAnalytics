@@ -1,9 +1,7 @@
 ---
 title: Katy Perry - Dark Horse
-layout: page
 permalink: /fest-flauschig/episoden/Katy-Perry-Dark-Horse
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 242
 ---
 

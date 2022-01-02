@@ -1,9 +1,7 @@
 ---
 title: #96 ICH WILL ABER DA LANG
-layout: page
 permalink: /gemischtes-hack/episoden/96-ICH-WILL-ABER-DA-LANG
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 96
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Umgezogene Jungs
-layout: page
 permalink: /fest-flauschig/episoden/Umgezogene-Jungs
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 51
 ---
 

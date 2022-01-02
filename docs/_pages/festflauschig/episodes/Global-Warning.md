@@ -1,9 +1,7 @@
 ---
 title: Global Warning
-layout: page
 permalink: /fest-flauschig/episoden/Global-Warning
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 21
 ---
 

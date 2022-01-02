@@ -1,9 +1,7 @@
 ---
 title: #70 SCHÄMT EUCH!
-layout: page
 permalink: /gemischtes-hack/episoden/70-SCHAeMT-EUCH
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 70
 ---
 

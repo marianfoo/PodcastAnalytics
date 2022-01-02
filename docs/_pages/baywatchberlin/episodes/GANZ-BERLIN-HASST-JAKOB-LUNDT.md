@@ -1,9 +1,7 @@
 ---
 title: GANZ BERLIN HASST JAKOB LUNDT
-layout: page
 permalink: /baywatch-berlin/episoden/GANZ-BERLIN-HASST-JAKOB-LUNDT
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 65
 ---
 

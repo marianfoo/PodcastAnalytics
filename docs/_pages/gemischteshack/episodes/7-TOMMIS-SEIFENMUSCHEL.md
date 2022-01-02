@@ -1,9 +1,7 @@
 ---
 title: #7 TOMMIS SEIFENMUSCHEL
-layout: page
 permalink: /gemischtes-hack/episoden/7-TOMMIS-SEIFENMUSCHEL
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 7
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Raclette und Fondue
-layout: page
 permalink: /fest-flauschig/episoden/Raclette-und-Fondue
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 80
 ---
 

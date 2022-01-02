@@ -1,9 +1,7 @@
 ---
 title: Der Diktator mit der Stinkenase
-layout: page
 permalink: /baywatch-berlin/episoden/Der-Diktator-mit-der-Stinkenase
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 23
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Zurück mit den Grautönen – Was ist in den Medien los
-layout: page
 permalink: /sanft-sorgfältig/episoden/Zurueck-mit-den-Grautoenen--Was-ist-in-den-Medien-los
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 138
 ---
 

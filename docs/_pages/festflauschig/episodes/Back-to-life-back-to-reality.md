@@ -1,9 +1,7 @@
 ---
 title: Back to life, back to reality 
-layout: page
 permalink: /fest-flauschig/episoden/Back-to-life-back-to-reality
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 255
 ---
 

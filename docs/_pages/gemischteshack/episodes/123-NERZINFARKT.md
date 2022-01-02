@@ -1,9 +1,7 @@
 ---
 title: #123 NERZINFARKT
-layout: page
 permalink: /gemischtes-hack/episoden/123-NERZINFARKT
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 135
 ---
 

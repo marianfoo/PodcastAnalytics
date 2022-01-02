@@ -1,9 +1,7 @@
 ---
 title: Hooligan im Körper von Mr. Burns
-layout: page
 permalink: /baywatch-berlin/episoden/Hooligan-im-Koerper-von-Mr-Burns
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 11
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Pansenprofis & Knatterfrösche (feat. Joko Winterscheidt)
-layout: page
 permalink: /baywatch-berlin/episoden/Pansenprofis-und-Knatterfroesche-feat-Joko-Winterscheidt
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 107
 ---
 

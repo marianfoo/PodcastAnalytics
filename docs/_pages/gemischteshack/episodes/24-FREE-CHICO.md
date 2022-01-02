@@ -1,9 +1,7 @@
 ---
 title: #24 FREE CHICO
-layout: page
 permalink: /gemischtes-hack/episoden/24-FREE-CHICO
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 24
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: You are not alone
-layout: page
 permalink: /fest-flauschig/episoden/You-are-not-alone
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 141
 ---
 

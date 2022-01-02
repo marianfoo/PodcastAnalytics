@@ -1,9 +1,7 @@
 ---
 title: #104 MERKEL ODER KOFFER
-layout: page
 permalink: /gemischtes-hack/episoden/104-MERKEL-ODER-KOFFER
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 109
 ---
 

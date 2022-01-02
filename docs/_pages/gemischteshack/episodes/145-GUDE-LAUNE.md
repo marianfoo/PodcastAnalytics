@@ -1,9 +1,7 @@
 ---
 title: #145 GUDE LAUNE
-layout: page
 permalink: /gemischtes-hack/episoden/145-GUDE-LAUNE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 158
 ---
 

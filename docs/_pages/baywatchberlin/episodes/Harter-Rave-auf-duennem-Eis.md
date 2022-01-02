@@ -1,9 +1,7 @@
 ---
 title: Harter Rave auf dünnem Eis
-layout: page
 permalink: /baywatch-berlin/episoden/Harter-Rave-auf-duennem-Eis
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 63
 ---
 

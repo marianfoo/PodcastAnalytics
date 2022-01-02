@@ -1,9 +1,7 @@
 ---
 title: Urlaubsdomizile und Dies & Das
-layout: page
 permalink: /sanft-sorgfältig/episoden/Urlaubsdomizile-und-Dies-und-Das
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 18
 ---
 

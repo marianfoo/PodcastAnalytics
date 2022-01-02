@@ -1,9 +1,7 @@
 ---
 title: Ulrike hat keinen Bock
-layout: page
 permalink: /fest-flauschig/episoden/Ulrike-hat-keinen-Bock
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 176
 ---
 

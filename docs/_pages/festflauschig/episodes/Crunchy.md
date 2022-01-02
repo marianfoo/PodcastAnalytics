@@ -1,9 +1,7 @@
 ---
 title: Crunchy
-layout: page
 permalink: /fest-flauschig/episoden/Crunchy
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 167
 ---
 

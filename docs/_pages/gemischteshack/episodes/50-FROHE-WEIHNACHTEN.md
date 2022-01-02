@@ -1,9 +1,7 @@
 ---
 title: #50 FROHE WEIHNACHTEN
-layout: page
 permalink: /gemischtes-hack/episoden/50-FROHE-WEIHNACHTEN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 50
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #28 DER BERÜHMTESTE HACKI
-layout: page
 permalink: /gemischtes-hack/episoden/28-DER-BERUeHMTESTE-HACKI
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 28
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Folge Null
-layout: page
 permalink: /baywatch-berlin/episoden/Folge-Null
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 2
 ---
 

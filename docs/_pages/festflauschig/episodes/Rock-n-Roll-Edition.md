@@ -1,9 +1,7 @@
 ---
 title: Rock 'n' Roll Edition
-layout: page
 permalink: /fest-flauschig/episoden/Rock-n-Roll-Edition
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 89
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #12 LASST EUCH ÜBERRASCHEN
-layout: page
 permalink: /gemischtes-hack/episoden/12-LASST-EUCH-UeBERRASCHEN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 12
 ---
 

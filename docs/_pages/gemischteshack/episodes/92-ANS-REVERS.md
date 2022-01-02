@@ -1,9 +1,7 @@
 ---
 title: #92 ANS REVERS
-layout: page
 permalink: /gemischtes-hack/episoden/92-ANS-REVERS
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 92
 ---
 

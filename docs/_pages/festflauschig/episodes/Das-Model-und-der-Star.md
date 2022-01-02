@@ -1,9 +1,7 @@
 ---
 title: Das Model und der Star
-layout: page
 permalink: /fest-flauschig/episoden/Das-Model-und-der-Star
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 137
 ---
 

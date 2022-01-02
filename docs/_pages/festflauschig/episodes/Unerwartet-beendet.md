@@ -1,9 +1,7 @@
 ---
 title: Unerwartet beendet
-layout: page
 permalink: /fest-flauschig/episoden/Unerwartet-beendet
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 115
 ---
 

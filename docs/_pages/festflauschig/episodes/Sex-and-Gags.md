@@ -1,9 +1,7 @@
 ---
 title: Sex and Gags
-layout: page
 permalink: /fest-flauschig/episoden/Sex-and-Gags
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 25
 ---
 

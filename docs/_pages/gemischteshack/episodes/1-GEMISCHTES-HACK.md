@@ -1,9 +1,7 @@
 ---
 title: #1 GEMISCHTES HACK
-layout: page
 permalink: /gemischtes-hack/episoden/1-GEMISCHTES-HACK
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 1
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Geschlechtsverkehr in Paderborn
-layout: page
 permalink: /fest-flauschig/episoden/Geschlechtsverkehr-in-Paderborn
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 143
 ---
 

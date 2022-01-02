@@ -1,9 +1,7 @@
 ---
 title: Occupy Gleisdreieck
-layout: page
 permalink: /sanft-sorgfältig/episoden/Occupy-Gleisdreieck
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 30
 ---
 

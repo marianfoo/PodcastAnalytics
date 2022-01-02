@@ -1,9 +1,7 @@
 ---
 title: Wir geben auf
-layout: page
 permalink: /sanft-sorgfältig/episoden/Wir-geben-auf
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 143
 ---
 

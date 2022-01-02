@@ -1,9 +1,7 @@
 ---
 title: 1000 ganz legale Steuertricks (Gib dem Hass eine Chance)
-layout: page
 permalink: /fest-flauschig/episoden/1000-ganz-legale-Steuertricks-Gib-dem-Hass-eine-Chance
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 31
 ---
 

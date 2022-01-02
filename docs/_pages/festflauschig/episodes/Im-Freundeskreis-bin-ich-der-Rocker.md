@@ -1,9 +1,7 @@
 ---
 title: „Im Freundeskreis bin ich der Rocker!“
-layout: page
 permalink: /fest-flauschig/episoden/Im-Freundeskreis-bin-ich-der-Rocker
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 309
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #91 BOHRINSEL-VIBES
-layout: page
 permalink: /gemischtes-hack/episoden/91-BOHRINSEL-VIBES
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 91
 ---
 

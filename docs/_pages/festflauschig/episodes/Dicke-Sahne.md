@@ -1,9 +1,7 @@
 ---
 title: Dicke Sahne
-layout: page
 permalink: /fest-flauschig/episoden/Dicke-Sahne
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 152
 ---
 

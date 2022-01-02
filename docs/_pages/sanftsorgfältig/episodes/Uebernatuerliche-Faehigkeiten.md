@@ -1,9 +1,7 @@
 ---
 title: Übernatürliche Fähigkeiten
-layout: page
 permalink: /sanft-sorgfältig/episoden/Uebernatuerliche-Faehigkeiten
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 84
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #54 OHNE OBOE KEIN BÄR
-layout: page
 permalink: /gemischtes-hack/episoden/54-OHNE-OBOE-KEIN-BAeR
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 54
 ---
 

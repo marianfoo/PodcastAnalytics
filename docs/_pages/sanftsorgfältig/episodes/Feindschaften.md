@@ -1,9 +1,7 @@
 ---
 title: Feindschaften
-layout: page
 permalink: /sanft-sorgfältig/episoden/Feindschaften
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 69
 ---
 

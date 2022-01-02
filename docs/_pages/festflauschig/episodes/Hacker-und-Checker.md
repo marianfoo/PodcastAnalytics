@@ -1,9 +1,7 @@
 ---
 title: Hacker und Checker
-layout: page
 permalink: /fest-flauschig/episoden/Hacker-und-Checker
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 275
 ---
 

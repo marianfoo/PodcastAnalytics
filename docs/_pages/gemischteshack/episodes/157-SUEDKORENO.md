@@ -1,9 +1,7 @@
 ---
 title: #157 SUEDKORENO
-layout: page
 permalink: /gemischtes-hack/episoden/157-SUEDKORENO
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 171
 ---
 

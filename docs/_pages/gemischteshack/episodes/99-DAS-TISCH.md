@@ -1,9 +1,7 @@
 ---
 title: #99 DAS TISCH
-layout: page
 permalink: /gemischtes-hack/episoden/99-DAS-TISCH
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 99
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Forken im Nacken
-layout: page
 permalink: /fest-flauschig/episoden/Forken-im-Nacken
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 88
 ---
 

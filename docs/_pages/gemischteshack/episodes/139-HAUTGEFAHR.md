@@ -1,9 +1,7 @@
 ---
 title: #139 HAUTGEFAHR
-layout: page
 permalink: /gemischtes-hack/episoden/139-HAUTGEFAHR
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 152
 ---
 

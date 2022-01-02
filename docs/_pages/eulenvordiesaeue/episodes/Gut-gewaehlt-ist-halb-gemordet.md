@@ -1,9 +1,7 @@
 ---
 title: Gut gewählt, ist halb gemordet
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Gut-gewaehlt-ist-halb-gemordet
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 6
 ---
 

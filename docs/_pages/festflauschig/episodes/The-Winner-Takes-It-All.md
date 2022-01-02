@@ -1,9 +1,7 @@
 ---
 title: The Winner Takes It All
-layout: page
 permalink: /fest-flauschig/episoden/The-Winner-Takes-It-All
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 93
 ---
 

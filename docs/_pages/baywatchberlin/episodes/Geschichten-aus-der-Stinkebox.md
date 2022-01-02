@@ -1,9 +1,7 @@
 ---
 title: Geschichten aus der Stinkebox
-layout: page
 permalink: /baywatch-berlin/episoden/Geschichten-aus-der-Stinkebox
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 74
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #10 DEUTSCHES HACK
-layout: page
 permalink: /gemischtes-hack/episoden/10-DEUTSCHES-HACK
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 10
 ---
 

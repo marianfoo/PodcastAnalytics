@@ -1,9 +1,7 @@
 ---
 title: Zwei Nonnen zu viel
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Zwei-Nonnen-zu-viel
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 2
 ---
 

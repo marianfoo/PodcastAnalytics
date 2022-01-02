@@ -1,9 +1,7 @@
 ---
 title: Der Swinger ist ein scheues Reh (zensiert)
-layout: page
 permalink: /baywatch-berlin/episoden/Der-Swinger-ist-ein-scheues-Reh-zensiert
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 15
 ---
 

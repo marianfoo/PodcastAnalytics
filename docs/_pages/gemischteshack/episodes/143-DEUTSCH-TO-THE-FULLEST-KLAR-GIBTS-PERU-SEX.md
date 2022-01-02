@@ -1,9 +1,7 @@
 ---
 title: #143 DEUTSCH TO THE FULLEST - KLAR GIBTS PERU - SEX
-layout: page
 permalink: /gemischtes-hack/episoden/143-DEUTSCH-TO-THE-FULLEST-KLAR-GIBTS-PERU-SEX
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 156
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Unsere alte Scheißwelt
-layout: page
 permalink: /fest-flauschig/episoden/Unsere-alte-Scheisswelt
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 17
 ---
 

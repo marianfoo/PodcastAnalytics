@@ -1,9 +1,7 @@
 ---
 title: Die große Whiskey Edition
-layout: page
 permalink: /fest-flauschig/episoden/Die-grosse-Whiskey-Edition
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 156
 ---
 

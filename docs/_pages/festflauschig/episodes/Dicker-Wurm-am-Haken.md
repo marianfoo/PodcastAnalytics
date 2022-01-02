@@ -1,9 +1,7 @@
 ---
 title: Dicker Wurm am Haken
-layout: page
 permalink: /fest-flauschig/episoden/Dicker-Wurm-am-Haken
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 37
 ---
 

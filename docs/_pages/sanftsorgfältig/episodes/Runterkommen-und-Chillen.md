@@ -1,9 +1,7 @@
 ---
 title: Runterkommen und Chillen
-layout: page
 permalink: /sanft-sorgfältig/episoden/Runterkommen-und-Chillen
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 113
 ---
 

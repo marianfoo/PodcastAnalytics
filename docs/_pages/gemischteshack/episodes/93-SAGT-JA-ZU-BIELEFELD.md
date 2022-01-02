@@ -1,9 +1,7 @@
 ---
 title: #93 SAGT JA ZU BIELEFELD
-layout: page
 permalink: /gemischtes-hack/episoden/93-SAGT-JA-ZU-BIELEFELD
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 93
 ---
 

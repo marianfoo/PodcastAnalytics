@@ -1,9 +1,7 @@
 ---
 title: Raus aus der Verwahrlosung 
-layout: page
 permalink: /fest-flauschig/episoden/Raus-aus-der-Verwahrlosung
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 285
 ---
 

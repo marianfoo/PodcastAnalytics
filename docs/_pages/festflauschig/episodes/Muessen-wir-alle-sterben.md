@@ -1,9 +1,7 @@
 ---
 title: Müssen wir alle sterben?
-layout: page
 permalink: /fest-flauschig/episoden/Muessen-wir-alle-sterben
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 65
 ---
 

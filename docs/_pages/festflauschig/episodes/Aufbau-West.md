@@ -1,9 +1,7 @@
 ---
 title: Aufbau West
-layout: page
 permalink: /fest-flauschig/episoden/Aufbau-West
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 1
 ---
 

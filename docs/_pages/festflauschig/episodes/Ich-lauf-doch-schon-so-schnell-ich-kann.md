@@ -1,9 +1,7 @@
 ---
 title: Ich lauf doch schon so schnell ich kann.
-layout: page
 permalink: /fest-flauschig/episoden/Ich-lauf-doch-schon-so-schnell-ich-kann
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 171
 ---
 

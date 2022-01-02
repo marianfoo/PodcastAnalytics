@@ -1,9 +1,7 @@
 ---
 title: Mit Speck fängt man Mäuse
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Mit-Speck-faengt-man-Maeuse
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 42
 ---
 

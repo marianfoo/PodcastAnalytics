@@ -1,9 +1,7 @@
 ---
 title: Aftershow am Everest
-layout: page
 permalink: /baywatch-berlin/episoden/Aftershow-am-Everest
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 5
 ---
 

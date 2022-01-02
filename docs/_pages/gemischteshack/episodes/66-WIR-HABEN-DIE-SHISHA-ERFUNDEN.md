@@ -1,9 +1,7 @@
 ---
 title: #66 WIR HABEN DIE SHISHA ERFUNDEN
-layout: page
 permalink: /gemischtes-hack/episoden/66-WIR-HABEN-DIE-SHISHA-ERFUNDEN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 66
 ---
 

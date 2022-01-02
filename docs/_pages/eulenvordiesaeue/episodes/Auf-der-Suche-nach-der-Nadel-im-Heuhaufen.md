@@ -1,9 +1,7 @@
 ---
 title: Auf der Suche nach der Nadel im Heuhaufen
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Auf-der-Suche-nach-der-Nadel-im-Heuhaufen
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 44
 ---
 

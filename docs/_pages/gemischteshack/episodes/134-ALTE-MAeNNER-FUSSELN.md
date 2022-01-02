@@ -1,9 +1,7 @@
 ---
 title: #134 ALTE MÄNNER FUSSELN
-layout: page
 permalink: /gemischtes-hack/episoden/134-ALTE-MAeNNER-FUSSELN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 147
 ---
 

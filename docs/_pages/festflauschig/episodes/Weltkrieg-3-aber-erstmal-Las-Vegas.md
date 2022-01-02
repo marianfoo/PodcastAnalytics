@@ -1,9 +1,7 @@
 ---
 title: Weltkrieg 3, aber erstmal Las Vegas
-layout: page
 permalink: /fest-flauschig/episoden/Weltkrieg-3-aber-erstmal-Las-Vegas
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 107
 ---
 

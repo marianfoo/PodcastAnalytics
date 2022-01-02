@@ -1,9 +1,7 @@
 ---
 title: Zwei CIS-Dudes am Arsch
-layout: page
 permalink: /fest-flauschig/episoden/Zwei-CIS-Dudes-am-Arsch
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 265
 ---
 

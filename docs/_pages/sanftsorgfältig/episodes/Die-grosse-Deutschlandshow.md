@@ -1,9 +1,7 @@
 ---
 title: Die große Deutschlandshow
-layout: page
 permalink: /sanft-sorgfältig/episoden/Die-grosse-Deutschlandshow
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 68
 ---
 

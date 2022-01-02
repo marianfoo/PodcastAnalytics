@@ -1,9 +1,7 @@
 ---
 title: #77 ALLES GUTE UND GESUNDHEIT
-layout: page
 permalink: /gemischtes-hack/episoden/77-ALLES-GUTE-UND-GESUNDHEIT
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 77
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Olli ist schlecht drauf
-layout: page
 permalink: /sanft-sorgfältig/episoden/Olli-ist-schlecht-drauf
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 47
 ---
 

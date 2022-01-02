@@ -1,9 +1,7 @@
 ---
 title: Creeplord Schmitt & der kleine Drache
-layout: page
 permalink: /baywatch-berlin/episoden/Creeplord-Schmitt-und-der-kleine-Drache
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 101
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Bonusfolge Böhmerland und Olliversum - die verlorene Sendung
-layout: page
 permalink: /fest-flauschig/episoden/Bonusfolge-Boehmerland-und-Olliversum-die-verlorene-Sendung
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 9
 ---
 

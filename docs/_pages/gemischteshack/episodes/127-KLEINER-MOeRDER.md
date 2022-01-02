@@ -1,9 +1,7 @@
 ---
 title: #127 KLEINER MÖRDER
-layout: page
 permalink: /gemischtes-hack/episoden/127-KLEINER-MOeRDER
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 139
 ---
 

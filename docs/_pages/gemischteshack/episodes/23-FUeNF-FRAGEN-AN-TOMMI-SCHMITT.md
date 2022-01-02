@@ -1,9 +1,7 @@
 ---
 title: #23 FÜNF FRAGEN AN TOMMI SCHMITT
-layout: page
 permalink: /gemischtes-hack/episoden/23-FUeNF-FRAGEN-AN-TOMMI-SCHMITT
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 23
 ---
 

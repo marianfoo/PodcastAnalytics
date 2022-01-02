@@ -1,9 +1,7 @@
 ---
 title: „Wie viel Knete gibt es für den Dreck?“
-layout: page
 permalink: /baywatch-berlin/episoden/Wie-viel-Knete-gibt-es-fuer-den-Dreck
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 81
 ---
 

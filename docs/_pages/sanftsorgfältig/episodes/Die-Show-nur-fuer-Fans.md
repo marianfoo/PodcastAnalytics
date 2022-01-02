@@ -1,9 +1,7 @@
 ---
 title: Die Show nur für Fans
-layout: page
 permalink: /sanft-sorgfältig/episoden/Die-Show-nur-fuer-Fans
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 123
 ---
 

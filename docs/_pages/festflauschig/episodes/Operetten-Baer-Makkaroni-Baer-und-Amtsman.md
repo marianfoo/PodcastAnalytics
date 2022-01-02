@@ -1,9 +1,7 @@
 ---
 title: Operetten-Bär, Makkaroni-Bär und Amtsman
-layout: page
 permalink: /fest-flauschig/episoden/Operetten-Baer-Makkaroni-Baer-und-Amtsman
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 138
 ---
 

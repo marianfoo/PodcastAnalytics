@@ -1,9 +1,7 @@
 ---
 title: Live von der IFA
-layout: page
 permalink: /sanft-sorgfältig/episoden/Live-von-der-IFA
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 31
 ---
 

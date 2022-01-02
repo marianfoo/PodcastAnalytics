@@ -1,9 +1,7 @@
 ---
 title: Willkommen im Dreck. (Heute nennen wir Namen)
-layout: page
 permalink: /baywatch-berlin/episoden/Willkommen-im-Dreck-Heute-nennen-wir-Namen
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 41
 ---
 

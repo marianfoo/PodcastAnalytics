@@ -1,9 +1,7 @@
 ---
 title: Maske auf, die Trottel kommen!
-layout: page
 permalink: /fest-flauschig/episoden/Maske-auf-die-Trottel-kommen
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 259
 ---
 

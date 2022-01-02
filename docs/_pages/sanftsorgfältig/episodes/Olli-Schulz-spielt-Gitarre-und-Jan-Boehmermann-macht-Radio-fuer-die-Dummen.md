@@ -1,9 +1,7 @@
 ---
 title: Olli Schulz spielt Gitarre und Jan Böhmermann macht Radio für die Dummen
-layout: page
 permalink: /sanft-sorgfältig/episoden/Olli-Schulz-spielt-Gitarre-und-Jan-Boehmermann-macht-Radio-fuer-die-Dummen
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 32
 ---
 

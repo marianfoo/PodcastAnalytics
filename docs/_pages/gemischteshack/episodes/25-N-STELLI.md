@@ -1,9 +1,7 @@
 ---
 title: #25 ‘N STELLI
-layout: page
 permalink: /gemischtes-hack/episoden/25-N-STELLI
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 25
 ---
 

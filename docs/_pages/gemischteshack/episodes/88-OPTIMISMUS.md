@@ -1,9 +1,7 @@
 ---
 title: #88 OPTIMISMUS
-layout: page
 permalink: /gemischtes-hack/episoden/88-OPTIMISMUS
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 88
 ---
 

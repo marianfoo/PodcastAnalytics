@@ -1,9 +1,7 @@
 ---
 title: Boomercringe
-layout: page
 permalink: /fest-flauschig/episoden/Boomercringe
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 289
 ---
 

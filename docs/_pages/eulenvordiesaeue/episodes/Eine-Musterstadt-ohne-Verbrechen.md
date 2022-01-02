@@ -1,9 +1,7 @@
 ---
 title: Eine Musterstadt ohne Verbrechen
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Eine-Musterstadt-ohne-Verbrechen
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 38
 ---
 

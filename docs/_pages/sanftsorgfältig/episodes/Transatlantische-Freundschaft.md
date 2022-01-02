@@ -1,9 +1,7 @@
 ---
 title: Transatlantische Freundschaft
-layout: page
 permalink: /sanft-sorgfältig/episoden/Transatlantische-Freundschaft
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 97
 ---
 

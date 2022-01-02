@@ -1,9 +1,7 @@
 ---
 title: Mord in schwarzen Rillen
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Mord-in-schwarzen-Rillen
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 29
 ---
 

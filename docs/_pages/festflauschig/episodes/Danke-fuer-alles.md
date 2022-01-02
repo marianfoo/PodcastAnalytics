@@ -1,9 +1,7 @@
 ---
 title: Danke für alles!
-layout: page
 permalink: /fest-flauschig/episoden/Danke-fuer-alles
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 323
 ---
 

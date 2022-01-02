@@ -1,9 +1,7 @@
 ---
 title: Schweineschwarten im Supermarkt
-layout: page
 permalink: /fest-flauschig/episoden/Schweineschwarten-im-Supermarkt
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 240
 ---
 

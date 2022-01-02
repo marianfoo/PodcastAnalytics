@@ -1,9 +1,7 @@
 ---
 title: Apokalypse Now! - Wir müssen alle sterben!
-layout: page
 permalink: /fest-flauschig/episoden/Apokalypse-Now-Wir-muessen-alle-sterben
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 194
 ---
 

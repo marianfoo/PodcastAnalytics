@@ -1,9 +1,7 @@
 ---
 title: #41 TEAM LEGEBATTERIE
-layout: page
 permalink: /gemischtes-hack/episoden/41-TEAM-LEGEBATTERIE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 41
 ---
 

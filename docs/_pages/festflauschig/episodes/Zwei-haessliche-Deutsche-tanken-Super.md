@@ -1,9 +1,7 @@
 ---
 title: Zwei hässliche Deutsche tanken Super
-layout: page
 permalink: /fest-flauschig/episoden/Zwei-haessliche-Deutsche-tanken-Super
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 113
 ---
 

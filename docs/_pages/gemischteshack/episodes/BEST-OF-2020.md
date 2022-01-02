@@ -1,9 +1,7 @@
 ---
 title: BEST OF 2020
-layout: page
 permalink: /gemischtes-hack/episoden/BEST-OF-2020
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 141
 ---
 

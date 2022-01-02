@@ -1,9 +1,7 @@
 ---
 title: Urängste & Albträume
-layout: page
 permalink: /sanft-sorgfältig/episoden/Uraengste-und-Albtraeume
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 73
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Maximale Catchyness bei minimaler Cheesyness
-layout: page
 permalink: /baywatch-berlin/episoden/Maximale-Catchyness-bei-minimaler-Cheesyness
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 54
 ---
 

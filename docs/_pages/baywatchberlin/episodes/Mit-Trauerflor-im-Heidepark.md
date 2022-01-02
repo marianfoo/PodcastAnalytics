@@ -1,9 +1,7 @@
 ---
 title: Mit Trauerflor im Heidepark
-layout: page
 permalink: /baywatch-berlin/episoden/Mit-Trauerflor-im-Heidepark
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 9
 ---
 

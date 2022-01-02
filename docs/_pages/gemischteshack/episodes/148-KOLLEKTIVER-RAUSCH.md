@@ -1,9 +1,7 @@
 ---
 title: #148 KOLLEKTIVER RAUSCH
-layout: page
 permalink: /gemischtes-hack/episoden/148-KOLLEKTIVER-RAUSCH
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 161
 ---
 

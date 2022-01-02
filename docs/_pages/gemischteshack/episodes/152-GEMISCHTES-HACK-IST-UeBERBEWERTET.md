@@ -1,9 +1,7 @@
 ---
 title: #152 GEMISCHTES HACK IST ÜBERBEWERTET
-layout: page
 permalink: /gemischtes-hack/episoden/152-GEMISCHTES-HACK-IST-UeBERBEWERTET
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 165
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Impulse für Aufschwung und Wirtschaft 
-layout: page
 permalink: /fest-flauschig/episoden/Impulse-fuer-Aufschwung-und-Wirtschaft
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 234
 ---
 

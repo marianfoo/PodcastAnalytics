@@ -1,9 +1,7 @@
 ---
 title: #14 DAS IST MEIN TÜRKE
-layout: page
 permalink: /gemischtes-hack/episoden/14-DAS-IST-MEIN-TUeRKE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 14
 ---
 

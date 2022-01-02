@@ -1,9 +1,7 @@
 ---
 title: Kein schlechtes Wort feat. Resident DJ Bjarne Mädel
-layout: page
 permalink: /fest-flauschig/episoden/Kein-schlechtes-Wort-feat-Resident-DJ-Bjarne-Maedel
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 222
 ---
 

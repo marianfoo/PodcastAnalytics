@@ -1,9 +1,7 @@
 ---
 title: Wir wollen raus aus der Medienbranche
-layout: page
 permalink: /sanft-sorgfältig/episoden/Wir-wollen-raus-aus-der-Medienbranche
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 52
 ---
 

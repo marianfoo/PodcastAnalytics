@@ -1,9 +1,7 @@
 ---
 title: Sommerbrief #5
-layout: page
 permalink: /fest-flauschig/episoden/Sommerbrief-5
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 164
 ---
 

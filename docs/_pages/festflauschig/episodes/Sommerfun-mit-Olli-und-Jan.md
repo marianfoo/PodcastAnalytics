@@ -1,9 +1,7 @@
 ---
 title: Sommerfun mit Olli und Jan
-layout: page
 permalink: /fest-flauschig/episoden/Sommerfun-mit-Olli-und-Jan
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 159
 ---
 

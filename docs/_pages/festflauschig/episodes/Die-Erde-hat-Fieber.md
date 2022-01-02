@@ -1,9 +1,7 @@
 ---
 title: Die Erde hat Fieber
-layout: page
 permalink: /fest-flauschig/episoden/Die-Erde-hat-Fieber
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 196
 ---
 

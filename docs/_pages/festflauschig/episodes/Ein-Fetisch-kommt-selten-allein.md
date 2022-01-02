@@ -1,9 +1,7 @@
 ---
 title: Ein Fetisch kommt selten allein
-layout: page
 permalink: /fest-flauschig/episoden/Ein-Fetisch-kommt-selten-allein
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 190
 ---
 

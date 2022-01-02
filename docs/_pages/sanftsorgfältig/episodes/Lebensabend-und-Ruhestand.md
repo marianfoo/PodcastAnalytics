@@ -1,9 +1,7 @@
 ---
 title: Lebensabend & Ruhestand
-layout: page
 permalink: /sanft-sorgfältig/episoden/Lebensabend-und-Ruhestand
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 105
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Jörn & Olaf
-layout: page
 permalink: /fest-flauschig/episoden/Joern-und-Olaf
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 73
 ---
 

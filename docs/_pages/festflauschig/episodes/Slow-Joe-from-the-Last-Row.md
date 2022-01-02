@@ -1,9 +1,7 @@
 ---
 title: Slow Joe from the Last Row
-layout: page
 permalink: /fest-flauschig/episoden/Slow-Joe-from-the-Last-Row
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 317
 ---
 

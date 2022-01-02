@@ -1,9 +1,7 @@
 ---
 title: The On-The-Road-Again-Edition
-layout: page
 permalink: /sanft-sorgfältig/episoden/The-On-The-Road-Again-Edition
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 103
 ---
 

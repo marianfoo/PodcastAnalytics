@@ -1,9 +1,7 @@
 ---
 title: #9 IHR SEID SCHÖN
-layout: page
 permalink: /gemischtes-hack/episoden/9-IHR-SEID-SCHOeN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 9
 ---
 

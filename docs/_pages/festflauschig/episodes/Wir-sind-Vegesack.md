@@ -1,9 +1,7 @@
 ---
 title: Wir sind Vegesack
-layout: page
 permalink: /fest-flauschig/episoden/Wir-sind-Vegesack
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 183
 ---
 

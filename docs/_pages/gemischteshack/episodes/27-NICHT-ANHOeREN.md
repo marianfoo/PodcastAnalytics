@@ -1,9 +1,7 @@
 ---
 title: #27 NICHT ANHÖREN!
-layout: page
 permalink: /gemischtes-hack/episoden/27-NICHT-ANHOeREN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 27
 ---
 

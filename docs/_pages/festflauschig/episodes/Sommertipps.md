@@ -1,9 +1,7 @@
 ---
 title: Sommertipps
-layout: page
 permalink: /fest-flauschig/episoden/Sommertipps
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 109
 ---
 

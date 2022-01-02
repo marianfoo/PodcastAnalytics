@@ -1,9 +1,7 @@
 ---
 title: Opa bei Madame Sibylle
-layout: page
 permalink: /fest-flauschig/episoden/Opa-bei-Madame-Sibylle
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 92
 ---
 

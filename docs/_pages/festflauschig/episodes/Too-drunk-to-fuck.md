@@ -1,9 +1,7 @@
 ---
 title: Too drunk to fuck
-layout: page
 permalink: /fest-flauschig/episoden/Too-drunk-to-fuck
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 277
 ---
 

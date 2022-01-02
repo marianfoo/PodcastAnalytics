@@ -1,9 +1,7 @@
 ---
 title: Die alte Soße gehört auf den Croque
-layout: page
 permalink: /fest-flauschig/episoden/Die-alte-Sosse-gehoert-auf-den-Croque
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 249
 ---
 

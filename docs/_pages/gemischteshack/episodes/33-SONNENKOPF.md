@@ -1,9 +1,7 @@
 ---
 title: #33 SONNENKOPF
-layout: page
 permalink: /gemischtes-hack/episoden/33-SONNENKOPF
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 33
 ---
 

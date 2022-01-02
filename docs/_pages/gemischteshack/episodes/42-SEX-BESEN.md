@@ -1,9 +1,7 @@
 ---
 title: #42 SEX-BESEN
-layout: page
 permalink: /gemischtes-hack/episoden/42-SEX-BESEN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 42
 ---
 

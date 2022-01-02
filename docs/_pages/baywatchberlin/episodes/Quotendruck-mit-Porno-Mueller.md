@@ -1,9 +1,7 @@
 ---
 title: Quotendruck mit Porno-Müller
-layout: page
 permalink: /baywatch-berlin/episoden/Quotendruck-mit-Porno-Mueller
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 21
 ---
 

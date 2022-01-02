@@ -1,9 +1,7 @@
 ---
 title: #BOOMERCRINGE 35
-layout: page
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-35
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 341
 ---
 

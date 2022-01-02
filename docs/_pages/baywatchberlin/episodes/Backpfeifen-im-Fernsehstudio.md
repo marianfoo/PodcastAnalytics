@@ -1,9 +1,7 @@
 ---
 title: Backpfeifen im Fernsehstudio
-layout: page
 permalink: /baywatch-berlin/episoden/Backpfeifen-im-Fernsehstudio
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 8
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #107 DIE DRITTE TÜR
-layout: page
 permalink: /gemischtes-hack/episoden/107-DIE-DRITTE-TUeR
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 113
 ---
 

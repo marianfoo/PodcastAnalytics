@@ -1,9 +1,7 @@
 ---
 title: The Big Sorry
-layout: page
 permalink: /fest-flauschig/episoden/The-Big-Sorry
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 358
 ---
 

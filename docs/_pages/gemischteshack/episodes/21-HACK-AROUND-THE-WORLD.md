@@ -1,9 +1,7 @@
 ---
 title: #21 HACK AROUND THE WORLD
-layout: page
 permalink: /gemischtes-hack/episoden/21-HACK-AROUND-THE-WORLD
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 21
 ---
 

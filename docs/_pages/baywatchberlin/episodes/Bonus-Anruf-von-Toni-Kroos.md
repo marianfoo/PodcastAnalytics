@@ -1,9 +1,7 @@
 ---
 title: Bonus Anruf von Toni Kroos
-layout: page
 permalink: /baywatch-berlin/episoden/Bonus-Anruf-von-Toni-Kroos
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 25
 ---
 

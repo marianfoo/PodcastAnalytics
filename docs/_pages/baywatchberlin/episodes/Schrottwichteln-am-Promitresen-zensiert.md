@@ -1,9 +1,7 @@
 ---
 title: Schrottwichteln am Promitresen (zensiert)
-layout: page
 permalink: /baywatch-berlin/episoden/Schrottwichteln-am-Promitresen-zensiert
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 6
 ---
 

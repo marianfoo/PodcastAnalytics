@@ -1,9 +1,7 @@
 ---
 title: #60 DICKE MILCHTITTEN
-layout: page
 permalink: /gemischtes-hack/episoden/60-DICKE-MILCHTITTEN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 60
 ---
 

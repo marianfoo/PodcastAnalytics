@@ -1,9 +1,7 @@
 ---
 title: An Afrika denken
-layout: page
 permalink: /fest-flauschig/episoden/An-Afrika-denken
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 59
 ---
 

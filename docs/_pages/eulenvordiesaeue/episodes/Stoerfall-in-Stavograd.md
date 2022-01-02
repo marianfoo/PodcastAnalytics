@@ -1,9 +1,7 @@
 ---
 title: Störfall in Stavograd
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Stoerfall-in-Stavograd
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 50
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #126 GOTT SPIELEN
-layout: page
 permalink: /gemischtes-hack/episoden/126-GOTT-SPIELEN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 138
 ---
 

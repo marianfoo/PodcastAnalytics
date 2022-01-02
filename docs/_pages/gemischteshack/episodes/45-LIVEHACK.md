@@ -1,9 +1,7 @@
 ---
 title: #45 LIVEHACK
-layout: page
 permalink: /gemischtes-hack/episoden/45-LIVEHACK
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 45
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Söder & die Kreatur vom Baum
-layout: page
 permalink: /baywatch-berlin/episoden/Soeder-und-die-Kreatur-vom-Baum
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 71
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #76 SEX-SCHEIDE
-layout: page
 permalink: /gemischtes-hack/episoden/76-SEX-SCHEIDE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 76
 ---
 

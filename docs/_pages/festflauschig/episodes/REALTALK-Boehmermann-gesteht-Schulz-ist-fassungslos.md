@@ -1,9 +1,7 @@
 ---
 title: REALTALK Böhmermann gesteht, Schulz ist fassungslos
-layout: page
 permalink: /fest-flauschig/episoden/REALTALK-Boehmermann-gesteht-Schulz-ist-fassungslos
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 147
 ---
 

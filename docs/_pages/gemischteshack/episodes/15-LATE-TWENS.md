@@ -1,9 +1,7 @@
 ---
 title: #15 LATE TWENS
-layout: page
 permalink: /gemischtes-hack/episoden/15-LATE-TWENS
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 15
 ---
 

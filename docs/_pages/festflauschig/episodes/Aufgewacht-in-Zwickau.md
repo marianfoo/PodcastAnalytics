@@ -1,9 +1,7 @@
 ---
 title: Aufgewacht in Zwickau
-layout: page
 permalink: /fest-flauschig/episoden/Aufgewacht-in-Zwickau
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 91
 ---
 

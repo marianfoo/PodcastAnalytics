@@ -1,9 +1,7 @@
 ---
 title: Wie würde eine bessere Welt aussehen
-layout: page
 permalink: /sanft-sorgfältig/episoden/Wie-wuerde-eine-bessere-Welt-aussehen
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 34
 ---
 

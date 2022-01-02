@@ -1,9 +1,7 @@
 ---
 title: #46 NACHHALTIG BUMSEN
-layout: page
 permalink: /gemischtes-hack/episoden/46-NACHHALTIG-BUMSEN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 46
 ---
 

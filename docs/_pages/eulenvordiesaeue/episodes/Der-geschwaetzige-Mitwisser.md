@@ -1,9 +1,7 @@
 ---
 title: Der geschwätzige Mitwisser
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Der-geschwaetzige-Mitwisser
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 22
 ---
 

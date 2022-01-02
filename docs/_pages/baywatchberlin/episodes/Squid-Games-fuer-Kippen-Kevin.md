@@ -1,9 +1,7 @@
 ---
 title: Squid Games für Kippen-Kevin
-layout: page
 permalink: /baywatch-berlin/episoden/Squid-Games-fuer-Kippen-Kevin
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 97
 ---
 

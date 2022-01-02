@@ -1,9 +1,7 @@
 ---
 title: Der Titelvorschlag kam zu spät
-layout: page
 permalink: /baywatch-berlin/episoden/Der-Titelvorschlag-kam-zu-spaet
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 47
 ---
 

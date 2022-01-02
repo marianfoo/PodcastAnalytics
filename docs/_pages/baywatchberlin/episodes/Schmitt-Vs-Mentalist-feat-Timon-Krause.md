@@ -1,9 +1,7 @@
 ---
 title: Schmitt Vs. Mentalist (feat. Timon Krause)
-layout: page
 permalink: /baywatch-berlin/episoden/Schmitt-Vs-Mentalist-feat-Timon-Krause
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 99
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Omas ohne Ende
-layout: page
 permalink: /fest-flauschig/episoden/Omas-ohne-Ende
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 198
 ---
 

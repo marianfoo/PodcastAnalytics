@@ -1,9 +1,7 @@
 ---
 title: Best of Sanft & Sorgfältig (2)
-layout: page
 permalink: /sanft-sorgfältig/episoden/Best-of-Sanft-und-Sorgfaeltig-2
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 117
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #101 ERSTMAL HEU
-layout: page
 permalink: /gemischtes-hack/episoden/101-ERSTMAL-HEU
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 103
 ---
 

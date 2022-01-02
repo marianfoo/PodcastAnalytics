@@ -1,9 +1,7 @@
 ---
 title: Sanft ohne Sorgfältig
-layout: page
 permalink: /sanft-sorgfältig/episoden/Sanft-ohne-Sorgfaeltig
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 76
 ---
 

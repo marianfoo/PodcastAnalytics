@@ -1,9 +1,7 @@
 ---
 title: Das Leben ist ne Ratte
-layout: page
 permalink: /fest-flauschig/episoden/Das-Leben-ist-ne-Ratte
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 23
 ---
 

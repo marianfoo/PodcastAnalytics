@@ -1,9 +1,7 @@
 ---
 title: Best Of Sanft & Sorgfältig 2015 Vol. 2
-layout: page
 permalink: /sanft-sorgfältig/episoden/Best-Of-Sanft-und-Sorgfaeltig-2015-Vol-2
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 135
 ---
 

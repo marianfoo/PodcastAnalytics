@@ -1,9 +1,7 @@
 ---
 title: #162 SEX-CORONA 
-layout: page
 permalink: /gemischtes-hack/episoden/162-SEX-CORONA
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 176
 ---
 

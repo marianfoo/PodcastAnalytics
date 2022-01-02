@@ -1,9 +1,7 @@
 ---
 title: DARÜBER müsst Ihr mal was machen!
-layout: page
 permalink: /fest-flauschig/episoden/DARUeBER-muesst-Ihr-mal-was-machen
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 174
 ---
 

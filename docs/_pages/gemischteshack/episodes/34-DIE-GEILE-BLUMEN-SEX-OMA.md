@@ -1,9 +1,7 @@
 ---
 title: #34 DIE GEILE BLUMEN-SEX-OMA
-layout: page
 permalink: /gemischtes-hack/episoden/34-DIE-GEILE-BLUMEN-SEX-OMA
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 34
 ---
 

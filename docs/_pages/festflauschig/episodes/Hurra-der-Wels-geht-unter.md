@@ -1,9 +1,7 @@
 ---
 title: Hurra, der Wels geht unter!
-layout: page
 permalink: /fest-flauschig/episoden/Hurra-der-Wels-geht-unter
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 243
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #37 CHEMNITZ UND JAN ULLRICH
-layout: page
 permalink: /gemischtes-hack/episoden/37-CHEMNITZ-UND-JAN-ULLRICH
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 37
 ---
 

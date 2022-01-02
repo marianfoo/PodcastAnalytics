@@ -1,9 +1,7 @@
 ---
 title: Der große Radio-Test
-layout: page
 permalink: /sanft-sorgfältig/episoden/Der-grosse-Radio-Test
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 56
 ---
 

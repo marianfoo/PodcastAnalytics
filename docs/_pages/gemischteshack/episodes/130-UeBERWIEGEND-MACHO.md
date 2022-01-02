@@ -1,9 +1,7 @@
 ---
 title: #130 ÜBERWIEGEND MACHO
-layout: page
 permalink: /gemischtes-hack/episoden/130-UeBERWIEGEND-MACHO
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 143
 ---
 

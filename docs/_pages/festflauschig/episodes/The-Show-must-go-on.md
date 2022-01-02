@@ -1,9 +1,7 @@
 ---
 title: The Show must go on
-layout: page
 permalink: /fest-flauschig/episoden/The-Show-must-go-on
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 24
 ---
 

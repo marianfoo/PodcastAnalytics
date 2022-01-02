@@ -1,9 +1,7 @@
 ---
 title: Müllaktion in Manhattan
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Muellaktion-in-Manhattan
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 5
 ---
 

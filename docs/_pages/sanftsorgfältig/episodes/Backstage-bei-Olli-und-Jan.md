@@ -1,9 +1,7 @@
 ---
 title: Backstage bei Olli und Jan
-layout: page
 permalink: /sanft-sorgfältig/episoden/Backstage-bei-Olli-und-Jan
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 133
 ---
 

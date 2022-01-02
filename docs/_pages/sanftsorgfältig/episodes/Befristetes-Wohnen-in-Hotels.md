@@ -1,9 +1,7 @@
 ---
 title: (Befristetes Wohnen in) Hotels
-layout: page
 permalink: /sanft-sorgfältig/episoden/Befristetes-Wohnen-in-Hotels
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 77
 ---
 

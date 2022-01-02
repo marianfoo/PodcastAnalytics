@@ -1,9 +1,7 @@
 ---
 title: Der Che Guevara der Stinkesocken
-layout: page
 permalink: /baywatch-berlin/episoden/Der-Che-Guevara-der-Stinkesocken
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 57
 ---
 

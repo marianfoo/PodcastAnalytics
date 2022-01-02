@@ -1,9 +1,7 @@
 ---
 title: Der Wels in der Brandung
-layout: page
 permalink: /fest-flauschig/episoden/Der-Wels-in-der-Brandung
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 337
 ---
 

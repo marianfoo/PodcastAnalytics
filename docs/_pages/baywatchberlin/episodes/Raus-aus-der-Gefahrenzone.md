@@ -1,9 +1,7 @@
 ---
 title: Raus aus der Gefahrenzone
-layout: page
 permalink: /baywatch-berlin/episoden/Raus-aus-der-Gefahrenzone
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 16
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #118 BONG IST GUT WENN MAN ARM IST
-layout: page
 permalink: /gemischtes-hack/episoden/118-BONG-IST-GUT-WENN-MAN-ARM-IST
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 125
 ---
 

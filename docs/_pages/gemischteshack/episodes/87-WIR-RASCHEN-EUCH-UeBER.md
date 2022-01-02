@@ -1,9 +1,7 @@
 ---
 title: #87 WIR RASCHEN EUCH ÜBER
-layout: page
 permalink: /gemischtes-hack/episoden/87-WIR-RASCHEN-EUCH-UeBER
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 87
 ---
 

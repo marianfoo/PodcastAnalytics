@@ -1,9 +1,7 @@
 ---
 title: Der Aal eckt nicht an!
-layout: page
 permalink: /fest-flauschig/episoden/Der-Aal-eckt-nicht-an
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 340
 ---
 

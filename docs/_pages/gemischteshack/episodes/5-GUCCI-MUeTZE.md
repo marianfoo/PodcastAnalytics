@@ -1,9 +1,7 @@
 ---
 title: #5 GUCCI-MÜTZE
-layout: page
 permalink: /gemischtes-hack/episoden/5-GUCCI-MUeTZE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 5
 ---
 

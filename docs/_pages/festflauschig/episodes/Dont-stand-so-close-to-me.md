@@ -1,9 +1,7 @@
 ---
 title: Don’t stand so close to me
-layout: page
 permalink: /fest-flauschig/episoden/Dont-stand-so-close-to-me
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 305
 ---
 

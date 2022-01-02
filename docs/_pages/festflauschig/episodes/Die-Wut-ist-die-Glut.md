@@ -1,9 +1,7 @@
 ---
 title: Die Wut ist die Glut
-layout: page
 permalink: /fest-flauschig/episoden/Die-Wut-ist-die-Glut
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 287
 ---
 

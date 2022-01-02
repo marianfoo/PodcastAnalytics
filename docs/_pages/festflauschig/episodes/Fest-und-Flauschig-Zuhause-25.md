@@ -1,9 +1,7 @@
 ---
 title: Fest & Flauschig Zuhause - 25
-layout: page
 permalink: /fest-flauschig/episoden/Fest-und-Flauschig-Zuhause-25
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 230
 ---
 

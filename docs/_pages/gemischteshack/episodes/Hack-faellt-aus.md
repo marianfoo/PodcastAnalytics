@@ -1,9 +1,7 @@
 ---
 title: Hack fällt aus
-layout: page
 permalink: /gemischtes-hack/episoden/Hack-faellt-aus
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 170
 ---
 

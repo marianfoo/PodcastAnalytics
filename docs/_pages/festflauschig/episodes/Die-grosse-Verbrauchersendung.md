@@ -1,9 +1,7 @@
 ---
 title: Die große Verbrauchersendung
-layout: page
 permalink: /fest-flauschig/episoden/Die-grosse-Verbrauchersendung
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 145
 ---
 

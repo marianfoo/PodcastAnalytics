@@ -1,9 +1,7 @@
 ---
 title: Die Küchensendung
-layout: page
 permalink: /sanft-sorgfältig/episoden/Die-Kuechensendung
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 120
 ---
 

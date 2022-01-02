@@ -1,9 +1,7 @@
 ---
 title: Wir haben den Galgen geprüft
-layout: page
 permalink: /fest-flauschig/episoden/Wir-haben-den-Galgen-geprueft
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 149
 ---
 

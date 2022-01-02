@@ -1,9 +1,7 @@
 ---
 title: Altern und Würde
-layout: page
 permalink: /fest-flauschig/episoden/Altern-und-Wuerde
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 27
 ---
 

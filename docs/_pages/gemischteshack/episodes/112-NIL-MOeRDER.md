@@ -1,9 +1,7 @@
 ---
 title: #112 NIL MÖRDER
-layout: page
 permalink: /gemischtes-hack/episoden/112-NIL-MOeRDER
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 118
 ---
 

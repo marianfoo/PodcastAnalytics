@@ -1,9 +1,7 @@
 ---
 title: Der Tod unter der Zirkuskuppel
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Der-Tod-unter-der-Zirkuskuppel
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 41
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Der große Sonntagsspaziergang
-layout: page
 permalink: /fest-flauschig/episoden/Der-grosse-Sonntagsspaziergang
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 32
 ---
 

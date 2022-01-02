@@ -1,9 +1,7 @@
 ---
 title: Geburtstag in der Präsidentensuite (mit Thomas Gottschalk)
-layout: page
 permalink: /baywatch-berlin/episoden/Geburtstag-in-der-Praesidentensuite-mit-Thomas-Gottschalk
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 53
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Auf die Hand - KW 07/2020
-layout: page
 permalink: /fest-flauschig/episoden/Auf-die-Hand-KW-072020
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 189
 ---
 

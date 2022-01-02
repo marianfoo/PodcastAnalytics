@@ -1,9 +1,7 @@
 ---
 title: #111 JAMES BOND JAMES BOND
-layout: page
 permalink: /gemischtes-hack/episoden/111-JAMES-BOND-JAMES-BOND
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 117
 ---
 

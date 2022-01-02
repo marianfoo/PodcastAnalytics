@@ -1,9 +1,7 @@
 ---
 title: Der Klaas-Heufer-Umlauf-Rentenfonds
-layout: page
 permalink: /baywatch-berlin/episoden/Der-Klaas-Heufer-Umlauf-Rentenfonds
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 62
 ---
 

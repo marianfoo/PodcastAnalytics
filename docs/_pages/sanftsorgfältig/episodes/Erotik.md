@@ -1,9 +1,7 @@
 ---
 title: Erotik
-layout: page
 permalink: /sanft-sorgfältig/episoden/Erotik
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 23
 ---
 

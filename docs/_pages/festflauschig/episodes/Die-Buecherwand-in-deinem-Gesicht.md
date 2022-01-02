@@ -1,9 +1,7 @@
 ---
 title: Die Bücherwand in deinem Gesicht
-layout: page
 permalink: /fest-flauschig/episoden/Die-Buecherwand-in-deinem-Gesicht
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 237
 ---
 

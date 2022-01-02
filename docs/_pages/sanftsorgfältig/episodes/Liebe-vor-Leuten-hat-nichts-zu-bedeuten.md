@@ -1,9 +1,7 @@
 ---
 title: Liebe vor Leuten hat nichts zu bedeuten
-layout: page
 permalink: /sanft-sorgfältig/episoden/Liebe-vor-Leuten-hat-nichts-zu-bedeuten
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 80
 ---
 

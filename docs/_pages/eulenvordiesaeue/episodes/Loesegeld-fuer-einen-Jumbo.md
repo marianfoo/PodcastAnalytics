@@ -1,9 +1,7 @@
 ---
 title: Lösegeld für einen Jumbo
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Loesegeld-fuer-einen-Jumbo
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 10
 ---
 

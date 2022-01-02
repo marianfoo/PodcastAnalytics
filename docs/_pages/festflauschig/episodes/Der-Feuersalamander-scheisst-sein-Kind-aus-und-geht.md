@@ -1,9 +1,7 @@
 ---
 title: Der Feuersalamander scheißt sein Kind aus und geht 
-layout: page
 permalink: /fest-flauschig/episoden/Der-Feuersalamander-scheisst-sein-Kind-aus-und-geht
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 231
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Tonmannzunftlanzenbrechereifestival Vol. 1 - Teil 1 Die Reise
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Tonmannzunftlanzenbrechereifestival-Vol-1-Teil-1-Die-Reise
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 51
 ---
 

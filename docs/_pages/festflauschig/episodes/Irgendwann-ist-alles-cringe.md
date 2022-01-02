@@ -1,9 +1,7 @@
 ---
 title: Irgendwann ist alles cringe
-layout: page
 permalink: /fest-flauschig/episoden/Irgendwann-ist-alles-cringe
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 360
 ---
 

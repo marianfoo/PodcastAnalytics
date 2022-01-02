@@ -1,9 +1,7 @@
 ---
 title: Wo ist der Rock n Roll geblieben
-layout: page
 permalink: /sanft-sorgfältig/episoden/Wo-ist-der-Rock-n-Roll-geblieben
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 70
 ---
 

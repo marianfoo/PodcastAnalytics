@@ -1,9 +1,7 @@
 ---
 title: Meikel Jordan & der gelbe Mann
-layout: page
 permalink: /baywatch-berlin/episoden/Meikel-Jordan-und-der-gelbe-Mann
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 72
 ---
 

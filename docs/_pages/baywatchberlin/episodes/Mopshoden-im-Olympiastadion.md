@@ -1,9 +1,7 @@
 ---
 title: Mopshoden im Olympiastadion
-layout: page
 permalink: /baywatch-berlin/episoden/Mopshoden-im-Olympiastadion
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 10
 ---
 

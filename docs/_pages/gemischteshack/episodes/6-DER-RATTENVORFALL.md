@@ -1,9 +1,7 @@
 ---
 title: #6 DER RATTENVORFALL
-layout: page
 permalink: /gemischtes-hack/episoden/6-DER-RATTENVORFALL
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 6
 ---
 

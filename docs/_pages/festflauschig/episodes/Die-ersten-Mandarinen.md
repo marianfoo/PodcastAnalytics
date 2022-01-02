@@ -1,9 +1,7 @@
 ---
 title: Die ersten Mandarinen
-layout: page
 permalink: /fest-flauschig/episoden/Die-ersten-Mandarinen
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 71
 ---
 

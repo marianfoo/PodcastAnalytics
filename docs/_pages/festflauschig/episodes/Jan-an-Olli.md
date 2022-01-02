@@ -1,9 +1,7 @@
 ---
 title: Jan an Olli
-layout: page
 permalink: /fest-flauschig/episoden/Jan-an-Olli
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 132
 ---
 

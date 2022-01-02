@@ -1,9 +1,7 @@
 ---
 title: Das Geheimnis der Marzipandecke
-layout: page
 permalink: /fest-flauschig/episoden/Das-Geheimnis-der-Marzipandecke
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 246
 ---
 

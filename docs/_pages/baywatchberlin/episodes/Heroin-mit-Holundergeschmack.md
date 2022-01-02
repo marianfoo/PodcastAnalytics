@@ -1,9 +1,7 @@
 ---
 title: Heroin mit Holundergeschmack
-layout: page
 permalink: /baywatch-berlin/episoden/Heroin-mit-Holundergeschmack
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 80
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Über den Preis des Erfolges
-layout: page
 permalink: /sanft-sorgfältig/episoden/Ueber-den-Preis-des-Erfolges
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 36
 ---
 

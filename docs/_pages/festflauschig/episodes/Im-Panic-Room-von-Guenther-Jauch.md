@@ -1,9 +1,7 @@
 ---
 title: Im Panic Room von Günther Jauch
-layout: page
 permalink: /fest-flauschig/episoden/Im-Panic-Room-von-Guenther-Jauch
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 142
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #98 VERSANDTASCHE
-layout: page
 permalink: /gemischtes-hack/episoden/98-VERSANDTASCHE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 98
 ---
 

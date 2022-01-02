@@ -1,9 +1,7 @@
 ---
 title: #48 HOW TO HACK
-layout: page
 permalink: /gemischtes-hack/episoden/48-HOW-TO-HACK
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 48
 ---
 

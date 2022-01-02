@@ -1,9 +1,7 @@
 ---
 title: #166 ICH KRIEG X NICHT MEHR RÜBER
-layout: page
 permalink: /gemischtes-hack/episoden/166-ICH-KRIEG-X-NICHT-MEHR-RUeBER
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 180
 ---
 

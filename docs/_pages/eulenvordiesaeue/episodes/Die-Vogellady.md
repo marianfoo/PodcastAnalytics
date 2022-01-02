@@ -1,9 +1,7 @@
 ---
 title: Die Vogellady
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Die-Vogellady
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 19
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Die Jakob-Passion (mit Kai Pflaume)
-layout: page
 permalink: /baywatch-berlin/episoden/Die-Jakob-Passion-mit-Kai-Pflaume
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 90
 ---
 

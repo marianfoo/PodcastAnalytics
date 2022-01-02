@@ -1,9 +1,7 @@
 ---
 title: #159 FAIRE SEIFE
-layout: page
 permalink: /gemischtes-hack/episoden/159-FAIRE-SEIFE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 173
 ---
 

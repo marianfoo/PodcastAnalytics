@@ -1,9 +1,7 @@
 ---
 title: Wir sind immer noch auf Bali
-layout: page
 permalink: /fest-flauschig/episoden/Wir-sind-immer-noch-auf-Bali
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 297
 ---
 

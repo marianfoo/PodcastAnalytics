@@ -1,9 +1,7 @@
 ---
 title: Aus der Blase
-layout: page
 permalink: /sanft-sorgfältig/episoden/Aus-der-Blase
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 102
 ---
 

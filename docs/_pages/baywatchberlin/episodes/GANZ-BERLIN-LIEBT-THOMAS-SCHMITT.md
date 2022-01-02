@@ -1,9 +1,7 @@
 ---
 title: GANZ BERLIN LIEBT THOMAS SCHMITT
-layout: page
 permalink: /baywatch-berlin/episoden/GANZ-BERLIN-LIEBT-THOMAS-SCHMITT
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 75
 ---
 

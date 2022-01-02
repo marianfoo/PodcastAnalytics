@@ -1,9 +1,7 @@
 ---
 title: Schlecht gelaunt im Rampenlicht
-layout: page
 permalink: /baywatch-berlin/episoden/Schlecht-gelaunt-im-Rampenlicht
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 67
 ---
 

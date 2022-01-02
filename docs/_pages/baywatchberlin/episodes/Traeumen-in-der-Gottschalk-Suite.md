@@ -1,9 +1,7 @@
 ---
 title: Träumen in der Gottschalk-Suite
-layout: page
 permalink: /baywatch-berlin/episoden/Traeumen-in-der-Gottschalk-Suite
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 12
 ---
 

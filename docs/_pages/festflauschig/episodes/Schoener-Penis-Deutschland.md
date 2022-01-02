@@ -1,9 +1,7 @@
 ---
 title: Schöner Penis Deutschland
-layout: page
 permalink: /fest-flauschig/episoden/Schoener-Penis-Deutschland
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 166
 ---
 

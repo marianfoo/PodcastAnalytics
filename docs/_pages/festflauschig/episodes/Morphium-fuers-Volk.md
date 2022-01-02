@@ -1,9 +1,7 @@
 ---
 title: Morphium fürs Volk
-layout: page
 permalink: /fest-flauschig/episoden/Morphium-fuers-Volk
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 124
 ---
 

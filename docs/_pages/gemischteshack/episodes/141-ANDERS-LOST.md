@@ -1,9 +1,7 @@
 ---
 title: #141 ANDERS LOST
-layout: page
 permalink: /gemischtes-hack/episoden/141-ANDERS-LOST
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 154
 ---
 

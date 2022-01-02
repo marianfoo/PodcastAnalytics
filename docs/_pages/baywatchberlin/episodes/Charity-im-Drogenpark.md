@@ -1,9 +1,7 @@
 ---
 title: Charity im Drogenpark
-layout: page
 permalink: /baywatch-berlin/episoden/Charity-im-Drogenpark
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 22
 ---
 

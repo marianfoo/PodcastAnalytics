@@ -1,9 +1,7 @@
 ---
 title: Die Geschichte der Menschheit
-layout: page
 permalink: /fest-flauschig/episoden/Die-Geschichte-der-Menschheit
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 10
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Stimmungslage Cordon Bleu
-layout: page
 permalink: /baywatch-berlin/episoden/Stimmungslage-Cordon-Bleu
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 89
 ---
 

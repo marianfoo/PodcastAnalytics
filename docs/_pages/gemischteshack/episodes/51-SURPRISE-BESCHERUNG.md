@@ -1,9 +1,7 @@
 ---
 title: #51 SURPRISE! BESCHERUNG!
-layout: page
 permalink: /gemischtes-hack/episoden/51-SURPRISE-BESCHERUNG
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 51
 ---
 

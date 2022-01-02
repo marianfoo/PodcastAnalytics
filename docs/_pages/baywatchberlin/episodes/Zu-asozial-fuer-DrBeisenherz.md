@@ -1,9 +1,7 @@
 ---
 title: Zu asozial für Dr.Beisenherz
-layout: page
 permalink: /baywatch-berlin/episoden/Zu-asozial-fuer-DrBeisenherz
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 94
 ---
 

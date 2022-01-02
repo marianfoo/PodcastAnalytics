@@ -1,9 +1,7 @@
 ---
 title: #67 EHRE
-layout: page
 permalink: /gemischtes-hack/episoden/67-EHRE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 67
 ---
 

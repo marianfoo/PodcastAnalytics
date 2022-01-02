@@ -1,9 +1,7 @@
 ---
 title: Kreativ durch den Herbst
-layout: page
 permalink: /sanft-sorgfältig/episoden/Kreativ-durch-den-Herbst
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 124
 ---
 

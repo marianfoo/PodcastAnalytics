@@ -1,9 +1,7 @@
 ---
 title: Der Koffer des Chinesen
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Der-Koffer-des-Chinesen
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 26
 ---
 

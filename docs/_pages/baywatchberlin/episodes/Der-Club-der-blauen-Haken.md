@@ -1,9 +1,7 @@
 ---
 title: Der Club der blauen Haken
-layout: page
 permalink: /baywatch-berlin/episoden/Der-Club-der-blauen-Haken
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 27
 ---
 

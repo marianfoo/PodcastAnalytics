@@ -1,9 +1,7 @@
 ---
 title: Heilende Steine und Mixed Pakoras
-layout: page
 permalink: /fest-flauschig/episoden/Heilende-Steine-und-Mixed-Pakoras
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 342
 ---
 

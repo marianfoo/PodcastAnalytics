@@ -1,9 +1,7 @@
 ---
 title: Best of 2014
-layout: page
 permalink: /sanft-sorgfältig/episoden/Best-of-2014
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 89
 ---
 

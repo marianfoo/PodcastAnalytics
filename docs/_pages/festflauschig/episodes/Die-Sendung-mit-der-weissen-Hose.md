@@ -1,9 +1,7 @@
 ---
 title: Die Sendung mit der weißen Hose
-layout: page
 permalink: /fest-flauschig/episoden/Die-Sendung-mit-der-weissen-Hose
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 333
 ---
 

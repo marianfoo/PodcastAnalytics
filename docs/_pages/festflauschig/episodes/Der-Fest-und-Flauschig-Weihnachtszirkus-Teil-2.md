@@ -1,9 +1,7 @@
 ---
 title: Der Fest & Flauschig Weihnachtszirkus - Teil 2
-layout: page
 permalink: /fest-flauschig/episoden/Der-Fest-und-Flauschig-Weihnachtszirkus-Teil-2
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 79
 ---
 

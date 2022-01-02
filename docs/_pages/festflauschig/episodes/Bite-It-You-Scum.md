@@ -1,9 +1,7 @@
 ---
 title: Bite It You Scum
-layout: page
 permalink: /fest-flauschig/episoden/Bite-It-You-Scum
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 364
 ---
 

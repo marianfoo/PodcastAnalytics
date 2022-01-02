@@ -1,9 +1,7 @@
 ---
 title: Für die Story hätte ich's gemacht
-layout: page
 permalink: /fest-flauschig/episoden/Fuer-die-Story-haette-ichs-gemacht
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 180
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Im freien Fall (Sommerspecial)
-layout: page
 permalink: /baywatch-berlin/episoden/Im-freien-Fall-Sommerspecial
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 82
 ---
 

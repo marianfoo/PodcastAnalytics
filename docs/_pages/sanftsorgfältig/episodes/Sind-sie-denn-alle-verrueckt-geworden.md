@@ -1,9 +1,7 @@
 ---
 title: Sind sie denn alle verrückt geworden
-layout: page
 permalink: /sanft-sorgfältig/episoden/Sind-sie-denn-alle-verrueckt-geworden
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 58
 ---
 

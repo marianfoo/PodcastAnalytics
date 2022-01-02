@@ -1,9 +1,7 @@
 ---
 title: #125 ALLE SEITLICH LEGEN
-layout: page
 permalink: /gemischtes-hack/episoden/125-ALLE-SEITLICH-LEGEN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 137
 ---
 

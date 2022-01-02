@@ -1,9 +1,7 @@
 ---
 title: #120 WÜTENDE BOSNIER
-layout: page
 permalink: /gemischtes-hack/episoden/120-WUeTENDE-BOSNIER
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 129
 ---
 

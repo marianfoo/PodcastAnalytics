@@ -1,9 +1,7 @@
 ---
 title: #147 VERGESST MIR DIE SPANIER NICHT
-layout: page
 permalink: /gemischtes-hack/episoden/147-VERGESST-MIR-DIE-SPANIER-NICHT
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 160
 ---
 

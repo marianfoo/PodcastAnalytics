@@ -1,9 +1,7 @@
 ---
 title: Shortseller am Honigstand
-layout: page
 permalink: /baywatch-berlin/episoden/Shortseller-am-Honigstand
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 77
 ---
 

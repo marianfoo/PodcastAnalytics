@@ -1,9 +1,7 @@
 ---
 title: Tequila Time mit Jan und Olli
-layout: page
 permalink: /fest-flauschig/episoden/Tequila-Time-mit-Jan-und-Olli
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 356
 ---
 

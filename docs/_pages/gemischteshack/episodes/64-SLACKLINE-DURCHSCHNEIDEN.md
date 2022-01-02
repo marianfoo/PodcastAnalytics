@@ -1,9 +1,7 @@
 ---
 title: #64 SLACKLINE DURCHSCHNEIDEN
-layout: page
 permalink: /gemischtes-hack/episoden/64-SLACKLINE-DURCHSCHNEIDEN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 64
 ---
 

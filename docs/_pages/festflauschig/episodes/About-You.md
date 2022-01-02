@@ -1,9 +1,7 @@
 ---
 title: About You
-layout: page
 permalink: /fest-flauschig/episoden/About-You
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 96
 ---
 

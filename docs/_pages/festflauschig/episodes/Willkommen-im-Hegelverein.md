@@ -1,9 +1,7 @@
 ---
 title: Willkommen im Hegelverein 
-layout: page
 permalink: /fest-flauschig/episoden/Willkommen-im-Hegelverein
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 263
 ---
 

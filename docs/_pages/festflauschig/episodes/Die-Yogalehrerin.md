@@ -1,9 +1,7 @@
 ---
 title: Die Yogalehrerin
-layout: page
 permalink: /fest-flauschig/episoden/Die-Yogalehrerin
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 254
 ---
 

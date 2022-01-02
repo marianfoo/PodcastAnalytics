@@ -1,9 +1,7 @@
 ---
 title: #103 DIE SUPER SEX-LÜGE
-layout: page
 permalink: /gemischtes-hack/episoden/103-DIE-SUPER-SEX-LUeGE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 107
 ---
 

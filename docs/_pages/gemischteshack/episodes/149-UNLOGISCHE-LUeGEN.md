@@ -1,9 +1,7 @@
 ---
 title: #149 UNLOGISCHE LÜGEN
-layout: page
 permalink: /gemischtes-hack/episoden/149-UNLOGISCHE-LUeGEN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 162
 ---
 

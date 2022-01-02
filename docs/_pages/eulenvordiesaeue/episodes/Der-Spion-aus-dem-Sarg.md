@@ -1,9 +1,7 @@
 ---
 title: Der Spion aus dem Sarg
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Der-Spion-aus-dem-Sarg
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 13
 ---
 

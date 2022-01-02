@@ -1,9 +1,7 @@
 ---
 title: Todesengel Maischberger
-layout: page
 permalink: /fest-flauschig/episoden/Todesengel-Maischberger
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 329
 ---
 

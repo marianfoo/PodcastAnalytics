@@ -1,9 +1,7 @@
 ---
 title: #109 WASABI ANRÜHREN
-layout: page
 permalink: /gemischtes-hack/episoden/109-WASABI-ANRUeHREN
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 115
 ---
 

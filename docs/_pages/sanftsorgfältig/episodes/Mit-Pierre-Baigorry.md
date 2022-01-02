@@ -1,9 +1,7 @@
 ---
 title: Mit Pierre Baigorry
-layout: page
 permalink: /sanft-sorgfältig/episoden/Mit-Pierre-Baigorry
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 99
 ---
 

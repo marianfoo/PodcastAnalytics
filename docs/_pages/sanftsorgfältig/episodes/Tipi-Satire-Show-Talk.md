@@ -1,9 +1,7 @@
 ---
 title: Tipi-Satire-Show-Talk
-layout: page
 permalink: /sanft-sorgfältig/episoden/Tipi-Satire-Show-Talk
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 149
 ---
 

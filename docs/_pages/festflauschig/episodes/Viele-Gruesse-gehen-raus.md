@@ -1,9 +1,7 @@
 ---
 title: Viele Grüße gehen raus
-layout: page
 permalink: /fest-flauschig/episoden/Viele-Gruesse-gehen-raus
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 202
 ---
 

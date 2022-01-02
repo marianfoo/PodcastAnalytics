@@ -1,9 +1,7 @@
 ---
 title: Der weiße Schwabbel. Aber normal.
-layout: page
 permalink: /baywatch-berlin/episoden/Der-weisse-Schwabbel-Aber-normal
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 87
 ---
 

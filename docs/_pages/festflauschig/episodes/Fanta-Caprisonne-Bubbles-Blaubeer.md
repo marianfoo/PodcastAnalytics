@@ -1,9 +1,7 @@
 ---
 title: Fanta, Caprisonne, Bubbles Blaubeer
-layout: page
 permalink: /fest-flauschig/episoden/Fanta-Caprisonne-Bubbles-Blaubeer
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 157
 ---
 

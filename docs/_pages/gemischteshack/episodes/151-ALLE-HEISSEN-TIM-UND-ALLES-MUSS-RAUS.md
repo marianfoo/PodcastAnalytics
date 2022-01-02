@@ -1,9 +1,7 @@
 ---
 title: #151 ALLE HEISSEN TIM UND ALLES MUSS RAUS
-layout: page
 permalink: /gemischtes-hack/episoden/151-ALLE-HEISSEN-TIM-UND-ALLES-MUSS-RAUS
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 164
 ---
 

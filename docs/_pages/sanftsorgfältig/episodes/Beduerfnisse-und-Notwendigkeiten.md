@@ -1,9 +1,7 @@
 ---
 title: Bedürfnisse und Notwendigkeiten
-layout: page
 permalink: /sanft-sorgfältig/episoden/Beduerfnisse-und-Notwendigkeiten
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 1
 ---
 

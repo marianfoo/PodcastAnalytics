@@ -1,9 +1,7 @@
 ---
 title: Fuck up Tranparenz
-layout: page
 permalink: /fest-flauschig/episoden/Fuck-up-Tranparenz
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 366
 ---
 

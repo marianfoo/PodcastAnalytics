@@ -1,9 +1,7 @@
 ---
 title: Die Stanglwirt-Verschwörung (feat. Joko W.)
-layout: page
 permalink: /baywatch-berlin/episoden/Die-Stanglwirt-Verschwoerung-feat-Joko-W
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 32
 ---
 

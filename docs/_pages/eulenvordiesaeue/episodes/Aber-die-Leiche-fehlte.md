@@ -1,9 +1,7 @@
 ---
 title: Aber die Leiche fehlte
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Aber-die-Leiche-fehlte
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 17
 ---
 

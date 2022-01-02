@@ -1,9 +1,7 @@
 ---
 title: Gelandet auf dem radioeins-Planeten
-layout: page
 permalink: /sanft-sorgfältig/episoden/Gelandet-auf-dem-radioeins-Planeten
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 61
 ---
 

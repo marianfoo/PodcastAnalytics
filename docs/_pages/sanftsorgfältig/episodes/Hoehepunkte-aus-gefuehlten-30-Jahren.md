@@ -1,9 +1,7 @@
 ---
 title: Höhepunkte aus gefühlten 30 Jahren
-layout: page
 permalink: /sanft-sorgfältig/episoden/Hoehepunkte-aus-gefuehlten-30-Jahren
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 150
 ---
 

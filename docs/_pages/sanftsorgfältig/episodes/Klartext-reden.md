@@ -1,9 +1,7 @@
 ---
 title: Klartext reden
-layout: page
 permalink: /sanft-sorgfältig/episoden/Klartext-reden
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 49
 ---
 

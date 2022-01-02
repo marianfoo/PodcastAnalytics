@@ -1,9 +1,7 @@
 ---
 title: Getuschel bei der Preisverleihung
-layout: page
 permalink: /baywatch-berlin/episoden/Getuschel-bei-der-Preisverleihung
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 93
 ---
 

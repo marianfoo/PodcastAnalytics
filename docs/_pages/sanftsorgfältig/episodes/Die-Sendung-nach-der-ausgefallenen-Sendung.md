@@ -1,9 +1,7 @@
 ---
 title: Die Sendung nach der ausgefallenen Sendung
-layout: page
 permalink: /sanft-sorgfältig/episoden/Die-Sendung-nach-der-ausgefallenen-Sendung
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 129
 ---
 

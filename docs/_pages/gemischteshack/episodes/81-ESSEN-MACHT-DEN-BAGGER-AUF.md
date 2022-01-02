@@ -1,9 +1,7 @@
 ---
 title: #81 ESSEN MACHT DEN BAGGER AUF
-layout: page
 permalink: /gemischtes-hack/episoden/81-ESSEN-MACHT-DEN-BAGGER-AUF
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 81
 ---
 

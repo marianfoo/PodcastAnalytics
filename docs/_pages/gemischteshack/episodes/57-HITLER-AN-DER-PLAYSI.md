@@ -1,9 +1,7 @@
 ---
 title: #57 HITLER AN DER PLAYSI
-layout: page
 permalink: /gemischtes-hack/episoden/57-HITLER-AN-DER-PLAYSI
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 57
 ---
 

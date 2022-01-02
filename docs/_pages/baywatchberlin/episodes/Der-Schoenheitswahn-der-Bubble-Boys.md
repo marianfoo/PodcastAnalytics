@@ -1,9 +1,7 @@
 ---
 title: Der Schönheitswahn der Bubble Boys
-layout: page
 permalink: /baywatch-berlin/episoden/Der-Schoenheitswahn-der-Bubble-Boys
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 55
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Im Sushi ist auch Gurke drin
-layout: page
 permalink: /fest-flauschig/episoden/Im-Sushi-ist-auch-Gurke-drin
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 217
 ---
 

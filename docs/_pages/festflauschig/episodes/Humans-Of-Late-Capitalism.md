@@ -1,9 +1,7 @@
 ---
 title: Humans Of Late Capitalism
-layout: page
 permalink: /fest-flauschig/episoden/Humans-Of-Late-Capitalism
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 97
 ---
 

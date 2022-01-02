@@ -1,9 +1,7 @@
 ---
 title: Die Bayern kommen
-layout: page
 permalink: /fest-flauschig/episoden/Die-Bayern-kommen
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 267
 ---
 

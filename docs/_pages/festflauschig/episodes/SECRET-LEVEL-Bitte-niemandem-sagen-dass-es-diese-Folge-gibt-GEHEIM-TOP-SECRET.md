@@ -1,9 +1,7 @@
 ---
 title: SECRET LEVEL! (Bitte niemandem sagen, dass es diese Folge gibt! GEHEIM! TOP SECRET!)
-layout: page
 permalink: /fest-flauschig/episoden/SECRET-LEVEL-Bitte-niemandem-sagen-dass-es-diese-Folge-gibt-GEHEIM-TOP-SECRET
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 233
 ---
 

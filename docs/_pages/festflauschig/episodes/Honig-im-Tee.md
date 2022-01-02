@@ -1,9 +1,7 @@
 ---
 title: Honig im Tee
-layout: page
 permalink: /fest-flauschig/episoden/Honig-im-Tee
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 39
 ---
 

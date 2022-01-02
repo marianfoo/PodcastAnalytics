@@ -1,9 +1,7 @@
 ---
 title: #BOOMERCRINGE 39
-layout: page
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-39
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 349
 ---
 

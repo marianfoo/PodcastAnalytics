@@ -1,9 +1,7 @@
 ---
 title: The future is now
-layout: page
 permalink: /fest-flauschig/episoden/The-future-is-now
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 84
 ---
 

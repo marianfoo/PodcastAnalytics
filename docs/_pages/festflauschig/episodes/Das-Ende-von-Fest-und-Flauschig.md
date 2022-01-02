@@ -1,13 +1,11 @@
 ---
-title: Das Ende von "Fest & Flauschig"
-layout: page
+title: Das Ende von ”Fest & Flauschig”
 permalink: /fest-flauschig/episoden/Das-Ende-von-Fest-und-Flauschig
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 150
 ---
 
-# Das Ende von "Fest & Flauschig"
+# Das Ende von ”Fest & Flauschig”
 <table class="resp-table dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
                     <tbody>
                         <tr>

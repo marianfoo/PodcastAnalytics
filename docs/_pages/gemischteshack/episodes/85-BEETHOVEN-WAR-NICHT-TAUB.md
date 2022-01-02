@@ -1,9 +1,7 @@
 ---
 title: #85 BEETHOVEN WAR NICHT TAUB
-layout: page
 permalink: /gemischtes-hack/episoden/85-BEETHOVEN-WAR-NICHT-TAUB
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 85
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Ordnung ist das halbe Leben
-layout: page
 permalink: /fest-flauschig/episoden/Ordnung-ist-das-halbe-Leben
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 38
 ---
 

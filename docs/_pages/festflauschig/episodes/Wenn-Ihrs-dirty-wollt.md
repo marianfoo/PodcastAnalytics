@@ -1,9 +1,7 @@
 ---
 title: Wenn Ihrs dirty wollt
-layout: page
 permalink: /fest-flauschig/episoden/Wenn-Ihrs-dirty-wollt
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 170
 ---
 

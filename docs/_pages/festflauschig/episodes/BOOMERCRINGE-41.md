@@ -1,9 +1,7 @@
 ---
 title: #BOOMERCRINGE 41
-layout: page
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-41
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 353
 ---
 

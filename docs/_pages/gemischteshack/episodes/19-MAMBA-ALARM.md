@@ -1,9 +1,7 @@
 ---
 title: #19 MAMBA-ALARM
-layout: page
 permalink: /gemischtes-hack/episoden/19-MAMBA-ALARM
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 19
 ---
 

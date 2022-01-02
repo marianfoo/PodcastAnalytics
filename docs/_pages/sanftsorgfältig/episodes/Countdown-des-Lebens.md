@@ -1,9 +1,7 @@
 ---
 title: Countdown des Lebens
-layout: page
 permalink: /sanft-sorgfältig/episoden/Countdown-des-Lebens
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 130
 ---
 

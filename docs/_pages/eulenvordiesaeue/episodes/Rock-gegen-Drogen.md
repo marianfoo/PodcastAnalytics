@@ -1,9 +1,7 @@
 ---
 title: Rock gegen Drogen
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Rock-gegen-Drogen
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 15
 ---
 

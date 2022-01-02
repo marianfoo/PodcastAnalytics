@@ -1,9 +1,7 @@
 ---
 title: Balenciaga-Verbot für Jan Hofer
-layout: page
 permalink: /baywatch-berlin/episoden/Balenciaga-Verbot-fuer-Jan-Hofer
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 60
 ---
 

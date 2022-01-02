@@ -1,9 +1,7 @@
 ---
 title: 2 Jahre
-layout: page
 permalink: /fest-flauschig/episoden/2-Jahre
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 98
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #44 HETERONORMATIVES HACK
-layout: page
 permalink: /gemischtes-hack/episoden/44-HETERONORMATIVES-HACK
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 44
 ---
 

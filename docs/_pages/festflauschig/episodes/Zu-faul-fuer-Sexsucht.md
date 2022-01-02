@@ -1,9 +1,7 @@
 ---
 title: Zu faul für Sexsucht
-layout: page
 permalink: /fest-flauschig/episoden/Zu-faul-fuer-Sexsucht
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 77
 ---
 

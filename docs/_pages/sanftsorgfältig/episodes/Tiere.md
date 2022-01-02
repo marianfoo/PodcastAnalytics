@@ -1,9 +1,7 @@
 ---
 title: Tiere
-layout: page
 permalink: /sanft-sorgfältig/episoden/Tiere
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 50
 ---
 

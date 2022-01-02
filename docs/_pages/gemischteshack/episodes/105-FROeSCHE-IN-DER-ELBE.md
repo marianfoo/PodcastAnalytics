@@ -1,9 +1,7 @@
 ---
 title: #105 FRÖSCHE IN DER ELBE
-layout: page
 permalink: /gemischtes-hack/episoden/105-FROeSCHE-IN-DER-ELBE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 111
 ---
 

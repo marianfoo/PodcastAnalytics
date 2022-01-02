@@ -1,9 +1,7 @@
 ---
 title: #102 IGEL IN DER TASCHE
-layout: page
 permalink: /gemischtes-hack/episoden/102-IGEL-IN-DER-TASCHE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 105
 ---
 

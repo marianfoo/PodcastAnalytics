@@ -1,9 +1,7 @@
 ---
 title: Wieso machen Sie das?
-layout: page
 permalink: /fest-flauschig/episoden/Wieso-machen-Sie-das
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 74
 ---
 

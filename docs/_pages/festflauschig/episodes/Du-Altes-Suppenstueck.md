@@ -1,9 +1,7 @@
 ---
 title: Du Altes Suppenstück
-layout: page
 permalink: /fest-flauschig/episoden/Du-Altes-Suppenstueck
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 144
 ---
 

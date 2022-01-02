@@ -1,9 +1,7 @@
 ---
 title: Seemannsgarn und Räuberpistolen
-layout: page
 permalink: /fest-flauschig/episoden/Seemannsgarn-und-Raeuberpistolen
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 90
 ---
 

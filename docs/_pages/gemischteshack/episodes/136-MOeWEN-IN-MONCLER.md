@@ -1,9 +1,7 @@
 ---
 title: #136 MÖWEN IN MONCLER 
-layout: page
 permalink: /gemischtes-hack/episoden/136-MOeWEN-IN-MONCLER
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 149
 ---
 

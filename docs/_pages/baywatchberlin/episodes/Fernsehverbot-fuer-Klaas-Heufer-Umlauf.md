@@ -1,9 +1,7 @@
 ---
 title: Fernsehverbot für Klaas Heufer-Umlauf
-layout: page
 permalink: /baywatch-berlin/episoden/Fernsehverbot-fuer-Klaas-Heufer-Umlauf
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 51
 ---
 

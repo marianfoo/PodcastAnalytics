@@ -1,9 +1,7 @@
 ---
 title: #BOOMERCRINGE 2
-layout: page
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-2
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 294
 ---
 

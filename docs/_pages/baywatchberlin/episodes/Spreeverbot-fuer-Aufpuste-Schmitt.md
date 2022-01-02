@@ -1,9 +1,7 @@
 ---
 title: Spreeverbot für Aufpuste-Schmitt
-layout: page
 permalink: /baywatch-berlin/episoden/Spreeverbot-fuer-Aufpuste-Schmitt
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 43
 ---
 

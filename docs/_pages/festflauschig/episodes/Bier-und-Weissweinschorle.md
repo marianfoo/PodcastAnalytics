@@ -1,9 +1,7 @@
 ---
 title: Bier & Weißweinschorle
-layout: page
 permalink: /fest-flauschig/episoden/Bier-und-Weissweinschorle
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 252
 ---
 

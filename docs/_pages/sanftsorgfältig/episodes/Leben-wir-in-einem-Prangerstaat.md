@@ -1,9 +1,7 @@
 ---
 title: Leben wir in einem Prangerstaat
-layout: page
 permalink: /sanft-sorgfältig/episoden/Leben-wir-in-einem-Prangerstaat
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 20
 ---
 

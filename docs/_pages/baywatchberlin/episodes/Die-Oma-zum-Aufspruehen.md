@@ -1,9 +1,7 @@
 ---
 title: Die Oma zum Aufsprühen
-layout: page
 permalink: /baywatch-berlin/episoden/Die-Oma-zum-Aufspruehen
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 104
 ---
 

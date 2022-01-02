@@ -1,9 +1,7 @@
 ---
 title: Unheilvoller Besuch
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Unheilvoller-Besuch
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 31
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Ramen-Fix fürs Leben
-layout: page
 permalink: /fest-flauschig/episoden/Ramen-Fix-fuers-Leben
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 186
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Käfigfight der Murmelpromis
-layout: page
 permalink: /baywatch-berlin/episoden/Kaefigfight-der-Murmelpromis
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 76
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Die Horrorgrotte von Capri
-layout: page
 permalink: /baywatch-berlin/episoden/Die-Horrorgrotte-von-Capri
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 83
 ---
 

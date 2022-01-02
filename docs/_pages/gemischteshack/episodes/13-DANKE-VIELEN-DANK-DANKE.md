@@ -1,9 +1,7 @@
 ---
 title: #13 DANKE. VIELEN DANK. DANKE.
-layout: page
 permalink: /gemischtes-hack/episoden/13-DANKE-VIELEN-DANK-DANKE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 13
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #140 DAHABSACHE
-layout: page
 permalink: /gemischtes-hack/episoden/140-DAHABSACHE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 153
 ---
 

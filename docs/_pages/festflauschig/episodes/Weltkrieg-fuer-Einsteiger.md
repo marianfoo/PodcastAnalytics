@@ -1,9 +1,7 @@
 ---
 title: Weltkrieg für Einsteiger
-layout: page
 permalink: /fest-flauschig/episoden/Weltkrieg-fuer-Einsteiger
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 4
 ---
 

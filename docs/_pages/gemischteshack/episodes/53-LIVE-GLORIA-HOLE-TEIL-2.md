@@ -1,9 +1,7 @@
 ---
 title: #53 LIVE GLORIA HOLE TEIL 2
-layout: page
 permalink: /gemischtes-hack/episoden/53-LIVE-GLORIA-HOLE-TEIL-2
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 53
 ---
 

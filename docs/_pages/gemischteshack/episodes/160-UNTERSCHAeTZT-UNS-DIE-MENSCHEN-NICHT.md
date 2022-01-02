@@ -1,9 +1,7 @@
 ---
 title: #160 UNTERSCHÄTZT UNS DIE MENSCHEN NICHT
-layout: page
 permalink: /gemischtes-hack/episoden/160-UNTERSCHAeTZT-UNS-DIE-MENSCHEN-NICHT
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 174
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Solange so lala
-layout: page
 permalink: /fest-flauschig/episoden/Solange-so-lala
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 169
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: #79 WIR ROCKEN DAS
-layout: page
 permalink: /gemischtes-hack/episoden/79-WIR-ROCKEN-DAS
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 79
 ---
 

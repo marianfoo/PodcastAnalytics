@@ -1,9 +1,7 @@
 ---
 title: Lass die Knoten platzen
-layout: page
 permalink: /fest-flauschig/episoden/Lass-die-Knoten-platzen
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 184
 ---
 

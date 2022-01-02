@@ -1,9 +1,7 @@
 ---
 title: #84 PELIKAN 36
-layout: page
 permalink: /gemischtes-hack/episoden/84-PELIKAN-36
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 84
 ---
 

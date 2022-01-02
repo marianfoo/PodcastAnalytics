@@ -1,9 +1,7 @@
 ---
 title: #119 LIEBLOS-EFFEKT
-layout: page
 permalink: /gemischtes-hack/episoden/119-LIEBLOS-EFFEKT
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 127
 ---
 

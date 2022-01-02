@@ -1,9 +1,7 @@
 ---
 title: Eulympia 2021
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Eulympia-2021
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 28
 ---
 

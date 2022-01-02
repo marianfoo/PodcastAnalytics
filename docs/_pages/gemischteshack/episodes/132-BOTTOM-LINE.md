@@ -1,9 +1,7 @@
 ---
 title: #132 BOTTOM LINE
-layout: page
 permalink: /gemischtes-hack/episoden/132-BOTTOM-LINE
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 145
 ---
 

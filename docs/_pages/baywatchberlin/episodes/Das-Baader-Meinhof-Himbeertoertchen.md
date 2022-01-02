@@ -1,9 +1,7 @@
 ---
 title: Das Baader-Meinhof-Himbeertörtchen
-layout: page
 permalink: /baywatch-berlin/episoden/Das-Baader-Meinhof-Himbeertoertchen
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 36
 ---
 

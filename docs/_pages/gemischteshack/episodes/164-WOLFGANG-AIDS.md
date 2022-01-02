@@ -1,9 +1,7 @@
 ---
 title: #164 WOLFGANG AIDS
-layout: page
 permalink: /gemischtes-hack/episoden/164-WOLFGANG-AIDS
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 178
 ---
 

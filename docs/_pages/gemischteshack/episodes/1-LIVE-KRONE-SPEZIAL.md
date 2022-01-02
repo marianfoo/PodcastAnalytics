@@ -1,9 +1,7 @@
 ---
 title: 1 LIVE KRONE SPEZIAL
-layout: page
 permalink: /gemischtes-hack/episoden/1-LIVE-KRONE-SPEZIAL
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 136
 ---
 

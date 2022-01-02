@@ -1,9 +1,7 @@
 ---
 title: Menschliche Kälte
-layout: page
 permalink: /sanft-sorgfältig/episoden/Menschliche-Kaelte
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 127
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: „Sattelt die Katzen, heute geht‘s ins KaDeWe!“
-layout: page
 permalink: /baywatch-berlin/episoden/Sattelt-die-Katzen-heute-gehts-ins-KaDeWe
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 45
 ---
 

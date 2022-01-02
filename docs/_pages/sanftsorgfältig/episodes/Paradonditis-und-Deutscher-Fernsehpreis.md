@@ -1,9 +1,7 @@
 ---
 title: Paradonditis und Deutscher Fernsehpreis
-layout: page
 permalink: /sanft-sorgfältig/episoden/Paradonditis-und-Deutscher-Fernsehpreis
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 55
 ---
 

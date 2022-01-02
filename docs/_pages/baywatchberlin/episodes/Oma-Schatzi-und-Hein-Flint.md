@@ -1,9 +1,7 @@
 ---
 title: Oma Schatzi & Hein Flint
-layout: page
 permalink: /baywatch-berlin/episoden/Oma-Schatzi-und-Hein-Flint
-parent: Alle Episoden
-grand_parent: Baywatch Berlin
+nav_exclude: true
 nav_order: 64
 ---
 

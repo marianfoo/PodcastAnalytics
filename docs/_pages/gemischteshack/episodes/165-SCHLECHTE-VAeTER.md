@@ -1,9 +1,7 @@
 ---
 title: #165 SCHLECHTE VÄTER
-layout: page
 permalink: /gemischtes-hack/episoden/165-SCHLECHTE-VAeTER
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 179
 ---
 

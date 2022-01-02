@@ -1,9 +1,7 @@
 ---
 title: Gamechanger für die Fremdenlegion
-layout: page
 permalink: /fest-flauschig/episoden/Gamechanger-fuer-die-Fremdenlegion
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 293
 ---
 

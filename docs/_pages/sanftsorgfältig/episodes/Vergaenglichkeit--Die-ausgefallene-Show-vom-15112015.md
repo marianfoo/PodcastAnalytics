@@ -1,9 +1,7 @@
 ---
 title: Vergänglichkeit – Die ausgefallene Show vom 15.11.2015
-layout: page
 permalink: /sanft-sorgfältig/episoden/Vergaenglichkeit--Die-ausgefallene-Show-vom-15112015
-parent: Alle Episoden
-grand_parent: Sanft und Sorgfältig
+nav_exclude: true
 nav_order: 140
 ---
 

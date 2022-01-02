@@ -1,9 +1,7 @@
 ---
 title: Quesadilla Mokassins
-layout: page
 permalink: /fest-flauschig/episoden/Quesadilla-Mokassins
-parent: Alle Episoden
-grand_parent: Fest und Flauschig
+nav_exclude: true
 nav_order: 229
 ---
 

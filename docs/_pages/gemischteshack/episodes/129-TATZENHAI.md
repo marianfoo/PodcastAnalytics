@@ -1,9 +1,7 @@
 ---
 title: #129 TATZENHAI
-layout: page
 permalink: /gemischtes-hack/episoden/129-TATZENHAI
-parent: Alle Episoden
-grand_parent: Gemischtes Hack
+nav_exclude: true
 nav_order: 142
 ---
 

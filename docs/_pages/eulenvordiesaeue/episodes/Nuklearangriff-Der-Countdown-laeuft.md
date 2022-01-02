@@ -1,9 +1,7 @@
 ---
 title: Nuklearangriff Der Countdown läuft
-layout: page
 permalink: /eulen-vor-die-saeue/episoden/Nuklearangriff-Der-Countdown-laeuft
-parent: Alle Episoden
-grand_parent: Eulen vor die Säue
+nav_exclude: true
 nav_order: 43
 ---
 
