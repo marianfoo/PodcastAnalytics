@@ -5,5 +5,5 @@ title: Alle Episoden
 parent: Baywatch Berlin
 nav_order: 1
 metadataName: baywatchberlin
-has_children: true
+has_toc: false
 ---
