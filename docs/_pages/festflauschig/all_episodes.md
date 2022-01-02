@@ -5,6 +5,5 @@ title: Alle Episoden
 parent: Fest und Flauschig
 nav_order: 1
 metadataName: festflauschig
-has_children: true
 has_toc: false
 ---
