@@ -35813,6 +35813,69 @@
                     }
                 },
                 "internal_url": "Himmlisches-Boosterfest"
+            },
+            "12Y9iwwfOkkCDXD9tQH8sH": {
+                "release_date": "2022-01-22",
+                "duration_sec": 4208.274,
+                "spotify_url": "https://open.spotify.com/episode/12Y9iwwfOkkCDXD9tQH8sH",
+                "name": "Putin hat noch Bock",
+                "description": "<p>Hallo hallo hall\u00f6chen und frohes neues Fest &amp; Flauschig-Jahr! Endlich wieder Orientierung und echte Lebenshilfe, hier gibt es die besten Tipps f\u00fcr eine reinigende Ayurveda-Kur, niedliche Outfit-Ideen f\u00fcr Polypen und Sammelhammer f\u00fcr die Hummerkiste. Der Januar ist doch noch gerettet.\u00a0</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Putin-hat-noch-Bock",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
