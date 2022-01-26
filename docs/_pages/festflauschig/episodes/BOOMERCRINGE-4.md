@@ -2,7 +2,7 @@
 title: #BOOMERCRINGE 4
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-4
 nav_exclude: true
-nav_order: 298
+nav_order: 374
 ---
 
 # #BOOMERCRINGE 4
@@ -10,14 +10,14 @@ nav_order: 298
                     <tbody>
                         <tr>
                             <th scope="row">Veröffentlich am:</th>
-                            <td data-label="Veröffentlich am:">09. Februar 2021</td>
+                            <td data-label="Veröffentlich am:">25. Januar 2022</td>
                         </tr>
                         <tr>
                             <th scope="row">Länge </th>
-                            <td data-label="Länge ">33 Minuten</td>
+                            <td data-label="Länge ">43 Minuten</td>
                         </tr><tr>
                                 <th scope="row">Spotify Link</th>
-                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/6CvMtWlgbP5mC6TBPXkTOj">Spotify Link</a></td>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/2awMLDo9EJzotBGI1phobQ">Spotify Link</a></td>
                             </tr></tbody>
                 </table>
 
@@ -26,9 +26,6 @@ nav_order: 298
 ## Beschreibung der Folge
 
 <div>
-Mund auf, das Pulled Pork Katapult kommt und ballert Euch <br> gleich noch eine Midweek-Folge mit vor die Haustür. Frisch aus dem <br> Foodtruck der Giraffencommunity nördlich von Husum. <br> <p><br></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>  
+<p>Der kleine Snack für zwischendurch kommt mit gutem Empfang vom Berg und aus dem völlig rattenfreien Studio. Darauf eine extrascharfe Ramensuppe und natürlich ganz heiße Metaltipps. </p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
 </div>
 
-***
-
-## Keine Jingles gefunden
