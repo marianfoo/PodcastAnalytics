@@ -35956,6 +35956,69 @@
                         }
                     }
                 }
+            },
+            "2wSRzkqhYhab6J46RsOD52": {
+                "release_date": "2022-01-29",
+                "duration_sec": 4911.621,
+                "spotify_url": "https://open.spotify.com/episode/2wSRzkqhYhab6J46RsOD52",
+                "name": "Die melancholischen Astronauten",
+                "description": "<p>Fressmaschinen aufgepasst - in dieser Folge wird heftig geschnibbelt. Ob f\u00fcrs menschliche Sushi-Netz auf der Tischtennisplatte, an selbiger Platte mit Lateinb\u00fcchern oder aber direkt in den 10-Portionen-Wok f\u00fcr den Mann aus Oggersheim. F\u00fcr den kleinen Hunger zwischendurch kommt dann noch J\u00f6rgs transportabler Bratwurstgrill vorbei.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Die-melancholischen-Astronauten",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
