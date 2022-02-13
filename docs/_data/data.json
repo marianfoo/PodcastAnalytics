@@ -36242,6 +36242,69 @@
                         }
                     }
                 }
+            },
+            "6heWVn4gRnauPefEYZQiR8": {
+                "release_date": "2022-02-12",
+                "duration_sec": 5019.271,
+                "spotify_url": "https://open.spotify.com/episode/6heWVn4gRnauPefEYZQiR8",
+                "name": "Olli ist Nichtraucher",
+                "description": "<p>Wellness pur! Die ganz entspannte Show f\u00fcr Genie\u00dfer, hier raucht \u00fcberhaupt gar nichts mehr! Obwohl, vielleicht ein klitzekleines bisschen Olli vor Wut, aber wer solls ihm ver\u00fcbeln. Dazu gibt es apokalyptische Einblicke in M\u00e4nnerklos, Insider-Infos zu Macrons DNA und die Gro\u00dfen F\u00fcnf Automaten aus der Kindheit.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Olli-ist-Nichtraucher",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
