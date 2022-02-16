@@ -2,7 +2,7 @@
 title: #BOOMERCRINGE 7
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-7
 nav_exclude: true
-nav_order: 304
+nav_order: 380
 ---
 
 # #BOOMERCRINGE 7
@@ -10,14 +10,14 @@ nav_order: 304
                     <tbody>
                         <tr>
                             <th scope="row">Veröffentlich am:</th>
-                            <td data-label="Veröffentlich am:">02. März 2021</td>
+                            <td data-label="Veröffentlich am:">15. Februar 2022</td>
                         </tr>
                         <tr>
                             <th scope="row">Länge </th>
                             <td data-label="Länge ">24 Minuten</td>
                         </tr><tr>
                                 <th scope="row">Spotify Link</th>
-                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/5gcRvpV8WxBL3q59Vylotf">Spotify Link</a></td>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/1tcMz4FaNMJLbLNuUU3LwM">Spotify Link</a></td>
                             </tr></tbody>
                 </table>
 
@@ -26,9 +26,6 @@ nav_order: 304
 ## Beschreibung der Folge
 
 <div>
-<p>Ehrliche Gefühle zur Wochenmitte. Barack Obama setzt Jan unter Druck und dann wird auch noch die Bockwurstfrage geklärt.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>  
+<p>Wer kennt nicht das Dilemma: man würde ja gerne Sport machen, hat aber leider keinen Platz in der Wohnung für Sportgeräte. Zum Glück ist Olaf Scholz&#39; Ledertasche aber so geräumig, dass da die Großen Fünf Dinge reinpassen, die er immer dabei hat. Spoiler: seine Asterix-Kraft-Comicsammlung ist definitiv dabei! </p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
 </div>
 
-***
-
-## Keine Jingles gefunden
