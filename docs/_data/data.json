@@ -36385,6 +36385,69 @@
                         }
                     }
                 }
+            },
+            "4kzmeVe4qr8cKRsZT4OnYx": {
+                "release_date": "2022-02-19",
+                "duration_sec": 4594.076,
+                "spotify_url": "https://open.spotify.com/episode/4kzmeVe4qr8cKRsZT4OnYx",
+                "name": "Eine Tasse Teer",
+                "description": "<p>Auf gehts, rasen wir auf den von Ollis Auswurfhusten frisch geteerten Stra\u00dfen ins Wochenende! Im milchgl\u00e4sernen Podcast geht es diesmal um Merkw\u00fcrdigkeiten im Doppelpack und was Kacke am Handr\u00fccken mit dem Tagesanfang so macht. Au\u00dferdem die gro\u00dfen F\u00fcnf Gr\u00fcnde f\u00fcr den schlimmsten Mitbewohner, Staubsaugen nach dem Sex inklusive.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Eine-Tasse-Teer",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
