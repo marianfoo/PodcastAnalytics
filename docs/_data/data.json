@@ -2906,6 +2906,23 @@
                         }
                     }
                 }
+            },
+            "6no8VMl8EOmSetmPLwqdUE": {
+                "release_date": "2022-02-24",
+                "duration_sec": 4872.124,
+                "spotify_url": "https://open.spotify.com/episode/6no8VMl8EOmSetmPLwqdUE",
+                "name": "Angela Merkel - prominent getrennt",
+                "description": "<p>Liebe Baywatch Berlin H\u00f6rer*innen,</p><br/><p>Die Baywatch Berlin Folge dieser Woche wurde bereits vor der schrecklichen Gewalteskalation in der Ukraine aufgenommen und befasst sich daher ausschlie\u00dflich mit Themen, die in der aktuellen weltpolitischen Krise wahrscheinlich noch banaler wirken als sie es eh schon sind. Trotzdem haben wir uns entschieden, die Folge zu ver\u00f6ffentlichen und es jeder H\u00f6rerin und jedem H\u00f6rer selbst zu \u00fcberlassen, ob sie die von uns angebotene Unterhaltung annehmen wollen.<br/>Unsere Gedanken sind bei allen Opfern und Leidtragenden dieses Krieges. <br/>Es ist eine Schande. </p><br/><p>Euer <br/>Klaas, Jakob und Thomas</p><br/><p>*<br/>*<br/>*<br/><br /><br /></p><br/><p>Du m\u00f6chtest mehr \u00fcber unsere Werbepartner erfahren? <a href=\"https://linktr.ee/BaywatchBerlin\" rel=\"nofollow\">Hier findest du alle Infos &amp; Rabatte!</a></p>",
+                "show_in_all": true,
+                "internal_url": "Angela-Merkel-prominent-getrennt",
+                "samples_data_scannend": {
+                    "other": {
+                        "jakobsigh": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
