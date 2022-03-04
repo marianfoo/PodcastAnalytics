@@ -2923,6 +2923,23 @@
                         }
                     }
                 }
+            },
+            "0yvxn3cOiTzOSD9Mtqksl2": {
+                "release_date": "2022-03-03",
+                "duration_sec": 2356.56,
+                "spotify_url": "https://open.spotify.com/episode/0yvxn3cOiTzOSD9Mtqksl2",
+                "name": "Unterhaltung im Spagat",
+                "description": "<p>MISSION LIFELINE e.V. </p><br/><ul><li><a href=\"https://mission-lifeline.de/ukraine/\" rel=\"nofollow\">https://mission-lifeline.de/ukraine/</a></li></ul><br/><p>Deutscher Caritasverband e.V. -<br/><a href=\"https://www.caritas-international.de/hilfeweltweit/europa/ukraine/inlandsvertriebene\" rel=\"nofollow\">https://www.caritas-international.de/hilfeweltweit/europa/ukraine/inlandsvertriebene</a></p><br/><h1>LeaveNoOneBehind Civilfleet-Support e.V.</h1><br/><ul><li><a href=\"https://ukraine.lnob.net\" rel=\"nofollow\">https://ukraine.lnob.net</a> </li></ul><br/><p>Aktion Deutschland Hilft e.V. Nothilfe Ukraine</p><br/><ul><li>www.aktion-deutschland-hilft.de</li></ul><br/><p>B\u00fcndnis Entwicklung Hilft - Gemeinsam f\u00fcr Menschen in Not e.V.</p><br/><ul><li>www.entwicklung-hilft.de</li></ul><br/><p>\u00c4rzte ohne Grenzen e.V. - Unsere Hilfe in der Ukraine </p><br/><ul><li><a href=\"https://www.aerzte-ohne-grenzen.de/unsere-arbeit/einsatzlaender/ukraine\" rel=\"nofollow\">https://www.aerzte-ohne-grenzen.de/unsere-arbeit/einsatzlaender/ukraine</a></li></ul><br/><p>Deutsche Welthungerhilfe e.V. </p><br/><ul><li><a href=\"https://www.welthungerhilfe.de/nc/ukraine-krise/\" rel=\"nofollow\">https://www.welthungerhilfe.de/nc/ukraine-krise/</a></li></ul><br/><p>UNO-Fl\u00fcchtlingshilfe e.V.  </p><br/><ul><li><a href=\"https://www.uno-fluechtlingshilfe.de/spenden-ukraine\" rel=\"nofollow\">https://www.uno-fluechtlingshilfe.de/spenden-ukraine</a></li></ul><br/><p>Deutsches Rotes Kreuz e.V.<br/><a href=\"https://www.drk.de/ppc/nothilfe-ukraine\" rel=\"nofollow\">https://www.drk.de/ppc/nothilfe-ukraine</a> </p><br/><p>Diakonie Katastrophenhilfe<br/>Evangelisches Werk f\u00fcr Diakonie und Entwicklung e.V.</p><br/><ul><li><a href=\"https://www.diakonie-katastrophenhilfe.de/spende/ukraine\" rel=\"nofollow\">https://www.diakonie-katastrophenhilfe.de/spende/ukraine</a></li></ul>",
+                "show_in_all": true,
+                "internal_url": "Unterhaltung-im-Spagat",
+                "samples_data_scannend": {
+                    "other": {
+                        "jakobsigh": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
