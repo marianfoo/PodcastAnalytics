@@ -36671,6 +36671,69 @@
                         }
                     }
                 }
+            },
+            "3ILVKrf3qAUnAyaBR3Uvkk": {
+                "release_date": "2022-03-05",
+                "duration_sec": 3338.448,
+                "spotify_url": "https://open.spotify.com/episode/3ILVKrf3qAUnAyaBR3Uvkk",
+                "name": "B\u00f6hmi sicko",
+                "description": "<p>Heute kl\u00e4rt sich, warum Ben Afleck einst in Ollis Literatur-Radiosendung zu Gast war und was abgekaute Fingern\u00e4gel damit zu tun haben. Es gibt Sch\u00f6nheitstipps (mit Botox auf alt spritzen), Ramenwarnungen und nat\u00fcrlich wieder Tischtennistraining. Fast gut zum Ablenken von allem - wenn nur B\u00f6hmi sich nicht ausgerechnet jetzt noch Corona eingefangen h\u00e4tte. Gute Besserung!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Boehmi-sicko",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
