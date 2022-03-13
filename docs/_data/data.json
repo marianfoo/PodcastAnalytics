@@ -36814,6 +36814,69 @@
                         }
                     }
                 }
+            },
+            "1CZV2WGHdgw89Au35wxjLK": {
+                "release_date": "2022-03-12",
+                "duration_sec": 3923.095,
+                "spotify_url": "https://open.spotify.com/episode/1CZV2WGHdgw89Au35wxjLK",
+                "name": "12 Meter ohne Kopf",
+                "description": "<p>Ein Folgentitel, der auch symbolisch f\u00fcr die Aktivit\u00e4ten eines gewissen Altkanzlers stehen k\u00f6nnte, wenn sich nicht eine echte Legende dahinter verbergen w\u00fcrde. Das Podcast-Ehepaar Schulz-B\u00f6hmermann liefert wieder ab mit den gef\u00fchlten Nachrichten der Woche, mit den Gro\u00dfen F\u00fcnf Handy-Screenshots und den kleinen Alltagsfreuden zum Ausrasten.</p><p>Bitte beachten: F\u00fcr diese Ausgabe von Fest &amp; Flauschig erwarten Olli Schulz und Jan B\u00f6hmermann Dankbarkeit!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "12-Meter-ohne-Kopf",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
