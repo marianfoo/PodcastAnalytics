@@ -2,7 +2,7 @@
 title: #BOOMERCRINGE 11
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-11
 nav_exclude: true
-nav_order: 312
+nav_order: 388
 ---
 
 # #BOOMERCRINGE 11
@@ -10,14 +10,14 @@ nav_order: 312
                     <tbody>
                         <tr>
                             <th scope="row">Veröffentlich am:</th>
-                            <td data-label="Veröffentlich am:">30. März 2021</td>
+                            <td data-label="Veröffentlich am:">15. März 2022</td>
                         </tr>
                         <tr>
                             <th scope="row">Länge </th>
-                            <td data-label="Länge ">18 Minuten</td>
+                            <td data-label="Länge ">29 Minuten</td>
                         </tr><tr>
                                 <th scope="row">Spotify Link</th>
-                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/7GAsXIXiROld7KNzOizgd9">Spotify Link</a></td>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/55zKcg627fcwrzW73twPsN">Spotify Link</a></td>
                             </tr></tbody>
                 </table>
 
@@ -26,9 +26,6 @@ nav_order: 312
 ## Beschreibung der Folge
 
 <div>
-<p>Einen Tag vorm 1. April werden hier nochmal ohne Ende Witze rausgehauen. Merke: wenn zwei sich streiten, freut sich Pierre M. Krause!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>  
+<p>Die kleine Mittwochsfolge widmet sich diesmal menschlichen Phänomenen wie dem Häßliche-Hand-Problem von Influencer*innen. Außerdem wird das Geheimnis der Rollpizza in der Metal-Ecke gelüftet und eine neue Showidee geboren: Promis verkuppeln mit Olli und Jan. </p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
 </div>
 
-***
-
-## Keine Jingles gefunden
