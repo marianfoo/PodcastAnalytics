@@ -36957,6 +36957,69 @@
                         }
                     }
                 }
+            },
+            "3ocVaWaX3x62HTEvcAZk5j": {
+                "release_date": "2022-03-19",
+                "duration_sec": 5405.44,
+                "spotify_url": "https://open.spotify.com/episode/3ocVaWaX3x62HTEvcAZk5j",
+                "name": "Husti Husti Husti Husti Husti",
+                "description": "<p>Achtung Achtung, die heutige Ausgabe wird aus dem Paralleluniversum hinter den Grillsaucen im K\u00fchlschrank ausgestrahlt. Mit Ollis Meinungsforum und der Erkenntnis, dass Spargel im Tank auch keine L\u00f6sung ist. Bitte alle aufstellen f\u00fcr die Kotzpolonaise in den Sonntag.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Husti-Husti-Husti-Husti-Husti",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
