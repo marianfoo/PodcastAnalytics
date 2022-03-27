@@ -37100,6 +37100,69 @@
                         }
                     }
                 }
+            },
+            "67U0I5MbgLr3jkaDtUXQ07": {
+                "release_date": "2022-03-26",
+                "duration_sec": 3610.488,
+                "spotify_url": "https://open.spotify.com/episode/67U0I5MbgLr3jkaDtUXQ07",
+                "name": "Getten & Spreaden",
+                "description": "<p>Wenn mal wieder beim Walnuss-R\u00fcbli-Kuchen-Genuss nicht alles nach Plan l\u00e4uft: lieber Ollis Rat annehmen oder Obacht vor dem blauem M\u00fcllsack! Ansonsten liegt diese Folge stimmungsm\u00e4\u00dfig zwischen Freizeitpark und Panzermuseum. Wichtigstes Learning: NICHT in der Wasserbahn aufstehen.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Getten-und-Spreaden",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
