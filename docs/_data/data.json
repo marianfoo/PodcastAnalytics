@@ -37243,6 +37243,69 @@
                         }
                     }
                 }
+            },
+            "6AMLjgjs28Q9fwRS55LSPT": {
+                "release_date": "2022-04-02",
+                "duration_sec": 4040.907,
+                "spotify_url": "https://open.spotify.com/episode/6AMLjgjs28Q9fwRS55LSPT",
+                "name": "Wo ist denn jetzt die M\u00fcnze?",
+                "description": "<p>Es knuspert die Schwarte, es tanzt die Torte - und zwei ber\u00fchmte Hollywood-Br\u00fcder gie\u00dfen sich erstmal einen Drink ein. S\u00e4tze, die schon immer mal vor Gericht gesagt werden mussten und geschminkte Alpakas in der Innenstadt. Die &#34;Fest &amp; Flauschig&#34; Wundert\u00fcte darf ge\u00f6ffnet werden.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Wo-ist-denn-jetzt-die-Muenze",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
