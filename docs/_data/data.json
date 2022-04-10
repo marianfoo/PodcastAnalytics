@@ -37386,6 +37386,69 @@
                         }
                     }
                 }
+            },
+            "0eheiHoXsDc0LdaYbqpBCB": {
+                "release_date": "2022-04-09",
+                "duration_sec": 4694.491,
+                "spotify_url": "https://open.spotify.com/episode/0eheiHoXsDc0LdaYbqpBCB",
+                "name": "Aubergine / Untergine",
+                "description": "<p>Um es ein f\u00fcr alle Mal festzuhalten: in diesem Podcast wird nur gegessen, um die H\u00f6rerliebe zu testen. Und zwar alles gl\u00fchend hei\u00df, nicht nur halb warm gemacht, auf keinen Fall aber Grillgem\u00fcse. Im Serviceteil heute Reiseziele, die man sich sparen kann und K\u00e4sesorten f\u00fcr echte Lappen. Warnung: In dieser Folge k\u00f6nnte es erneut zu Essger\u00e4uschen kommen UND es k\u00f6nnte zu einem Einbruch der \u00f6sterreichischen H\u00f6rerschaft kommen!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Aubergine--Untergine",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
