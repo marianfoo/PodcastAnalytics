@@ -37529,6 +37529,69 @@
                         }
                     }
                 }
+            },
+            "77JnYcTxTVWri8Lf5J1QM8": {
+                "release_date": "2022-04-16",
+                "duration_sec": 4070.556,
+                "spotify_url": "https://open.spotify.com/episode/77JnYcTxTVWri8Lf5J1QM8",
+                "name": "Der gute Olli",
+                "description": "<p>Passionierte Gespr\u00e4che, teuflisch guter Chai Latte und - hallo!! jeder bitte nur ein Kreuz in der Schlemmermeile! Wenn auch noch die Arbeit vom eigenen Personal geschultert und dem \u00f6ffentlich-rechtlichen Rundfunk gehuldigt wird, ist es endlich wieder Zeit f\u00fcr die traditionelle Fest&amp;Flauschig Osterandacht. Blasphemie und flauschige Gedanken pur - Jesus w\u00e4re \u00d6PNV gefahren.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Der-gute-Olli",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
