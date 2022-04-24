@@ -37672,6 +37672,69 @@
                         }
                     }
                 }
+            },
+            "6twTShjOjA9lYkO6Ah4ERU": {
+                "release_date": "2022-04-23",
+                "duration_sec": 5025.332,
+                "spotify_url": "https://open.spotify.com/episode/6twTShjOjA9lYkO6Ah4ERU",
+                "name": "Francesco Rosinetti is coming!",
+                "description": "<p>Wenn die Penisrakete mit Olli ins All startet und die No-go-Areas Mars oder Brandenburg neu besiedelt werden, ist wenigstens eins klar: die vor\u00f6sterliche Sexfastenzeit ist endg\u00fcltig vorbei. Au\u00dferdem interessant: wer bald beim Influencer-Finanzamt draufzahlt und was Rassehundez\u00fcchter und T\u00dcV- Mitarbeiter gemeinsam haben. Nur echt im Lederschlaufenkoffer.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Francesco-Rosinetti-is-coming",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
