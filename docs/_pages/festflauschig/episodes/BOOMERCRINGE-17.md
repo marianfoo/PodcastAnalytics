@@ -2,7 +2,7 @@
 title: #BOOMERCRINGE 17
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-17
 nav_exclude: true
-nav_order: 320
+nav_order: 400
 ---
 
 # #BOOMERCRINGE 17
@@ -10,14 +10,14 @@ nav_order: 320
                     <tbody>
                         <tr>
                             <th scope="row">Veröffentlich am:</th>
-                            <td data-label="Veröffentlich am:">27. April 2021</td>
+                            <td data-label="Veröffentlich am:">26. April 2022</td>
                         </tr>
                         <tr>
                             <th scope="row">Länge </th>
-                            <td data-label="Länge ">23 Minuten</td>
+                            <td data-label="Länge ">36 Minuten</td>
                         </tr><tr>
                                 <th scope="row">Spotify Link</th>
-                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/573V69LyDFQfO2y9SdlHOY">Spotify Link</a></td>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/39xEe9shjrGSzvgysd9PGD">Spotify Link</a></td>
                             </tr></tbody>
                 </table>
 
@@ -26,9 +26,6 @@ nav_order: 320
 ## Beschreibung der Folge
 
 <div>
-<p>Was wäre die Wochenmitte ohne den gläsernen Podcast zum Mitmachen. Hier werden alte Wunden aufgebohrt und Jubiläumsfeste geplant, hier tanzt die Zirkusfamilie Frikadelli.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>  
+<p>Erst wenn der letzte rückenkranke Rollmops gefangen wurde und die Gurken nicht mehr gegen Windmühlen kämpfen, werden wir merken, dass man Labskaus-Baguette sehr wohl essen kann... In diesem Sinne, bussi und einen metaligen Mittwoch gewünscht! </p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
 </div>
 
-***
-
-## Keine Jingles gefunden
