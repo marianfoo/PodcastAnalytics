@@ -37958,6 +37958,69 @@
                         }
                     }
                 }
+            },
+            "5u3mFyglGO0V4De0EqkUQo": {
+                "release_date": "2022-05-07",
+                "duration_sec": 3742.981,
+                "spotify_url": "https://open.spotify.com/episode/5u3mFyglGO0V4De0EqkUQo",
+                "name": "Willy Moese und die Schatten der Vergangenheit",
+                "description": "<p>In der Schlaraffenlandausgabe kommt alles auf den Tisch! Brisante Hintergr\u00fcnde und alles, was aktuell dringend besprochen werden muss. Nat\u00fcrlich nur f\u00fcr Insider - wer den Kreis der Fu\u00dfnagelsch\u00e4lchen durchquert, kommt an die echte Wahrheit ran.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Willy-Moese-und-die-Schatten-der-Vergangenheit",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
