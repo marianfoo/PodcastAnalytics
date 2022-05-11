@@ -2,7 +2,7 @@
 title: #BOOMERCRINGE 19
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-19
 nav_exclude: true
-nav_order: 324
+nav_order: 404
 ---
 
 # #BOOMERCRINGE 19
@@ -10,14 +10,14 @@ nav_order: 324
                     <tbody>
                         <tr>
                             <th scope="row">Veröffentlich am:</th>
-                            <td data-label="Veröffentlich am:">11. Mai 2021</td>
+                            <td data-label="Veröffentlich am:">10. Mai 2022</td>
                         </tr>
                         <tr>
                             <th scope="row">Länge </th>
-                            <td data-label="Länge ">28 Minuten</td>
+                            <td data-label="Länge ">31 Minuten</td>
                         </tr><tr>
                                 <th scope="row">Spotify Link</th>
-                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/5vfxZQoNhwQq7jfYZLTfAf">Spotify Link</a></td>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/2l1WDWv0In0hiodTARxszP">Spotify Link</a></td>
                             </tr></tbody>
                 </table>
 
@@ -26,9 +26,6 @@ nav_order: 324
 ## Beschreibung der Folge
 
 <div>
-<p>Heute wird das Geheimnis gelüftet, warum vor Jahren eine ganze Charge Puten mit Ollis Gesicht auftauchte. Außerdem: Himmelfahrt neu erklärt in Jan und Ollis kleiner Jesus Corner. Mega Tease auf Sonntag: endlich - zum fünfjährigen Jubiläum - reden Jan und Olli über sich!!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>  
+<p>Eine Folge wie ein kleines Erfrischungsstäbchen zwischendurch: mit einer Prise Musical, Metal am Mittwoch, Serientipps und, wer kennt sie nicht, der Band Blutgruppe, die nur spielt, wenns richtig hart zur Sache geht.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
 </div>
 
-***
-
-## Keine Jingles gefunden
