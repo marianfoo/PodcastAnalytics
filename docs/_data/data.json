@@ -38101,6 +38101,69 @@
                         }
                     }
                 }
+            },
+            "5qunN0kbi7j0uHe8XN0uDs": {
+                "release_date": "2022-05-14",
+                "duration_sec": 4595.121,
+                "spotify_url": "https://open.spotify.com/episode/5qunN0kbi7j0uHe8XN0uDs",
+                "name": "Im geheimen Unterwasser-Sexschloss von Sibylle Berg",
+                "description": "<p>Von der Geburtstagstorte (schon 6!! Einschulung folgt) \u00fcber eine Zauberpanne bis zur \u00dcberdosis Schnapspralinen. Klingt wie ein aus dem Ruder gelaufener Kindergeburtstag, ist aber die Jubil\u00e4umsfolge mit Lieblingsgast Sibylle Berg. Herzliche Gl\u00fcckw\u00fcnsche zu sechs Jahren Fest &amp; Flauschig!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Im-geheimen-Unterwasser-Sexschloss-von-Sibylle-Berg",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
