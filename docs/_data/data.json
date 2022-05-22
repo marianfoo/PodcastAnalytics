@@ -38244,6 +38244,69 @@
                         }
                     }
                 }
+            },
+            "561BaMGCgtjyd5U4dNRptB": {
+                "release_date": "2022-05-21",
+                "duration_sec": 3609.417,
+                "spotify_url": "https://open.spotify.com/episode/561BaMGCgtjyd5U4dNRptB",
+                "name": "Wie Gott sie schuf",
+                "description": "<p>Zwei scheckheftgepflegte Typen moderieren witterungsbedingt aus dem Inneren einer gefrorenen Zitrone, der Tiger King von Berlin rettet einen Igel und Tr\u00fcffel\u00f6l-Fans m\u00fcssen ganz stark sein. Au\u00dferdem leicht missbilligende Erz\u00e4hlungen von einer Dogge, die\u2019s geschafft hat.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Wie-Gott-sie-schuf",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
