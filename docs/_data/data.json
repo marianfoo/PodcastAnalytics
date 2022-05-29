@@ -38387,6 +38387,69 @@
                         }
                     }
                 }
+            },
+            "0onTdyICnwV8B27NTULhhh": {
+                "release_date": "2022-05-28",
+                "duration_sec": 4444.551,
+                "spotify_url": "https://open.spotify.com/episode/0onTdyICnwV8B27NTULhhh",
+                "name": "Der alte Mann und sein Shazam",
+                "description": "<p>In diesem Director&#39;s Cut mit Jazzclubatmosph\u00e4re geht&#39;s ungesch\u00f6nt um DIE Themen unserer Zeit: Sextr\u00e4ume mit Promis und die Angst vorm Altern. Die Frage warum Berlin eine Bowl ist, w\u00e4hrend der Rest der Republik sich zu Recht mit einer einfachen Bratwurst zufrieden gibt, sorgt dabei ordentlich f\u00fcr Z\u00fcndstoff. Bon Appetit!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Der-alte-Mann-und-sein-Shazam",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
