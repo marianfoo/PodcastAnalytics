@@ -2,7 +2,7 @@
 title: #BOOMERCRINGE 22
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-22
 nav_exclude: true
-nav_order: 330
+nav_order: 410
 ---
 
 # #BOOMERCRINGE 22
@@ -10,14 +10,14 @@ nav_order: 330
                     <tbody>
                         <tr>
                             <th scope="row">Veröffentlich am:</th>
-                            <td data-label="Veröffentlich am:">01. Juni 2021</td>
+                            <td data-label="Veröffentlich am:">31. Mai 2022</td>
                         </tr>
                         <tr>
                             <th scope="row">Länge </th>
-                            <td data-label="Länge ">27 Minuten</td>
+                            <td data-label="Länge ">36 Minuten</td>
                         </tr><tr>
                                 <th scope="row">Spotify Link</th>
-                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/7r2erfH3RkHFxEcbQj3nid">Spotify Link</a></td>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/1kqNP0cgdtwxtnVtcnBNHh">Spotify Link</a></td>
                             </tr></tbody>
                 </table>
 
@@ -26,9 +26,6 @@ nav_order: 330
 ## Beschreibung der Folge
 
 <div>
-<p>Heute mit Nachträgen aus der deutschen Zauberszene, Märchenspoilern und einem Warnhinweis: Vorsicht vor freilaufenden Klemmbrett-Trägerinnen im Wald!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>  
+<p>Beim Fest &amp; Flauschig Betriebsausflug in den Juni bleibt kein Auge trocken. Hier werden Screenshots mit dem Körper gemacht, da popelt der Promi an der Ampel. Kleiner Bonus: Wer zuletzt lacht, findet den Finger neben dem Streichelzoo.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
 </div>
 
-***
-
-## Keine Jingles gefunden
