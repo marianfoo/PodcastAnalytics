@@ -38530,6 +38530,69 @@
                         }
                     }
                 }
+            },
+            "0mRrVGvPlfDpfcPCv61DH6": {
+                "release_date": "2022-06-04",
+                "duration_sec": 5026.298,
+                "spotify_url": "https://open.spotify.com/episode/0mRrVGvPlfDpfcPCv61DH6",
+                "name": "James Hetfield, Didi Hallervorden, Christian Lindner",
+                "description": "<p>Wird auch King Janolli einst das Platinum-Jubil\u00e4um feiern? Oder sind die Knie bis dahin so morsch, dass ihn nicht einmal mehr Benjamin Bl\u00fcmchen in Stimmung bringt? Das wird die Zukunft kl\u00e4ren. Heute steht fest: Tierhaar-Allergiker werden nie das Miniatur-Olliversum betreten und Leisenieser verdienen es, verachtet zu werden. Sch\u00f6ne Pfingsten!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "James-Hetfield-Didi-Hallervorden-Christian-Lindner",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
