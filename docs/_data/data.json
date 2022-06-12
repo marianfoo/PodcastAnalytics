@@ -38673,6 +38673,69 @@
                         }
                     }
                 }
+            },
+            "0Yil0zOQ3oN0FDQ08mmOxl": {
+                "release_date": "2022-06-11",
+                "duration_sec": 3759.333,
+                "spotify_url": "https://open.spotify.com/episode/0Yil0zOQ3oN0FDQ08mmOxl",
+                "name": "Degenerierte Wohlstandsf\u00fc\u00dfe",
+                "description": "<p>In dieser Folge nehmen French Footnails und Hipsterzehen eine entscheidende Rolle ein. Au\u00dferdem gibts mal wieder Businesstipps vom Feinsten, die orthop\u00e4dische halbe Stunde wird eingel\u00e4utet und ein entlaufener Leguan eingefangen.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Degenerierte-Wohlstandsfuesse",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
