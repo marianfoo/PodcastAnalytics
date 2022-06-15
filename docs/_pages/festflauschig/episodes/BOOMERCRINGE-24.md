@@ -2,7 +2,7 @@
 title: #BOOMERCRINGE 24
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-24
 nav_exclude: true
-nav_order: 334
+nav_order: 414
 ---
 
 # #BOOMERCRINGE 24
@@ -10,14 +10,14 @@ nav_order: 334
                     <tbody>
                         <tr>
                             <th scope="row">Veröffentlich am:</th>
-                            <td data-label="Veröffentlich am:">15. Juni 2021</td>
+                            <td data-label="Veröffentlich am:">14. Juni 2022</td>
                         </tr>
                         <tr>
                             <th scope="row">Länge </th>
-                            <td data-label="Länge ">21 Minuten</td>
+                            <td data-label="Länge ">46 Minuten</td>
                         </tr><tr>
                                 <th scope="row">Spotify Link</th>
-                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/5OYyJvYBe9BvbbkxpGh533">Spotify Link</a></td>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/0bXLaGqernD5pMekPi0aOF">Spotify Link</a></td>
                             </tr></tbody>
                 </table>
 
@@ -26,9 +26,6 @@ nav_order: 334
 ## Beschreibung der Folge
 
 <div>
-<p>Könnte eine schwergewichtsboxende Schlupfwespe die Businesshaut von Dieter Bohlen durchdringen? Erste Reisen sind wieder möglich und prompt winken unangenehme Begegnungen in der Sauna oder beim 3tägigen Einlauf. Schnappt Euch nen Schrot-Smoothie und lasst mal ganz entspannt diese Folge durchlaufen - wirkt entschlackend!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>  
+<p>Wer dieser Tage meint, Klaus Kinski am Kaffeeautomaten zu treffen, schütte ganz schnell einen Espressoshot nach! Grüße gehen raus an Pinguine in der Antarktis und an nichtexistierende Schilder am Hauptbahnhof. Zum Glück ist wieder Metal-Mittwoch und da gibt es eine ganz besondere Überraschung. </p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
 </div>
 
-***
-
-## Keine Jingles gefunden
