@@ -38816,6 +38816,69 @@
                         }
                     }
                 }
+            },
+            "4cSLQpgJt3mIky4fnjnsPb": {
+                "release_date": "2022-06-18",
+                "duration_sec": 2978.246,
+                "spotify_url": "https://open.spotify.com/episode/4cSLQpgJt3mIky4fnjnsPb",
+                "name": "Einfach m\u00fcde",
+                "description": "<p>Wie Nacktmulle ihr schreckliches Regiment f\u00fchren und E-Scooter ellipsenf\u00f6rmige Problemzonen schaffen. Ey Leute! Frech kommt weiter. Einfach mal m\u00fcde ne Folge aufnehmen und auf dem flambierten Parmesanrad in den Sonnenuntergang reiten.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Einfach-muede",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
