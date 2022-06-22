@@ -2,7 +2,7 @@
 title: #BOOMERCRINGE 25
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-25
 nav_exclude: true
-nav_order: 336
+nav_order: 416
 ---
 
 # #BOOMERCRINGE 25
@@ -10,14 +10,14 @@ nav_order: 336
                     <tbody>
                         <tr>
                             <th scope="row">Veröffentlich am:</th>
-                            <td data-label="Veröffentlich am:">22. Juni 2021</td>
+                            <td data-label="Veröffentlich am:">21. Juni 2022</td>
                         </tr>
                         <tr>
                             <th scope="row">Länge </th>
-                            <td data-label="Länge ">21 Minuten</td>
+                            <td data-label="Länge ">38 Minuten</td>
                         </tr><tr>
                                 <th scope="row">Spotify Link</th>
-                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/3kAkc64KeQecN8rt8C9RN3">Spotify Link</a></td>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/78jHXrnIMJp5oLFsM2edS7">Spotify Link</a></td>
                             </tr></tbody>
                 </table>
 
@@ -26,9 +26,6 @@ nav_order: 336
 ## Beschreibung der Folge
 
 <div>
-<p>Wie wärs mit einer stabilen Prise geraspeltem Bandwurm zur Wochenmitte? Gönnt Euch das mal, während Jan und Olli an ihren konkurrierenden Mega-Beachclubs in Norddeutschland planen.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>  
+<p>Willkommen zur vorletzten Folge vor der Sommerpause – mit Stargast Heinz Strunk. Den ganzen Tag am Strand liegen, abends duschen, bechern und pennen klingt nach zu viel Stress? Zur Einstimmung gibt&#39;s hier die Großen Fünf Urlaubslügen.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
 </div>
 
-***
-
-## Keine Jingles gefunden
