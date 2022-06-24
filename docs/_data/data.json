@@ -3195,6 +3195,23 @@
                         }
                     }
                 }
+            },
+            "5W1neyz7wm2EqNtkMrR8Ao": {
+                "release_date": "2022-06-23",
+                "duration_sec": 4962.951,
+                "spotify_url": "https://open.spotify.com/episode/5W1neyz7wm2EqNtkMrR8Ao",
+                "name": "Hand in Hand for Schmitti (feat. Tommi Schmitt, Sophie Passmann, Palina Rojinski & Toni Kroos)",
+                "description": "Summer Breeze<br/><p>Ersch\u00fctternde Nachrichten erreichen uns heute aus Echsenhausen. Schmitti hat die Seuche. Das ist dieses Mal kein Bonus Level von \u201eEldenring\u201c sondern die traurige Realit\u00e4t. Weil Schmitti nicht cool ist, hat er leider nicht die neuste Trendkrankheit Affenpocken, sondern nur das gute alte Corona.<br/>So oder so Schmitti kommt nicht, deswegen r\u00fcckt ganz Promi-Deutschland in einer nie da gewesenen Aktion zusammen: Hand in Hand for Schmitti! <br/>Nur gemeinsam k\u00f6nnen Deutschlands Promis auffangen was der Kult-Saarl\u00e4nder und PlayStation Virtuose als klaffende Podcast-L\u00fccke hinterl\u00e4sst.</p><br/><p>Tommi Schmitt, Sophie Passmann, Palina Rojinksi, Toni Kroos, Micky Beisenherz und Kai Pflaume geben sich redlich M\u00fche mit typischen Podcast Anekdoten a la \u201eich war dort gewesen und da war was Kurioses\u201c, \u201eich mach grade XY\u201c und \u201eich habe was Kultiges beobachtet\u201c die Zeit kurzweilig zu gestalten.</p><br/><p>Wir sagen Danke an die G\u00e4ste und w\u00fcnschen unserem Schmitti: Gute Besserung und viel Spa\u00df mit der Baywatch Berlin </p><br/><p>Du m\u00f6chtest mehr \u00fcber unsere Werbepartner erfahren? <a href=\"https://linktr.ee/BaywatchBerlin\" rel=\"nofollow\">Hier findest du alle Infos &amp; Rabatte!</a></p>",
+                "show_in_all": true,
+                "internal_url": "Hand-in-Hand-for-Schmitti-feat-Tommi-Schmitt-Sophie-Passmann-Palina-Rojinski-und-Toni-Kroos",
+                "samples_data_scannend": {
+                    "other": {
+                        "jakobsigh": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
