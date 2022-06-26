@@ -38959,6 +38959,69 @@
                         }
                     }
                 }
+            },
+            "4ADWWq8hYGpXEhKyxtNOdL": {
+                "release_date": "2022-06-25",
+                "duration_sec": 3765.211,
+                "spotify_url": "https://open.spotify.com/episode/4ADWWq8hYGpXEhKyxtNOdL",
+                "name": "Aua, aua, Platzwunde",
+                "description": "<p>Es flie\u00dft Blut, es gibt Aussprachen, der eine hat Platzwunden, der andere einen eingewachsenen Zehennagel im Kopf. Ist das nun das Ende oder nur der Anfang der Sommerpause? Nichts bleibt, wie es ist, au\u00dfer der ewigen Regel: pro Auge ein Ei. Genie\u00dft den Sommer!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Aua-aua-Platzwunde",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
