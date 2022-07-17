@@ -39199,6 +39199,69 @@
                         }
                     }
                 }
+            },
+            "1Cix6mM0DnrrBAJmbgTDD5": {
+                "release_date": "2022-07-16",
+                "duration_sec": 271.96,
+                "spotify_url": "https://open.spotify.com/episode/1Cix6mM0DnrrBAJmbgTDD5",
+                "name": "Dritte Woche ohne F&F",
+                "description": "<p>Totaler Breakdown! Wenn wenigstens mal ne SMS k\u00e4me, aber so einfach nur cold turkey und ab auf die Fest\u00a0&amp;\u00a0Flauschig Vermissungs-Couch. Vorsicht mit den Zwiebackkr\u00fcmeln!\u00a0</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Dritte-Woche-ohne-FundF",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
