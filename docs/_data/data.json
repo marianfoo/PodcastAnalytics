@@ -39599,6 +39599,69 @@
                         }
                     }
                 }
+            },
+            "7GPPkxLkxi7fUY4Bzj8hxh": {
+                "release_date": "2022-08-20",
+                "duration_sec": 4929.854,
+                "spotify_url": "https://open.spotify.com/episode/7GPPkxLkxi7fUY4Bzj8hxh",
+                "name": "Lades\u00e4ule f\u00fcr die Ohren",
+                "description": "<p>Drei nackte Affen im Arm und mit Whiskyflasche durch den Gegenverkehr: Blitzerfotos sind einfach die besten Urlaubserinnerungen. Nach langer D\u00fcrrephase endlich das Fest&amp;Flauschig XXL-Comeback - Baby mach sie an die Bluetooth-Box!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Ladesaeule-fuer-die-Ohren",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
