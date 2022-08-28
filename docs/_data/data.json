@@ -39742,6 +39742,69 @@
                         }
                     }
                 }
+            },
+            "3gFg0LP5QjNB3BvEXIVgsu": {
+                "release_date": "2022-08-27",
+                "duration_sec": 4315.977,
+                "spotify_url": "https://open.spotify.com/episode/3gFg0LP5QjNB3BvEXIVgsu",
+                "name": "Gesund durch die Schwangerschaft",
+                "description": "<p>Im Service-Podcast erl\u00e4utern Dirty Winnetou und Robinson Schulz diesmal Logo-Geschichten und warum Karl-May-Filme so sind wie Wasserbetten. Und: V\u00f6llig egal ob schwanger oder nicht, zwei Sechzigj\u00e4hrige im K\u00f6rper eines Zwanzigj\u00e4hrigen geleiten Euch gesund durch die Schwangerschaft.\u00a0</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Gesund-durch-die-Schwangerschaft",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
