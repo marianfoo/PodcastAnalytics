@@ -39805,6 +39805,69 @@
                         }
                     }
                 }
+            },
+            "5NYFgAyzH5bARO2vDxcvrs": {
+                "release_date": "2022-08-30",
+                "duration_sec": 1986.795,
+                "spotify_url": "https://open.spotify.com/episode/5NYFgAyzH5bARO2vDxcvrs",
+                "name": "#BOOMERCRINGE 35",
+                "description": "<p>Endlich wieder Klarheit \u00fcber die Kalenderwochen! In kulinarischer H\u00f6chstform und mit Gro\u00dfen F\u00fcnf reiten Jan und Olli dem IFA-Sommergarten und dem Wochenende entgegen. Nur echt mit Hausmannskost!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "BOOMERCRINGE-35",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
