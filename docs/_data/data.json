@@ -3365,6 +3365,23 @@
                         }
                     }
                 }
+            },
+            "7umaIP7NsCIN7G6uCuGRBM": {
+                "release_date": "2022-09-01",
+                "duration_sec": 4394.605,
+                "spotify_url": "https://open.spotify.com/episode/7umaIP7NsCIN7G6uCuGRBM",
+                "name": "\u201eIsch hab den Thomas fallen lassen!\u201c",
+                "description": "",
+                "show_in_all": true,
+                "internal_url": "Isch-hab-den-Thomas-fallen-lassen",
+                "samples_data_scannend": {
+                    "other": {
+                        "jakobsigh": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
