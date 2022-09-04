@@ -39885,6 +39885,69 @@
                         }
                     }
                 }
+            },
+            "4YS2CwtEH0cnk7JKPjgqDw": {
+                "release_date": "2022-09-03",
+                "duration_sec": 140.355,
+                "spotify_url": "https://open.spotify.com/episode/4YS2CwtEH0cnk7JKPjgqDw",
+                "name": "Heute kein Tatort",
+                "description": "<p>H\u00e4? Wieso nur so ne kurze Sonntagsfolge? Keine Panik, heute ist mal alles anders, Fest &amp; Flauschig quasi live aus dem IFA Sommergarten und damit erst ab 20 Uhr hier zu h\u00f6ren. Bis dahin ein kleiner Gru\u00df aus der K\u00fcche.\u00a0</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Heute-kein-Tatort",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
