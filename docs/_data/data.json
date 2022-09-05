@@ -39948,6 +39948,69 @@
                         }
                     }
                 }
+            },
+            "2GMez1xHMPhJXSeNCcnBf5": {
+                "release_date": "2022-09-04",
+                "duration_sec": 5181.91,
+                "spotify_url": "https://open.spotify.com/episode/2GMez1xHMPhJXSeNCcnBf5",
+                "name": "Live aus dem IFA Sommergarten",
+                "description": "<p>Der Fu\u00df ist Geschichte und Kr\u00fcmel im Bett gibt\u2018s ab sofort auch nicht mehr: Fest &amp; Flauschig hat einen neuen Look!! Soundm\u00e4\u00dfig ist heute auf der IFA-Sommergartenb\u00fchne auch was passiert: Anna Thalbach live am Hornhauthobel, die Gro\u00dfen F\u00fcnf technischen Innovationen, die ein Gamechanger sind und dann gab es noch den Versuch, Joko und Klaas mit einer Geldspur auf die B\u00fchne zu locken\u2026</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Live-aus-dem-IFA-Sommergarten",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
