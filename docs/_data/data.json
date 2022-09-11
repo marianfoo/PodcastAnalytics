@@ -40091,6 +40091,69 @@
                         }
                     }
                 }
+            },
+            "167ID21XH8aMIF0Gl5DxmR": {
+                "release_date": "2022-09-10",
+                "duration_sec": 4045.766,
+                "spotify_url": "https://open.spotify.com/episode/167ID21XH8aMIF0Gl5DxmR",
+                "name": "Der Podcast mit dem Geheimnis",
+                "description": "<p>Augen auf beim Mumienfu\u00dfkauf! Krasse Erkenntnis in einer Langzeitbeziehung: es gibt doch noch Geheimnisse zu entdecken. Au\u00dferdem gilt es, die Frage zu kl\u00e4ren, wo man sich melden muss, wenn man in die Geschichtsb\u00fccher eingetragen werden will und wie man Baby-Bockwursth\u00e4nde dem Genpool fernhalten kann. Herzlich willkommen in der Show mit dem heimlichen Spiele-Fan und dem freundlichen Creep.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Der-Podcast-mit-dem-Geheimnis",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
