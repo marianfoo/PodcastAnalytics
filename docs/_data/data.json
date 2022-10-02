@@ -40520,6 +40520,69 @@
                         }
                     }
                 }
+            },
+            "0mv9VFUJnoffc4bkJlgAlQ": {
+                "release_date": "2022-10-01",
+                "duration_sec": 4421.041,
+                "spotify_url": "https://open.spotify.com/episode/0mv9VFUJnoffc4bkJlgAlQ",
+                "name": "Triggerwarnung mit zwei K\u00f6pfen",
+                "description": "<p>Jetzt ist wirklich Herbst - Wolli Schulz tr\u00e4gt wieder DEN Norwegerpulli. Daf\u00fcr gibt\u2018s viel W\u00e4rme von innen, Tr\u00f6deltime, eine Natter, die\u2018s geschafft hat und selbstverst\u00e4ndlich wieder einen Zungenbrecher.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Triggerwarnung-mit-zwei-Koepfen",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
