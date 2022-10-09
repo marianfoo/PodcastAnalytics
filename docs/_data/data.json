@@ -40663,6 +40663,69 @@
                         }
                     }
                 }
+            },
+            "5KyoxmZCENhjOpwnu4J1bs": {
+                "release_date": "2022-10-08",
+                "duration_sec": 4145.502,
+                "spotify_url": "https://open.spotify.com/episode/5KyoxmZCENhjOpwnu4J1bs",
+                "name": "Der Doppelstampfer",
+                "description": "<p>In geheimer Mission und mit Doppelstampf statt Doppelwumms kl\u00e4rt diese Folge die Frage, was \u00fcber Blumenkohl gebr\u00f6selt werden muss und wer das fliehende Kind mit einer M\u00fcnze wieder einfangen kann. Bitte alles Selbstgekochte wieder austuppern und beim Oktoberfest mal zusammennehmen!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Der-Doppelstampfer",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
