@@ -3467,6 +3467,23 @@
                         }
                     }
                 }
+            },
+            "018BKgaR1Ll6wQaExnI0aK": {
+                "release_date": "2022-10-13",
+                "duration_sec": 4212.244,
+                "spotify_url": "https://open.spotify.com/episode/018BKgaR1Ll6wQaExnI0aK",
+                "name": "Querdenker gegen 16:9",
+                "description": "<p>Klimm, Brumm, Peng, Boing, Schepper - so klingt es, wenn Klaas Heufer-Umlauf seinen \u201eOpener &amp; Bumperkoffer\u201c \u00f6ffnet und eine brandneue Rubrik nach der anderen hervorzaubert. \u201eHaushaltstipps mit Jakob Lundt\u201c klingt erstmal seri\u00f6s und informativ, ist im Endeffekt aber was mit Stinkewanzen und Staubsaugern. Dazu gibt es Verbl\u00fcffendes aus dem Erinnerungsschatz der Kindheit, den Realismus von Terminatoren und Game Boy Spielen und weil der Bumperkoffer eh schon da steht, wird auch daraus eine neue Rubrik gefriemelt. \u201eJa, macht ihr mal, ihr Podcaster! Solange ihr noch k\u00f6nnt!\u201c h\u00f6rt man technikaffine Future-Leute schreien, denn am Horizont steht das Schreckgespenst \u201eArtificial Intelligence\u201c und wartet nur darauf, die menschlichen Stotterheinis durch einen makellosen Computer zu ersetzen! H\u00f6ren wir schon bald Podcasts von Siri, Alexa und Co, statt von Lundt, Schmitt und Heufer-Umlauf? Werden wir in Zukunft nicht mehr erfahren, warum Schmitt ein 16:9-Querdenker ist und welchen Film Lundt zu empfehlen wei\u00df? Kein Streit mehr, wer von den Dreien der \u00dcbellaunigste ist? Gott bewahre, so eine Zukunft kann keiner wollen. Deshalb h\u00f6ren wir, ganz im Hier und Jetzt: eine neue, absolut menschliche Folge von Baywatch Berlin.</p><br/><p>Du m\u00f6chtest mehr \u00fcber unsere Werbepartner erfahren? <a href=\"https://linktr.ee/BaywatchBerlin\" rel=\"nofollow\">Hier findest du alle Infos &amp; Rabatte!</a></p>",
+                "show_in_all": true,
+                "internal_url": "Querdenker-gegen-169",
+                "samples_data_scannend": {
+                    "other": {
+                        "jakobsigh": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
