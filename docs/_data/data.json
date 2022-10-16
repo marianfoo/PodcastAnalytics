@@ -40806,6 +40806,69 @@
                         }
                     }
                 }
+            },
+            "3zBqaWzdiN7cMqB0GQbz3U": {
+                "release_date": "2022-10-15",
+                "duration_sec": 3899.82,
+                "spotify_url": "https://open.spotify.com/episode/3zBqaWzdiN7cMqB0GQbz3U",
+                "name": "Voltaire w\u00e4r bei Podimo",
+                "description": "<p>Jetzt kommt raus, wer jahrelang beim Podcastgame geschummelt hat und dann gibt es H\u00f6chststrafe f\u00fcr die Pointe. Auf der Horror-Rutsche ins Nichts oder\u00a0Knollenbl\u00e4tterpilz in den Burger?</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Voltaire-waer-bei-Podimo",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
