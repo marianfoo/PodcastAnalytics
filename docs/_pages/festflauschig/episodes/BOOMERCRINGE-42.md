@@ -2,7 +2,7 @@
 title: #BOOMERCRINGE 42
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-42
 nav_exclude: true
-nav_order: 355
+nav_order: 443
 ---
 
 # #BOOMERCRINGE 42
@@ -10,14 +10,14 @@ nav_order: 355
                     <tbody>
                         <tr>
                             <th scope="row">Veröffentlich am:</th>
-                            <td data-label="Veröffentlich am:">19. Oktober 2021</td>
+                            <td data-label="Veröffentlich am:">18. Oktober 2022</td>
                         </tr>
                         <tr>
                             <th scope="row">Länge </th>
-                            <td data-label="Länge ">19 Minuten</td>
+                            <td data-label="Länge ">43 Minuten</td>
                         </tr><tr>
                                 <th scope="row">Spotify Link</th>
-                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/6ZUCmWWioqDGJSHPlqcUMr">Spotify Link</a></td>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/6Do9D1xdAOzVSxzbxmBWQU">Spotify Link</a></td>
                             </tr></tbody>
                 </table>
 
@@ -26,9 +26,6 @@ nav_order: 355
 ## Beschreibung der Folge
 
 <div>
-<p>Hat da jemand Weihnachtszirkus gesagt? Und welcher ehemalige Chefredakteur könnte da gemeinsam mit den Village People performen, weil viel Zeit und so? Ein zarter Geruch von Spekulatius, Rentierkötteln und AdBlue weht durch diese Folge. Guten Appetit!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>  
+<p>Metal Metal Metal!! Endlich wieder die beliebteste Rubrik für alle Metalfans und die, die es noch nie werden wollten. Außerdem neue Namenspatrone für Olli Schulz und das garantiert Herzen wärmende Schokobrunnenpatent für den Winter.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
 </div>
 
-***
-
-## Keine Jingles gefunden
