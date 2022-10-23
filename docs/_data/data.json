@@ -40949,6 +40949,69 @@
                         }
                     }
                 }
+            },
+            "1boLpsnaWFV84EVr2VQuLR": {
+                "release_date": "2022-10-22",
+                "duration_sec": 4294.295,
+                "spotify_url": "https://open.spotify.com/episode/1boLpsnaWFV84EVr2VQuLR",
+                "name": "Auch Geheimagentinnen brauchen mal Pause",
+                "description": "<p>Endlich kommt raus, dass der mumifizierte Hamster Uwe im Hintergrund alle F\u00e4den zieht! Hat auch er den Kopf in die Tiefk\u00fchlt\u00fcte gepackt und das Knollenbl\u00e4tterpilzgericht gekocht?\u00a0</p><p>Weitere Enth\u00fcllungen, the return of the Doppeldildo und einen sympathischen Local Hero exklusiv in dieser Folge.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Auch-Geheimagentinnen-brauchen-mal-Pause",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
