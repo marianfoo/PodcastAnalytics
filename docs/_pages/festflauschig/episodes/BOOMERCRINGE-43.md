@@ -2,7 +2,7 @@
 title: #BOOMERCRINGE 43
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-43
 nav_exclude: true
-nav_order: 357
+nav_order: 445
 ---
 
 # #BOOMERCRINGE 43
@@ -10,14 +10,14 @@ nav_order: 357
                     <tbody>
                         <tr>
                             <th scope="row">Veröffentlich am:</th>
-                            <td data-label="Veröffentlich am:">26. Oktober 2021</td>
+                            <td data-label="Veröffentlich am:">25. Oktober 2022</td>
                         </tr>
                         <tr>
                             <th scope="row">Länge </th>
-                            <td data-label="Länge ">51 Minuten</td>
+                            <td data-label="Länge ">35 Minuten</td>
                         </tr><tr>
                                 <th scope="row">Spotify Link</th>
-                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/4erv3Tfqz7dhfAiX7xDhmG">Spotify Link</a></td>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/0itmWNlVsmdXs3y5czMC0A">Spotify Link</a></td>
                             </tr></tbody>
                 </table>
 
@@ -26,28 +26,6 @@ nav_order: 357
 ## Beschreibung der Folge
 
 <div>
-<p>Die Tage werden dunkler und kälter - Zeit für ein zünftiges Nagerfeuer und eine XXL-Folge Boomercringe. Mit praktischen Tipps für Fahrschüler*innen, den Großen Fünf, ner Tüte Schmalzgebäck und einer Freifahrt in der Krake.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>  
+<p>Wer sucht, der findet, seien es britische Eheringe oder anatomische Besonderheiten bei Frauen. Bei Boomercringe geht es heute fast wissenschaftlich zu - Notizblock bereithalten und los!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
 </div>
 
-***
-
-## Gefundene Jingles
-
-<table style="display: table;">
-                                    <tr>
-                                        <th class="tableColumnTitle">Titel</th>
-                                        <th class="tableColumnTimestamps">Timestamps</th>
-                                    </tr>
-                                    <tr>
-                                <td markdown="span"  class="tableColumnTitle">diegrossen5</td>
-                                <td markdown="span" class="tableColumnTimestamps">
-                                <br>
-                                <a href="https://open.spotify.com/episode/4erv3Tfqz7dhfAiX7xDhmG?t=1427">
-                                23 Minuten / 47 Sekunden</a>
-                                </td></tr><tr>
-                                <td markdown="span"  class="tableColumnTitle">diegrossen5</td>
-                                <td markdown="span" class="tableColumnTimestamps">
-                                <br>
-                                <a href="https://open.spotify.com/episode/4erv3Tfqz7dhfAiX7xDhmG?t=2903">
-                                48 Minuten / 23 Sekunden</a>
-                                </td></tr></table>
