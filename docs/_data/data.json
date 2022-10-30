@@ -41092,6 +41092,69 @@
                         }
                     }
                 }
+            },
+            "22VKyi5dWTnA8ZpT7G667c": {
+                "release_date": "2022-10-29",
+                "duration_sec": 3981.505,
+                "spotify_url": "https://open.spotify.com/episode/22VKyi5dWTnA8ZpT7G667c",
+                "name": "Die Sendung mit dem Twist",
+                "description": "<p>Im Stinkwanzen-Kost\u00fcm aus Polyester von T\u00fcr zu T\u00fcr und wie man im ICE-Restaurant die Hygieneregeln bricht - hier gibt es immer wieder was zu lernen! Zum Beispiel auch, wie man mit Silbenb\u00f6gen politisch attraktiver wird und wann D\u00f6ner machen ein Meisterberuf ist.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Die-Sendung-mit-dem-Twist",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
