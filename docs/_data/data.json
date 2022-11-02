@@ -41155,6 +41155,69 @@
                         }
                     }
                 }
+            },
+            "1CQFrEnkq7aKpUulbRpkQi": {
+                "release_date": "2022-11-01",
+                "duration_sec": 1805.191,
+                "spotify_url": "https://open.spotify.com/episode/1CQFrEnkq7aKpUulbRpkQi",
+                "name": "#BOOMERCRINGE 44",
+                "description": "<p>Dokutime mit Olli und Jan - heute mal ganz viele Streaming-Tipps f\u00fcr den tristen November. Moment mal, hat da jemand November gesagt? Das hei\u00dft ja, der Weihnachtszirkus naht in gro\u00dfen Schritten. Mehr dazu bald!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "BOOMERCRINGE-44",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
@@ -45690,6 +45753,15 @@
                 "description": "<p>Ferde. Was los mit Ferden? Warum kriegen die es nicht hin, sich selbst um ihre Probleme zu k\u00fcmmern? Peinlich wenn ihr uns fragt. Tommi ist heute ungewollt ehrlich, Felix hat noch mit den Nachwehen der gr\u00f6\u00dften pers\u00f6nlichen Blamage in 2022 zu k\u00e4mpfen. 5 Fragen an Teh Ess gibts dann auch noch. Und noch diverses mehr, an das sich der Verfasser dieser Folgenbeschreibung gerade nicht erinnern kann, weil er sie viel zu sp\u00e4t tippt und in 6 Minuten auf die B\u00fchne muss. R\u00fcsselkowski!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
                 "show_in_all": true,
                 "internal_url": "198-PFLAMMENWERFER"
+            },
+            "2DzxHMKB8auMVvgxdAsqME": {
+                "release_date": "2022-11-01",
+                "duration_sec": 4271.621,
+                "spotify_url": "https://open.spotify.com/episode/2DzxHMKB8auMVvgxdAsqME",
+                "name": "#199 FELIX H\u00d6RT AUF",
+                "description": "<p>Guten Mittwoch zusammen! Das Braunkehlchen ist der Vogel des Jahres geworden, Halloween ist nun einfach gesellschaftlich als Feiertag akzeptiert und der Lobrecht hat eine opulente Erk\u00e4ltung: so weit, so furchtbar. Eine etwas andere, ruhigere Folge wartet auf euch. So ist das manchmal. Bleibt gesund, und danke f\u00fcr eure Nachrichten. Immer. Big Love. Bleibt stabil.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "199-FELIX-HOeRT-AUF"
             }
         }
     }
