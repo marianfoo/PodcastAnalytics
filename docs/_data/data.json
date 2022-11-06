@@ -41235,6 +41235,69 @@
                         }
                     }
                 }
+            },
+            "0uNy82RIOwXjcaRdgdG4LN": {
+                "release_date": "2022-11-05",
+                "duration_sec": 3926.177,
+                "spotify_url": "https://open.spotify.com/episode/0uNy82RIOwXjcaRdgdG4LN",
+                "name": "Energy Balls kneten",
+                "description": "<p>Feuerwerk war f\u00fcr diese Folge nicht zu viel versprochen, Francesco Rosinetti taucht mal wieder auf und selbst John Lennon kommt vorbei! Ansonsten ist die Fest &amp; Flauschig Gr\u00fcnkohl-Jahreszeit eingel\u00e4utet, Tattoos werden geplant und Visionen f\u00fcr unseren Planeten entwickelt. Willkommen im November!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Energy-Balls-kneten",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
