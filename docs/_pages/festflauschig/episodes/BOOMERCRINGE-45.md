@@ -2,7 +2,7 @@
 title: #BOOMERCRINGE 45
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-45
 nav_exclude: true
-nav_order: 361
+nav_order: 449
 ---
 
 # #BOOMERCRINGE 45
@@ -10,14 +10,14 @@ nav_order: 361
                     <tbody>
                         <tr>
                             <th scope="row">Veröffentlich am:</th>
-                            <td data-label="Veröffentlich am:">09. November 2021</td>
+                            <td data-label="Veröffentlich am:">08. November 2022</td>
                         </tr>
                         <tr>
                             <th scope="row">Länge </th>
-                            <td data-label="Länge ">31 Minuten</td>
+                            <td data-label="Länge ">35 Minuten</td>
                         </tr><tr>
                                 <th scope="row">Spotify Link</th>
-                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/30YB8Oo9wbPUIEwIk5ys7Q">Spotify Link</a></td>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/4McYhx2YvDOujvXEQSRvvi">Spotify Link</a></td>
                             </tr></tbody>
                 </table>
 
@@ -26,28 +26,6 @@ nav_order: 361
 ## Beschreibung der Folge
 
 <div>
-<p>Einfach mal auf den Rücken legen, die Scheiben am Himmel bewundern und fünfe grade sein lassen. Moment, schon wieder fünf? Nichts ist, wie es scheint, nur Jan und Olli riechen gleich.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>  
+<p>Warum auf Klo nie jemand anruft und wie der Ingwergeschmack in den Tee kommt - große Fragen wie diese werden mittwochs geklärt. Die kleine Zwischendurch-Folge heute mal wieder mit leicht unappetitlichen Großen Fünf und mit biometrischem Körpergeruch. </p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
 </div>
 
-***
-
-## Gefundene Jingles
-
-<table style="display: table;">
-                                    <tr>
-                                        <th class="tableColumnTitle">Titel</th>
-                                        <th class="tableColumnTimestamps">Timestamps</th>
-                                    </tr>
-                                    <tr>
-                                <td markdown="span"  class="tableColumnTitle">diegrossen5</td>
-                                <td markdown="span" class="tableColumnTimestamps">
-                                <br>
-                                <a href="https://open.spotify.com/episode/30YB8Oo9wbPUIEwIk5ys7Q?t=263">
-                                4 Minuten / 23 Sekunden</a>
-                                </td></tr><tr>
-                                <td markdown="span"  class="tableColumnTitle">diegrossen5</td>
-                                <td markdown="span" class="tableColumnTimestamps">
-                                <br>
-                                <a href="https://open.spotify.com/episode/30YB8Oo9wbPUIEwIk5ys7Q?t=1751">
-                                29 Minuten / 11 Sekunden</a>
-                                </td></tr></table>
