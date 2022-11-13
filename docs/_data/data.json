@@ -41378,6 +41378,69 @@
                         }
                     }
                 }
+            },
+            "1W8GL2o8fYIzJfGNdO3hxU": {
+                "release_date": "2022-11-12",
+                "duration_sec": 3504.718,
+                "spotify_url": "https://open.spotify.com/episode/1W8GL2o8fYIzJfGNdO3hxU",
+                "name": "Der Mensch ist schlecht und kriegt's nicht besser hin",
+                "description": "<p>Den Kampf, aus dem Untenrum-Bereich rauszukommen, verlieren sie auch diesmal wieder, daf\u00fcr wird ein neues Festival aus der Taufe gehoben und \u00c4rschen gehuldigt. Dazu ernsthafte Diskussionen rund um die Fu\u00dfball-WM und ums Milliard\u00e4rs-Dasein. Einen fr\u00f6hlichen Volkstrauertag allerseits!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Der-Mensch-ist-schlecht-und-kriegts-nicht-besser-hin",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
