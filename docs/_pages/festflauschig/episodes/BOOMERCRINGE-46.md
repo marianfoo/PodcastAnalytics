@@ -2,7 +2,7 @@
 title: #BOOMERCRINGE 46
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-46
 nav_exclude: true
-nav_order: 363
+nav_order: 451
 ---
 
 # #BOOMERCRINGE 46
@@ -10,14 +10,14 @@ nav_order: 363
                     <tbody>
                         <tr>
                             <th scope="row">Veröffentlich am:</th>
-                            <td data-label="Veröffentlich am:">16. November 2021</td>
+                            <td data-label="Veröffentlich am:">15. November 2022</td>
                         </tr>
                         <tr>
                             <th scope="row">Länge </th>
-                            <td data-label="Länge ">29 Minuten</td>
+                            <td data-label="Länge ">32 Minuten</td>
                         </tr><tr>
                                 <th scope="row">Spotify Link</th>
-                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/7rhQmoScF6Mao65OYbdPWp">Spotify Link</a></td>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/78dTYUyadd1yhTrw67UNI9">Spotify Link</a></td>
                             </tr></tbody>
                 </table>
 
@@ -26,9 +26,6 @@ nav_order: 363
 ## Beschreibung der Folge
 
 <div>
-<p>Gefangen in der Zeitschleife und nur mit sehr dicken Winterjacken bekleidet befassen Jan und Olli sich heute mit einer ausladenden Nischenwissenschaft. Wie immer kommt alles auf die Perspektive an!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>  
+<p>Endlich ist der Mittwoch wieder ein richtiger Mittwoch - dank eines prominenten Reminders und dunklen Beziehungen in die Metal-Welt. Dazu verstörende Informationen über Disney-Prinzessinnen, Gedanken zum Bahn- und Achterbahnfahren und Wachsfiguren kurz vorm Schmelzpunkt.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
 </div>
 
-***
-
-## Keine Jingles gefunden
