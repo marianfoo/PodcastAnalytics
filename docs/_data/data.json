@@ -41521,6 +41521,69 @@
                         }
                     }
                 }
+            },
+            "54bFW2qUIEGydTSrbJfMR1": {
+                "release_date": "2022-11-19",
+                "duration_sec": 4440.346,
+                "spotify_url": "https://open.spotify.com/episode/54bFW2qUIEGydTSrbJfMR1",
+                "name": "Die Abenteuer von Schraubezahn",
+                "description": "<p>In fieberhaften Albtr\u00e4umen spricht ein Mund voller Scherben, ein Zahnarzt bohrt Gewinde und Gefl\u00fcgelfrikadellen bleiben unerreichbar im abgesperrten VIP-Bereich. Fun Fun Fun am Totensonntag - wer diese Folge nicht durchh\u00f6rt, bekommt Besuch von der Roggenmuhme!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Die-Abenteuer-von-Schraubezahn",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
