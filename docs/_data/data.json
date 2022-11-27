@@ -41664,6 +41664,69 @@
                         }
                     }
                 }
+            },
+            "1IXQMrY2F15lWQ9O9B75yz": {
+                "release_date": "2022-11-26",
+                "duration_sec": 4072.672,
+                "spotify_url": "https://open.spotify.com/episode/1IXQMrY2F15lWQ9O9B75yz",
+                "name": "\u00c4lternabend",
+                "description": "<p>Einen wundersch\u00f6nen 1. Advent allerseits - hier kommt die garantiert fu\u00dfballfreie Folge, obwohl es auch um die WM geht. Ab jetzt hei\u00dft es, den explodierenden Flammlachspreis im Auge zu behalten und Weihnachtsgeschenke zu organisieren - warum also nicht beim aktuellen Local Hero? Das Minenfeld Elternabend wird kurz betreten und sofort wieder verlassen - weitere Insider gibt es dann exklusiv per Giraffen-Infraschall.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Aelternabend",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
