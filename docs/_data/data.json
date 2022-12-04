@@ -41807,6 +41807,69 @@
                         }
                     }
                 }
+            },
+            "60SdhQpdR2QCylnxcbJFvR": {
+                "release_date": "2022-12-03",
+                "duration_sec": 4412.604,
+                "spotify_url": "https://open.spotify.com/episode/60SdhQpdR2QCylnxcbJFvR",
+                "name": "Wir geben gerne",
+                "description": "<p>Der Massagesessel f\u00fcr die Ohren hat heute die Spezialfunktion Immunisierungstipps f\u00fcr den Weihnachtsmarkt. Es gibt verwirrenderweise Metal am Mi\u2026 \u00e4h Sonntag und die Einsicht, dass es Hunde gibt, die es geschafft haben und Hunde, denen der Adventskalender aus dem Magen gepumpt werden muss. Gute Besserung, Juri!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Wir-geben-gerne",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
