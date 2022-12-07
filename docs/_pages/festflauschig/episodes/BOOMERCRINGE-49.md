@@ -2,7 +2,7 @@
 title: #BOOMERCRINGE 49
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-49
 nav_exclude: true
-nav_order: 369
+nav_order: 457
 ---
 
 # #BOOMERCRINGE 49
@@ -10,14 +10,14 @@ nav_order: 369
                     <tbody>
                         <tr>
                             <th scope="row">Veröffentlich am:</th>
-                            <td data-label="Veröffentlich am:">07. Dezember 2021</td>
+                            <td data-label="Veröffentlich am:">06. Dezember 2022</td>
                         </tr>
                         <tr>
                             <th scope="row">Länge </th>
-                            <td data-label="Länge ">21 Minuten</td>
+                            <td data-label="Länge ">34 Minuten</td>
                         </tr><tr>
                                 <th scope="row">Spotify Link</th>
-                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/4HQo6HsJ4eAcwFa9zSVYa9">Spotify Link</a></td>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/6Zmfv8bWq99ge1dDFCu4Jg">Spotify Link</a></td>
                             </tr></tbody>
                 </table>
 
@@ -26,9 +26,6 @@ nav_order: 369
 ## Beschreibung der Folge
 
 <div>
-<p>Lieber Medientyp mit Anschlussterminen oder leicht einen sitzen und heute mal nichts vor? Egal wie, diese Zeit muss drin sein - für den kleinen Podcast-Snack zwischendurch: die Mittwochsfolge mit neuer Rubrik, nostalgischem Obstverzehr und einem Abschied ohne Tränen. </p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>  
+<p>Die Mittwochs-Vernissage heute mit distinguierten Gesprächen, kunstvollen Wendungen und fünf Enthüllungen für den guten Spendenzweck. </p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
 </div>
 
-***
-
-## Keine Jingles gefunden
