@@ -41967,6 +41967,69 @@
                         }
                     }
                 }
+            },
+            "3oyhGgMqWBb39of6sAvj6s": {
+                "release_date": "2022-12-10",
+                "duration_sec": 4792.842,
+                "spotify_url": "https://open.spotify.com/episode/3oyhGgMqWBb39of6sAvj6s",
+                "name": "Playboy Mann des Jahres",
+                "description": "<p>Auch die h\u00e4rteste Weihnachtsfeier kann den Playboy Mann des Jahres und Mister Universum Fu\u00df nicht stoppen. Die Vorbereitungen auf den Weihnachtszirkus laufen hei\u00df - und das alles ohne 24-Stunden-Security.\u00a0Wer sich schonmal warmspenden will, geht auf festundfestlich.betterplace.org, alle anderen machen das bitte w\u00e4hrend des Livestreams am 17.12. ab 19 Uhr.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Playboy-Mann-des-Jahres",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
