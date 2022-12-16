@@ -3637,6 +3637,23 @@
                         }
                     }
                 }
+            },
+            "0jX7reZA6U3YEn9C83S9y8": {
+                "release_date": "2022-12-15",
+                "duration_sec": 5495.17,
+                "spotify_url": "https://open.spotify.com/episode/0jX7reZA6U3YEn9C83S9y8",
+                "name": "Champagner aus der Todestasse (Christmas Special)",
+                "description": "<p>Ein rauchender Schornstein. Ein schneebedecktes Dach. Es riecht nach Zimt, Orangen und Gem\u00fctlichkeit. Aus dem Podcaststudio des kleinen H\u00e4uschens dringt ein wohl-bekanntes Keifen.</p><br/><p>H\u00e4tte Jesus gewusst, dass sein Geburtstag, besser in den Terminkalender von Klaas, Schmitti und Lundt passt, wenn er auf den 16.12 fiele, h\u00e4tte er Maria die Presswehen sicher schon 8 Tage fr\u00fcher geschickt. So m\u00fcssen die drei Podcaster eben nach helfen. Wenn sie sagen: heute ist Weihnachten, ja dann ist eben heute Weihnachten.</p><br/><p>Unter dem akustischen Weihnachtsbaum liegen nat\u00fcrlich nicht nur die angenehmen Themen. Was gesagt werden muss, muss eben gesagt werden:</p><br/><p>Wie schlimm war Prinz Peinlichs Auftritt bei \u201eWer wei\u00df denn sowas\u201c tats\u00e4chlich? Klaas und Schmitti machen die Knallhart-Abrechnung!</p><br/><p>Es gibt Neues von Kult-Prasser Chico und nat\u00fcrlich jede Menge richtige Geschenke.</p><br/><p>Was schenken sich die drei untereinander? Es gab Tr\u00e4nen der R\u00fchrung und lange Gesichter. Spott und Gl\u00fcck sie sind nur durch ein d\u00fcnnes Geschenkpapier voneinander getrennt.</p><br/><p>Setzt Euch an den Tisch, seid froh, dass ihr jederzeit gehen k\u00f6nnt und auch mit dem Abwasch nichts zu tun habt.<br/>Kinder, wir haben\u2019s ja nur gut gemeint.</p><br/><p>Du m\u00f6chtest mehr \u00fcber unsere Werbepartner erfahren? <a href=\"https://linktr.ee/BaywatchBerlin\" rel=\"nofollow\">Hier findest du alle Infos &amp; Rabatte!</a></p>",
+                "show_in_all": true,
+                "internal_url": "Champagner-aus-der-Todestasse-Christmas-Special",
+                "samples_data_scannend": {
+                    "other": {
+                        "jakobsigh": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
