@@ -42110,6 +42110,69 @@
                         }
                     }
                 }
+            },
+            "21h2Tjjjd9ydPtecOdE12i": {
+                "release_date": "2022-12-18",
+                "duration_sec": 10447.751,
+                "spotify_url": "https://open.spotify.com/episode/21h2Tjjjd9ydPtecOdE12i",
+                "name": "Fest & Festlich - Weihnachten mit Jan und Olli",
+                "description": "<p>Wie gut, dass Jan und Olli ihre Zweitwunsch-Berufe Masseur und Hirnchirurg nicht ergreifen mussten und stattdessen zum Beispiel allj\u00e4hrlich mit Starg\u00e4sten und der besten Community Spenden sammeln. Da werden nackte B\u00e4uche und entbl\u00f6\u00dfte F\u00fc\u00dfe gezeigt (kommt besonders gut im Podcast), da werden sensationelle Archiv-Funde von den ersten Schritten im Fernsehen gezeigt. Der Weihnachtspulli mit Konfettikanone f\u00fcr die Ohren \u2013 wie eine gute Familienfeier, die langsam aus dem Ruder l\u00e4uft. Mit Starg\u00e4sten Katrin Bauerfeind und Marius M\u00fcller-Westernhagen. Und es darf weiter gespendet werden: <a href=\"https://festundfestlich.betterplace.org\" rel=\"nofollow\">festundfestlich.betterplace.org</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Fest-und-Festlich-Weihnachten-mit-Jan-und-Olli",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
