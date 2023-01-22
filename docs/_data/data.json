@@ -42333,6 +42333,69 @@
                         }
                     }
                 }
+            },
+            "6EEJP3lR2xic5uN5XMyisg": {
+                "release_date": "2023-01-21",
+                "duration_sec": 4426.919,
+                "spotify_url": "https://open.spotify.com/episode/6EEJP3lR2xic5uN5XMyisg",
+                "name": "Pudding in Dubai",
+                "description": "<p>Erbarmt Euch und sehet: diese Folge eignet sich nur bedingt zum gleichzeitigen Verzehr von Schokopudding. Daf\u00fcr werden echte Weltpremieren abgefeiert (zum ersten Mal Kaffee mit Hafermilch!) und Gro\u00dfkatzen enthaart. Und als Lebensweisheit sei noch gesagt: im Zweifel lieber dem Sch\u00fctzenk\u00f6nig auf den SUV pissen, als Kokain in den Fu\u00df zu schie\u00dfen. Mehr Hacks f\u00fcr echte Probleme nur hier!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Pudding-in-Dubai",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
