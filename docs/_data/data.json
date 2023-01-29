@@ -42476,6 +42476,69 @@
                         }
                     }
                 }
+            },
+            "6zhQnlfmRgDsdfOlsMfdiw": {
+                "release_date": "2023-01-28",
+                "duration_sec": 4817.502,
+                "spotify_url": "https://open.spotify.com/episode/6zhQnlfmRgDsdfOlsMfdiw",
+                "name": "Der Junge mit den sauberen Z\u00e4hnen",
+                "description": "<p>Hohe Fixkosten im f\u00fcnfstelligen Bereich lieber mit dem Klempnertrick oder \u00fcber die Kinder l\u00f6sen? Eine Antwort darauf steht noch aus, daf\u00fcr gibt es Pl\u00e4ne f\u00fcr eine gewagte Befreiungsaktion mit Fell und Prominenz. Au\u00dferdem eine Bewerbung, die schon fast zu gut ist und trotzdem immer wieder ignoriert wird (warum, NDR?) und den tr\u00f6stlichen Hinweis: Geld kommt!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Der-Junge-mit-den-sauberen-Zaehnen",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
