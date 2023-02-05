@@ -42636,6 +42636,69 @@
                         }
                     }
                 }
+            },
+            "7m1lCkImuravF0wczjRcEM": {
+                "release_date": "2023-02-04",
+                "duration_sec": 4851.252,
+                "spotify_url": "https://open.spotify.com/episode/7m1lCkImuravF0wczjRcEM",
+                "name": "Der Gyros schmilzt",
+                "description": "<p>War es ein Gyrosspie\u00df oder ein Zauberspruch, der den Podcast-Spionageballon platzen lie\u00df? Bei Geheimtreffen vor Paravents werden Codes und Zeichen ausgetauscht. Pro-Tipp: diese Folge vielleicht mal r\u00fcckw\u00e4rts h\u00f6ren. So oder so gibt es noch Local Heroes und ein paar Hunde, bei denen es Interpretationssache ist, ob sie es geschafft haben. Bye bye Veganuary, ab jetzt wird wieder Ouzo gekippt!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Der-Gyros-schmilzt",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
