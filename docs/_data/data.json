@@ -3739,6 +3739,23 @@
                         }
                     }
                 }
+            },
+            "5jNuLrmoD1Ig3PLWVDbCwX": {
+                "release_date": "2023-02-09",
+                "duration_sec": 3477.133,
+                "spotify_url": "https://open.spotify.com/episode/5jNuLrmoD1Ig3PLWVDbCwX",
+                "name": "HATE CRIME KNOBELBECHER",
+                "description": "<p>Es gibt diese Woche keinen Episodeninhaltstext, weil Klaas letzte Woche mit Schreiben dran war, er aber keine Zeit hatte, worauf Jakob netterweise f\u00fcr ihn eingesprungen ist und Klaas dann diese Woche nicht daran gedacht hat, dass er sein Vers\u00e4umnis von letzter Woche (als Jakob eingesprungen ist) nachholen m\u00fcsste und jetzt aber auch keine Zeit mehr hat, weil er zu einer Filmpremiere eingeladen ist, wodurch auch bei Schmitt eine gro\u00dfe Verwirrung entstand, wer jetzt diese Woche eigentlich den Text machen muss und zeitgleich Kult-Konsti schon rumnervt, weil er den Text noch \u201eins System\u201c einpflegen muss und er ja auch irgendwann mal Feierabend hat, wodurch sich Schmitt in die Ecke gedr\u00e4ngt f\u00fchlt, die psychische Belastung direkt als Ausrede nutzt und sich v\u00f6llig au\u00dferstande sieht, den Text jetzt noch schnell zu \u00fcbernehmen, in Wahrheit aber nur kein Bock hat und lieber Tortellini essen will. Schade.</p><br/><p>Du m\u00f6chtest mehr \u00fcber unsere Werbepartner erfahren? <a href=\"https://linktr.ee/BaywatchBerlin\" rel=\"nofollow\">Hier findest du alle Infos &amp; Rabatte!</a></p>",
+                "show_in_all": true,
+                "internal_url": "HATE-CRIME-KNOBELBECHER",
+                "samples_data_scannend": {
+                    "other": {
+                        "jakobsigh": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
