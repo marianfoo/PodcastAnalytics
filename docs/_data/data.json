@@ -42779,6 +42779,69 @@
                         }
                     }
                 }
+            },
+            "6fAFq9WcOly3gYrculXoOA": {
+                "release_date": "2023-02-11",
+                "duration_sec": 4348.29,
+                "spotify_url": "https://open.spotify.com/episode/6fAFq9WcOly3gYrculXoOA",
+                "name": "Never meet your local heroes",
+                "description": "<p>Der Schwamm muss \u00fcber so einiges dr\u00fcber - unterm Strich bleibt festzuhalten: NICHT in die Natur eingreifen! Und diese Folge mal sch\u00f6n eingekuschelt im Bett anh\u00f6ren, irgendwann ist auch dieser Winter vorbei. Heute geht&#39;s unter anderem\u00a0um - Achtung, anschnallen: kulturelle Aneignung (aiaiai). Und um Erbsenmilch und Nazi-Bands. Enjoy!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Never-meet-your-local-heroes",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
