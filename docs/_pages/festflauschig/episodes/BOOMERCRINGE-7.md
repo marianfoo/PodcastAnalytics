@@ -1,23 +1,23 @@
 ---
-title: #BOOMERCRINGE 7
+title: BOOMERCRINGE #7
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-7
 nav_exclude: true
-nav_order: 380
+nav_order: 470
 ---
 
-# #BOOMERCRINGE 7
+# BOOMERCRINGE #7
 <table class="resp-table dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
                     <tbody>
                         <tr>
                             <th scope="row">Veröffentlich am:</th>
-                            <td data-label="Veröffentlich am:">15. Februar 2022</td>
+                            <td data-label="Veröffentlich am:">14. Februar 2023</td>
                         </tr>
                         <tr>
                             <th scope="row">Länge </th>
-                            <td data-label="Länge ">24 Minuten</td>
+                            <td data-label="Länge ">44 Minuten</td>
                         </tr><tr>
                                 <th scope="row">Spotify Link</th>
-                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/1tcMz4FaNMJLbLNuUU3LwM">Spotify Link</a></td>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/2MY6HIZ78ed5US5g4JVqu8">Spotify Link</a></td>
                             </tr></tbody>
                 </table>
 
@@ -26,6 +26,6 @@ nav_order: 380
 ## Beschreibung der Folge
 
 <div>
-<p>Wer kennt nicht das Dilemma: man würde ja gerne Sport machen, hat aber leider keinen Platz in der Wohnung für Sportgeräte. Zum Glück ist Olaf Scholz&#39; Ledertasche aber so geräumig, dass da die Großen Fünf Dinge reinpassen, die er immer dabei hat. Spoiler: seine Asterix-Kraft-Comicsammlung ist definitiv dabei! </p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
+<p>Passt, wackelt und hat Luft! Auch diese Folge Boomercringe ist echt und von Hand gemacht, auch wenn zwischendurch mal kurz nachgelötet wird. Kann man im Metaverse mit Karte zahlen oder bleibt das Zukunftsmusik? Wer unterstützt und supportet hier eigentlich wen und wer ist dieser Edwin? Wieder heißt die Lösung für alles: Erbsenmilch.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
 </div>
 
