@@ -3773,6 +3773,23 @@
                         }
                     }
                 }
+            },
+            "31gHvbiiQclbSjudbHJ9on": {
+                "release_date": "2023-02-16",
+                "duration_sec": 3952.718,
+                "spotify_url": "https://open.spotify.com/episode/31gHvbiiQclbSjudbHJ9on",
+                "name": "Cui Bono: Wer hat Angst vor SternTV?",
+                "description": "<p>In Zeiten medialer \u00dcberspannung kann man manchmal ein interessantes Ph\u00e4nomen beobachten- eine Art gesellschaftliche \u00dcbersprungshandlung.</p><br/><p>W\u00e4hrend die Welt in permanenter Hab-Acht Stellung die Gegenwart betrachtet, kann es schonmal passieren dass einem ein v\u00f6llig unn\u00f6tiges Thema in die bereits weit ge\u00f6ffneten Wahrnehmungsklappen fliegt, und dann im Gehirn versehentlich als etwas Wichtiges behandelt wird.</p><br/><p>F\u00fcr Podcaster ist dieser Effekt praktisch Berufsgrundlage.</p><br/><p>So geschehen mit dem Drama um das Thomas Schmitt Portrait aus dem Knobelbecher in K\u00f6ln.</p><br/><p>Jahrelang grinste er dort mit dem Charme eines entr\u00fcckten Serienkillers im Regal hinter dem Tresen direkt in die goldgelbe Seele gem\u00fctlicher K\u00f6lschtrinker auf der anderen Seite der Bar.<br/>Sein Lachen sagte stets: \u201cKomm Jupp, eins kannste noch!\u201d</p><br/><p>Nun ist das Bild in einer  un\u00fcbersichtlichen Saufnacht abhandengekommen und Deutschland ist nicht mehr wiederzuerkennen.</p><br/><p>Seri\u00f6se Nachrichten Magazine wie SternTV bem\u00fchen sich mit gleicher Intensit\u00e4t um die Wiederbeschaffung des Bildes wie irgendwelche Problemzwillinge aus dem Internet.</p><br/><p>Keiner darf ruhen, bis das Bild wieder da ist. In dieser Folge h\u00f6ren wir ein exklusives Statement des echten T\u00e4ters, der unter dem Druck der Massen zu einem Telefonat mit Jakob, Schmitt &amp; Klaas gezwungen wurde. </p><br/><p>Zur Beruhigung gibt&#39;s nat\u00fcrlich aber auch noch die normalen Themen: Jakob streitet sich mit seinem K\u00fchlschrank, Thomas m\u00f6chte mal wieder, dass sich die \u201eErde vor ihm auftut\u201c &amp; Klaas erz\u00e4hlt eine Geschichte in der Kacke vorkommt. Thank god it&#39;s friday!</p><br/><p>Du m\u00f6chtest mehr \u00fcber unsere Werbepartner erfahren? <a href=\"https://linktr.ee/BaywatchBerlin\" rel=\"nofollow\">Hier findest du alle Infos &amp; Rabatte!</a></p>",
+                "show_in_all": true,
+                "internal_url": "Cui-Bono-Wer-hat-Angst-vor-SternTV",
+                "samples_data_scannend": {
+                    "other": {
+                        "jakobsigh": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
