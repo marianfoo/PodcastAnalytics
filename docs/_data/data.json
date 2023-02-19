@@ -42939,6 +42939,69 @@
                         }
                     }
                 }
+            },
+            "1ZC9KLKpNoNHT4iuYdPDjD": {
+                "release_date": "2023-02-18",
+                "duration_sec": 6422.909,
+                "spotify_url": "https://open.spotify.com/episode/1ZC9KLKpNoNHT4iuYdPDjD",
+                "name": "Wir sind Rotzepf\u00fctze!",
+                "description": "<p>So hei\u00df wie eine durchgetanzte Nacht im Fritz Carlton oder wie langsam frittierte Chicken Wings: die XXL Jubil\u00e4umsfolge mit immer noch taufrischen Gro\u00dfen F\u00fcnf. Hier wird der Fame an der Fleischtheke abgefeiert und die Straflust bedient, hier wird ged\u00e4mmt, gespuckt und die vegane BiFi gepellt. Nur eines lieber nicht: nicht im Moshpit einpennen!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Wir-sind-Rotzepfuetze",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
