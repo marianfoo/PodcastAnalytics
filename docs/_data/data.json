@@ -43368,6 +43368,69 @@
                         }
                     }
                 }
+            },
+            "3X9c4Gr16VdmqfIT1LKdEO": {
+                "release_date": "2023-03-11",
+                "duration_sec": 4213.577,
+                "spotify_url": "https://open.spotify.com/episode/3X9c4Gr16VdmqfIT1LKdEO",
+                "name": "Der Asi und der Schwabe",
+                "description": "<p>Der K\u00e4sefuror muss gestoppt werden! Aber erstmal hei\u00dft es nacharbeiten und offene Fragen zu den Privilegien vom Wilden Bernd kl\u00e4ren. Es geht mal wieder (gedanklich) auf den Obersalzberg und ein Fieldtrip nach London wird geplant. Wer jetzt noch heimlich Limbo tanzt, bekommt einen neuen Vornamen!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Der-Asi-und-der-Schwabe",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
