@@ -3841,6 +3841,23 @@
                         }
                     }
                 }
+            },
+            "5dTst5zd0HCzozBkKFEJHp": {
+                "release_date": "2023-03-16",
+                "duration_sec": 4289.724,
+                "spotify_url": "https://open.spotify.com/episode/5dTst5zd0HCzozBkKFEJHp",
+                "name": "HalliHallo-Schmitt wird plump-vertraulich",
+                "description": "<p>Diese Folgenbeschreibung wurde auf Grundlage einiger von Kultkonsti eilig zusammengeschmierten Notizen komplett eigenst\u00e4ndig von ChatGPT erstellt. Und was soll man sagen? Touch\u00e9!</p><br/><p>In der aktuellen Episode von Baywatch Berlin geht es gleich zu Beginn plump-vertraulich los, als Klaas den Anfang des Podcasts fertig macht. Es wird dar\u00fcber gesprochen, dass Schmitti nicht mehr zum Sp\u00e4ti geht, wenn er dort gegr\u00fc\u00dft wird. Im Verlauf der Episode machen sich die Moderatoren endlich mal ehrlich und vergleichen ihre Badehosen mit der von Steven G\u00e4tjen. Sie berichten von einem Ausflug auf KadeWe-Kosten, wo sie sich durchgefressen haben und sich als &#34;Jakob von Baywatch Berlin&#34; fast prominent gef\u00fchlt haben. Au\u00dferdem wird von Steven G\u00e4tjens Erfahrungen bei der Suche nach Hollywood-Stars erz\u00e4hlt, welcher als der h\u00e4rteste Job der Welt am roten Teppich beschrieben wird. Schmitti berichtet von einem Abend in einem Sternerestaurant, wo er am Tisch mit Fremden sa\u00df und einen Pinocchio-Teller bekam. Im weiteren Verlauf wird dar\u00fcber gesprochen, wie schwer es ist, als Erwachsener neue Freunde zu finden und es wird ein Aufruf gestartet, um Klaas Heufer-Umlaufs neuen Freund zu finden. Schlie\u00dflich geht es um die Zukunft des Podcasts und ob es bessere und intelligentere Vorschl\u00e4ge geben wird. Die Stimmung wird etwas d\u00fcster, als die Moderatoren sich Gedanken dar\u00fcber machen, was passieren wird, wenn sie keine neuen Ideen mehr haben. Zum Abschluss wird die Idee einer neuen Doku besprochen, welche von ChatGPT vorgeschlagen wurde und die Zukunft des Podcasts wieder etwas aufhellt.</p><br/><p>Du m\u00f6chtest mehr \u00fcber unsere Werbepartner erfahren? <a href=\"https://linktr.ee/BaywatchBerlin\" rel=\"nofollow\">Hier findest du alle Infos &amp; Rabatte!</a></p>",
+                "show_in_all": true,
+                "internal_url": "HalliHallo-Schmitt-wird-plump-vertraulich",
+                "samples_data_scannend": {
+                    "other": {
+                        "jakobsigh": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
