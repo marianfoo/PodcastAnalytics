@@ -43511,6 +43511,69 @@
                         }
                     }
                 }
+            },
+            "0ElXJPu7aiZ9A39j1GqyMk": {
+                "release_date": "2023-03-18",
+                "duration_sec": 4352.653,
+                "spotify_url": "https://open.spotify.com/episode/0ElXJPu7aiZ9A39j1GqyMk",
+                "name": "Die n\u00e4chste Woche wird gut",
+                "description": "<p>Milchglas und wei\u00dfen Ledermantel an, heute ist Celebrity Time bei Fest &amp; Flauschig! Au\u00dferdem mal wieder ein spannender Fall f\u00fcr den Podcast-Richter Jan B\u00f6hmermann, der endlich einen eigenen Jingle braucht. Es werden B\u00fcrgerpflichten abgefragt, Hunde freigesprochen und Schwip Schwap-Gl\u00e4ser geleert. Was fehlt? Nat\u00fcrlich, ein Sexgest\u00e4ndnis ist auch noch dabei.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Die-naechste-Woche-wird-gut",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
