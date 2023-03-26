@@ -43654,6 +43654,69 @@
                         }
                     }
                 }
+            },
+            "0PSqj9IdAoyYClBpdEtale": {
+                "release_date": "2023-03-25",
+                "duration_sec": 5655.875,
+                "spotify_url": "https://open.spotify.com/episode/0PSqj9IdAoyYClBpdEtale",
+                "name": "\u00d6ffentlicher Dreier",
+                "description": "<p>Wer befindet sich gerade in der Paketphase seines Lebens, erkennt Outfits, die es verdient haben, auf der B\u00fchne zu sein UND hat ein Auge f\u00fcr Jans sch\u00f6ne F\u00fc\u00dfe? Riccardo Simonetti nat\u00fcrlich, aber pssst, eigentlich noch geheim - der schwebt gleich als Ehrengast die Fest &amp; Flauschig-Showtreppe hinunter. Mit ihm fantasieren Jan und Olli mal wieder von ESC-Moderationen, planen Umbr\u00fcche im deutschen Fernsehen und packen sich einen kleinen Nacho-Teller f\u00fcr einen Abend mit den gro\u00dfen F\u00fcnf Horror-Filmen.\u00a0</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Oeffentlicher-Dreier",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
