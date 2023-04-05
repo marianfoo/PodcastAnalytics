@@ -1,23 +1,23 @@
 ---
-title: #BOOMERCRINGE 14
+title: BOOMERCRINGE #14
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-14
 nav_exclude: true
-nav_order: 394
+nav_order: 484
 ---
 
-# #BOOMERCRINGE 14
+# BOOMERCRINGE #14
 <table class="resp-table dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
                     <tbody>
                         <tr>
                             <th scope="row">Veröffentlich am:</th>
-                            <td data-label="Veröffentlich am:">05. April 2022</td>
+                            <td data-label="Veröffentlich am:">04. April 2023</td>
                         </tr>
                         <tr>
                             <th scope="row">Länge </th>
-                            <td data-label="Länge ">28 Minuten</td>
+                            <td data-label="Länge ">32 Minuten</td>
                         </tr><tr>
                                 <th scope="row">Spotify Link</th>
-                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/5FKl7uYZr5ZnYALe7p4r9Y">Spotify Link</a></td>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/6VKoD3lzm8OkTAUApeCz9d">Spotify Link</a></td>
                             </tr></tbody>
                 </table>
 
@@ -26,6 +26,6 @@ nav_order: 394
 ## Beschreibung der Folge
 
 <div>
-<p>Snackt ihn weg, den köstlichen kleinen Mittwochshappen mit Facials gegen fettige T-Zonen und Workouts gegen Nichtraucherpfunde. Fest&amp;Flauschig-Fans wissen Bescheid: wenn die Flex der Hornhaut am Fuß zu Leibe rückt, kann der Frühling nicht mehr weit sein! </p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
+<p>Der Gruß aus der Küche kommt diesmal aus dem Hals-Restaurant, nicht zu verwechseln mit großen Nasen am Mikrofon oder kleinen Hirnen am Steuer. Werden Jan und Olli demnächst eine Currywurstbude auf Feuerland betreiben oder an Ostern als KI wiedergeboren? Große Enthüllungen finden erst am Sonntag statt, bis dahin gibt&#39;s im bodenständigen Boomercringe endlich mal wieder Metal am Mittwoch.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
 </div>
 
