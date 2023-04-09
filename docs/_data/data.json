@@ -43940,6 +43940,69 @@
                         }
                     }
                 }
+            },
+            "5RDMILFMaIQADry9wSvPNg": {
+                "release_date": "2023-04-08",
+                "duration_sec": 4140.199,
+                "spotify_url": "https://open.spotify.com/episode/5RDMILFMaIQADry9wSvPNg",
+                "name": "Great News for Great People",
+                "description": "<p>Die gro\u00dfe Jan-und-Olli-Oster-Inventur-Intervention f\u00fcr alle, die unter M\u00fcsog\u00fcn\u00fc, Til Schweiger, deutschen Bl\u00f6delbarden aus den 90ern und Pollenallergie leiden. Und weil Ostersonntag ist, gibt&#39;s als Easter Egg noch ein paar Grand Nouvelles!\u00a0</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Great-News-for-Great-People",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
