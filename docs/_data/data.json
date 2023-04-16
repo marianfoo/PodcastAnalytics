@@ -44083,6 +44083,69 @@
                         }
                     }
                 }
+            },
+            "0VF94KxZhc3pHuFc45CMYu": {
+                "release_date": "2023-04-15",
+                "duration_sec": 4929.253,
+                "spotify_url": "https://open.spotify.com/episode/0VF94KxZhc3pHuFc45CMYu",
+                "name": "Raus aus der Gun Lover Bubble!",
+                "description": "<p>Na, wer tr\u00e4gt immer Glitzeranzug unten drunter und ist allzeit bereit, auch mit einem Song beim Eurovision Songcontest einzuspringen? Sollten sie nicht zum Zug kommen, kann immer noch am Sack gedudelt oder kunstgefurzt werden. Weniger substanziell, aber viel d\u00e4mlicher sind gewisse Textnachrichten, die in dieser Folge breitgetreten werden m\u00fcssen. Passend dazu gibt es ein richtig gutes Podcast-Announcement, einen Hauch Profiboxen und on top ne Perle im geflochtenen Bart.\u00a0</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Raus-aus-der-Gun-Lover-Bubble",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
