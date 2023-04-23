@@ -44226,6 +44226,69 @@
                         }
                     }
                 }
+            },
+            "3yYY4uk3THcyGUqVWIrfvy": {
+                "release_date": "2023-04-22",
+                "duration_sec": 5172.767,
+                "spotify_url": "https://open.spotify.com/episode/3yYY4uk3THcyGUqVWIrfvy",
+                "name": "Medienkl\u00fcngel aus dem Schneewittchensarg",
+                "description": "<p>Namen sind wie immer Schall und Rauch in dieser Gossip-Folge nach einer Woche voller Medien-Events. Da steht so einiges auf dem Zettel, da werden Laudationen gehalten und kaum eine Showgr\u00f6\u00dfe bleibt verschont. Aber wenn doch bitte mal einer richtig nachz\u00e4hlen k\u00f6nnte? Zum Gl\u00fcck ist dann noch Zeit f\u00fcr Tr\u00f6deltime und ein paar wichtige historische Fakten.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Medienkluengel-aus-dem-Schneewittchensarg",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
