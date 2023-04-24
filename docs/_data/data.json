@@ -3943,6 +3943,23 @@
                         }
                     }
                 }
+            },
+            "4weGoEAZT1lRnRVMyqKuwU": {
+                "release_date": "2023-04-23",
+                "duration_sec": 2887.444,
+                "spotify_url": "https://open.spotify.com/episode/4weGoEAZT1lRnRVMyqKuwU",
+                "name": "Podcast Empfehlung: Verbrechen am Fernsehen mit Anja R\u00fctzel",
+                "description": "<p>Wem die Ausfl\u00fcge von Jakob und Schmitti ins Sommerhaus schon immer viel zu kurz waren, dem ist ab jetzt geholfen: in &#34;Verbrechen am Fernsehen&#34; besprechen Anja R\u00fctzel und ihre G\u00e4ste jeden Sonntag die vielen, schlimmen Dinge im TV, die unter Strafe sehen sollten.</p><br/><p>\u201eVerbrechen am Fernsehen\u201c ist der Crime-Podcast, der das TV-Programm zum Tatort macht und mit fernseh-forensischem Eifer untersucht, was hier schief gelaufen ist.</p><br/><p>Folge 1 mit YouTuberin &amp; RealityTV-Expertin Mirella Precek (mirellativegal) als Gast gibt es hier zu h\u00f6ren, alle weiteren Folgen findet ihr in Zukunft auf dem Kanal von &#34;Verbrechen am Fernsehen&#34;, \u00fcberall da wo ihr eure Podcasts h\u00f6rt!</p>",
+                "show_in_all": true,
+                "internal_url": "Podcast-Empfehlung-Verbrechen-am-Fernsehen-mit-Anja-Ruetzel",
+                "samples_data_scannend": {
+                    "other": {
+                        "jakobsigh": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
