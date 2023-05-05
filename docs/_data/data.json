@@ -3977,6 +3977,23 @@
                         }
                     }
                 }
+            },
+            "5Z2fz8EiFdvSY9hOeliBQy": {
+                "release_date": "2023-05-04",
+                "duration_sec": 4892.107,
+                "spotify_url": "https://open.spotify.com/episode/5Z2fz8EiFdvSY9hOeliBQy",
+                "name": "\u201eGabs da schon Quark?\u201c",
+                "description": "<p>Wir haben Jakob Lundt darauf hingewiesen, dass er heute dran ist den Folgentext zu verfassen. Wir haben nur folgende Antwort erhalten:</p><br/><p>Ich bin derzeit im Urlaub und ab dem TT/MM/JJ wieder f\u00fcr Sie erreichbar. Ihre Mail wird aus Vertraulichkeitsgr\u00fcnden nicht weitergeleitet. Wenden Sie sich in dringenden F\u00e4llen bitte an meinen Kollegen KOLLEGE: kollege&#64;beispiel.de.</p><br/><p>Dabei war es doch so eine sch\u00f6ne Folge. Es ging um die Ochsenknechts, um die Roy Familie, um Cutegasms, 50cent M\u00fcnzen im Klo und dass die W\u00fcrde des Menschen doch antastbar ist, wenn\u2019s um Geld geht.</p><br/><p>Tja kann man nichts machen. Die Folge hei\u00dft \u201eGabs da schon Quark?\u201c und wir von Studio Bummens k\u00f6nnen sie empfehlen.</p><br/><p>Du m\u00f6chtest mehr \u00fcber unsere Werbepartner erfahren? <a href=\"https://linktr.ee/BaywatchBerlin\" rel=\"nofollow\">Hier findest du alle Infos &amp; Rabatte!</a></p><br/><p>*Mehr zu den neuen o2 Mobile Tarifen unter o2.de<br/>Das monatliche Inklusiv-Datenvolumen erh\u00f6ht sich in den neuen o2 Mobile Laufzeit-Tarifen erstmals nach 1 Jahr automatisch alle 12 Monate tarifabh\u00e4ngig um jeweils<br/>1 GB (o2 Mobile S / S Boost), 5GB (o2 Mobile M / M Boost), 10GB (o2 Mobile L / L Boost), maximal aber f\u00fcr 20 Jahre beim o2 Mobile S/S Boost / M/M Boost / L/L Boost bis zu 24/28 / 125/150 / 270/340 GB.</p>",
+                "show_in_all": true,
+                "internal_url": "Gabs-da-schon-Quark",
+                "samples_data_scannend": {
+                    "other": {
+                        "jakobsigh": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
