@@ -44529,6 +44529,69 @@
                         }
                     }
                 }
+            },
+            "3JKWKnCr0Wpu42ShJB4BNd": {
+                "release_date": "2023-05-06",
+                "duration_sec": 469.446,
+                "spotify_url": "https://open.spotify.com/episode/3JKWKnCr0Wpu42ShJB4BNd",
+                "name": "Technikfail",
+                "description": "<p>War es die geballte Medienpower bei der Kr\u00f6nung, die alles andere lahm gelegt hat oder nur ein bl\u00f6der Technikfail? Wie auch immer, diese Folge ist leider sehr kurz - enth\u00e4lt aber superwichtige Infos zum ESC. Hier schonmal ein Tipp zum Abspeichern: Jan und Olli sind n\u00e4chsten Samstag unter diesen Links im Livestream (Original ESC-Bild\u00fcbertragung mit Jan &amp; Olli Audiokommentar) zu h\u00f6ren. UND das Ganze ist dort auch noch 7 Tage nach dem Event verf\u00fcgbar:</p><p><br /></p><p>http://fm4.orf.at und http://tvthek.orf.at</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Technikfail",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
