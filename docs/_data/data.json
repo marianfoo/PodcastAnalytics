@@ -44592,6 +44592,69 @@
                         }
                     }
                 }
+            },
+            "2JYCskr1IBR4v1bWQa5pS2": {
+                "release_date": "2023-05-08",
+                "duration_sec": 4234.605,
+                "spotify_url": "https://open.spotify.com/episode/2JYCskr1IBR4v1bWQa5pS2",
+                "name": "BIG SORRY! (Nach Charlie ist Schluss) ",
+                "description": "<p>Kaum ist die royale Krone abgestaubt und eingetragen, stehen schon die n\u00e4chsten Gro\u00dfereignisse an: die verlorene Sonntagsfolge ist da UND der Countdown f\u00fcr den ESC tickt unaufhaltsam runter. Bevor es am Samstag in Glitzer und wei\u00dfen Leinenanz\u00fcgen so richtig losgeht, werden hier aber noch bekannte Filmhits wie Kokowambo gefeiert und ein roter Pfeifenreiniger gew\u00fcrdigt.\u00a0</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "BIG-SORRY-Nach-Charlie-ist-Schluss",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
