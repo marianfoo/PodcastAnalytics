@@ -44735,6 +44735,69 @@
                         }
                     }
                 }
+            },
+            "7vcihRfO6Tv80OWTrogkt3": {
+                "release_date": "2023-05-13",
+                "duration_sec": 134.008,
+                "spotify_url": "https://open.spotify.com/episode/7vcihRfO6Tv80OWTrogkt3",
+                "name": "#janprixollivision",
+                "description": "<p>Wie, keine aktuelle Folge - nur ein kurzer Teaser? Jahaa, Jan und Olli sind quasi noch mittendrin oder grade fertig am live Kommentieren des\u00a0\u00a0<a href=\"https://twitter.com/hashtag/JanPrixOlliVision?src&#61;hashtag_click\" rel=\"nofollow\">#JanPrixOlliVision</a>\u00a0(Titlecredit: Juliane Polak).</p><p>Die aktuelle Sonntagsfolge folgt gegen Mittag oder am fr\u00fchen Sonntagnachmittag, mit hei\u00dfen Backstage-Stories und Grand Gossip. Und hier nochmal die Links zum Nachgucken und -h\u00f6ren des Audiokommtars:\u00a0http://fm4.orf.at\u00a0und\u00a0http://tvthek.orf.at\u00a0(noch 7 Tage nach dem Event verf\u00fcgbar).</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "janprixollivision",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
