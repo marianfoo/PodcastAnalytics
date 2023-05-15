@@ -44798,6 +44798,69 @@
                         }
                     }
                 }
+            },
+            "7hcMCeuzcontVtd3R3qPDM": {
+                "release_date": "2023-05-14",
+                "duration_sec": 4245.577,
+                "spotify_url": "https://open.spotify.com/episode/7hcMCeuzcontVtd3R3qPDM",
+                "name": "Notiz an uns selber",
+                "description": "<p>Die Strass-Steine kleben noch an den Mikros und auch ein leichter Gyrosduft weht durch die Folge. Immer noch br\u00fchwarm aus Liverpool mit weiteren Insights vom gro\u00dfen #JanPrixOlliVision - jetzt aus dem Hotelzimmer statt aus der Kommentatorenkabine. Und noch eine gute Nachricht: Nachgucken und Nachh\u00f6ren geht sogar noch 30 Tage lang (gez\u00e4hlt ab 13.05.23) hier:\u00a0</p><p>http://fm4.orf.at und\u00a0http://tvthek.orf.at\u00a0</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Notiz-an-uns-selber",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
