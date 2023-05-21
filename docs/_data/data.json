@@ -44941,6 +44941,69 @@
                         }
                     }
                 }
+            },
+            "6VFJqT8dXnGyYCsdNhdDsN": {
+                "release_date": "2023-05-20",
+                "duration_sec": 3794.938,
+                "spotify_url": "https://open.spotify.com/episode/6VFJqT8dXnGyYCsdNhdDsN",
+                "name": "Mit der Spitze zuerst",
+                "description": "<p>Waren es Splitter vom Stern Olli, die vor Kurzem in Elmshorn aufgeschlagen sind? Oder ein riesiger Fu\u00df der noch zu errichtenden JanOlli-Statue? Gesichert ist nur eins, die Spargel-Erdbeer-Saison ist eingel\u00e4utet und damit gibt es kein Halten mehr f\u00fcr Sch\u00e4l- und Gartipps und sch\u00fcsselweise gezuckerte Fr\u00fcchte -\u00a0das einzig wahre Kraftfutter der beiden unerm\u00fcdlichen performenden Zirkuspferde.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Mit-der-Spitze-zuerst",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
