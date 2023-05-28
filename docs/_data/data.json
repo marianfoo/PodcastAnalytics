@@ -45084,6 +45084,69 @@
                         }
                     }
                 }
+            },
+            "5Ct9BDYppyBE4tV3DOpIsG": {
+                "release_date": "2023-05-27",
+                "duration_sec": 4694.23,
+                "spotify_url": "https://open.spotify.com/episode/5Ct9BDYppyBE4tV3DOpIsG",
+                "name": "Mallorquinischer Baumkuchen",
+                "description": "<p>Zack, da ist die 300. Schicht festgebacken an den Podcast-Kuchen - mit offenem Hemd und sonnengebr\u00e4unt klingt alles noch genauso frisch wie am ersten Tag. Der eine aus Malle, der andere mal wieder auf Verfolgungstour, hier werden verkleidete H\u00fchner gekonnt ignoriert, die Million mit beiden H\u00e4nden fest gedr\u00fcckt und das Pivo in der Abendsonne genossen. Spannender kommt nur die Baumkuchen-Doku im NDR!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Mallorquinischer-Baumkuchen",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
