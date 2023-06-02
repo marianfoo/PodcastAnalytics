@@ -4045,6 +4045,23 @@
                         }
                     }
                 }
+            },
+            "3VmwceWqnrnzwL6BatnO0A": {
+                "release_date": "2023-06-01",
+                "duration_sec": 4879.83,
+                "spotify_url": "https://open.spotify.com/episode/3VmwceWqnrnzwL6BatnO0A",
+                "name": "Urlaub im B\u00fcro",
+                "description": "Summer Breeze<br/><p>\u201eAbenteuer sind erstrebenswert&#34; wusste schon Aristoteles und so lie\u00dfen sich Jakob und Klaas auf das Wagnis ein, ausgerechnet Thomas Schmitt ihr erstes Reiseziel der diesj\u00e4hrigen Baywatch Berlin &#34;Summer Breeze&#34; auszuw\u00e4hlen.<br/>Egal egal, denn jeder wei\u00df: Gerade die beschissenen Tage im Leben sind der Stoff aus dem die Podcasts sind.<br/>Eine \u201e\u00dcberraschung&#34; ist Schmitti da wohl gelungen in der Auswahl der Reiseziels, aber \u00fcberraschend ist ein Auffahrunfall ja in der Regel auch, wenn man ehrlich ist und soll hei\u00dfen, dass etwas Unerwartetes nicht auch immer direkt mit Freude verbunden ist.<br/>Dennoch: &#34;Getting lost is part of the journey&#34;, und so ein Martyrium schwei\u00dft ja auch irgendwie zusammen.<br/>So erz\u00e4hlen die Drei sich in dieser Woche mal wieder privateste und intimste Gedanken. Klaas beispielsweise, gibt unumwunden zu, dass er letzte Nacht von einer Comedyserie getr\u00e4umt hat, die er zusammen mit Joko dreht und deren \u201eWitz* einzig auf einer Verwechslungssituation basiert, welcher wiederum Inzest in mehreren Genration zugrunde liegt! Hahahaha! Funny!<br/>So muss es Lou Bega gegangen sein, dem eines Nachts, mir nichts dir nichts, Mambo Nr.5 eingefallen ist.<br/>Wie steht es um Jakobs privateste Gedanken? Tiefgr\u00fcndig wie wir ihn kennen, kreisen Lundts Gedanken seit Wochen um eine unausgepackte Tischtennisplatte im Eingangsbereich seines Arbeitsplatzes. Wenn Jakob eins so richtig nerv\u00f6s macht, dann ist es eine weitere M\u00f6glichkeit, sinnlos Arbeitszeit zu vernichten. F\u00fcr &#39;was anderes ist er in diesem Zustand absoluter Vorfreude nicht mehr zu gebrauchen.<br/>Thomas hingegen hat aufgegeben, wie der Chefarzt, der sich irgendwann in den Rollstuhl eines Patienten setzt und sagt: \u201eJetzt bin ich mal dran&#34;, reicht in dieser Woche SELBER eine Checkerfrage ein. Ground Zero. Welcome to Baywatch Berlin Summer Breeze - Enjoy your stay!</p><br/><p>Du m\u00f6chtest mehr \u00fcber unsere Werbepartner erfahren? <a href=\"https://linktr.ee/BaywatchBerlin\" rel=\"nofollow\">Hier findest du alle Infos &amp; Rabatte!</a></p>",
+                "show_in_all": true,
+                "internal_url": "Urlaub-im-Buero",
+                "samples_data_scannend": {
+                    "other": {
+                        "jakobsigh": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
