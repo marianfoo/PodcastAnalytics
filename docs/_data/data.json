@@ -45227,6 +45227,69 @@
                         }
                     }
                 }
+            },
+            "3xwRwhD4Fovn4IOXD8hmhn": {
+                "release_date": "2023-06-03",
+                "duration_sec": 3913.534,
+                "spotify_url": "https://open.spotify.com/episode/3xwRwhD4Fovn4IOXD8hmhn",
+                "name": "Erbse trifft Hafer",
+                "description": "<p>Zwei ostfriesische H\u00e4uptlinge greifen heute mal ganz tief in den Projekteordner, aber das crazy Gezwitscher da drau\u00dfen ist kaum zu \u00fcbert\u00f6nen. Ein ber\u00fchmtes arbeitsloses Gehirn wird weiter audiotechnisch konserviert und dann kommen noch ganz gro\u00dfe Pl\u00e4ne auf den Tisch. Film ab!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Erbse-trifft-Hafer",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
