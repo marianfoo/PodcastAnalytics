@@ -45370,6 +45370,69 @@
                         }
                     }
                 }
+            },
+            "16ikSKGBHJjAWcGSf6EOZB": {
+                "release_date": "2023-06-10",
+                "duration_sec": 3967.007,
+                "spotify_url": "https://open.spotify.com/episode/16ikSKGBHJjAWcGSf6EOZB",
+                "name": "Ich muss aufr\u00e4umen, bevor ich sterbe!",
+                "description": "<p>Halb im Fieberwahn wird erstmal der Hals von Schei\u00dfe befreit. Schwierige Entscheidungen stehen an und da hilft es, das G\u00e4stebad doch nochmal designtechnisch unter die Lupe zu nehmen. Frustrierenderweise gibt es immer noch kein Fu\u00dfnagelset als Merch und auf den cholerischen Masked Singer m\u00fcssen wir auch noch warten. Marie Kondo - das ist eine Lebensaufgabe!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Ich-muss-aufraeumen-bevor-ich-sterbe",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
