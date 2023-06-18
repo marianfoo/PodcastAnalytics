@@ -45513,6 +45513,69 @@
                         }
                     }
                 }
+            },
+            "25wjzJcQMSSjazUu3nQTna": {
+                "release_date": "2023-06-17",
+                "duration_sec": 3911.183,
+                "spotify_url": "https://open.spotify.com/episode/25wjzJcQMSSjazUu3nQTna",
+                "name": "Katzengold zu Schie\u00dfmichtot",
+                "description": "<p>Zwei Kn\u00f6pfe am Hemd sind ge\u00f6ffnet, der Mineralienkoffer ist gepackt, Zeit, den Cringe-Akku mal wieder richtig aufzuladen. Ein paar Tiere haben es nicht geschafft (das waren die Aggro-Elefanten!), es wird in die Suppe gespuckt und der Makeover steht immer noch aus. Hei\u00dfer Tipp f\u00fcr den Sommer: Tonzapfen!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Katzengold-zu-Schiessmichtot",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
