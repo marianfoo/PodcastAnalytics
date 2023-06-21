@@ -2,7 +2,7 @@
 title: BOOMERCRINGE #24
 permalink: /fest-flauschig/episoden/BOOMERCRINGE-24
 nav_exclude: true
-nav_order: 506
+nav_order: 508
 ---
 
 # BOOMERCRINGE #24
@@ -10,14 +10,14 @@ nav_order: 506
                     <tbody>
                         <tr>
                             <th scope="row">Veröffentlich am:</th>
-                            <td data-label="Veröffentlich am:">13. Juni 2023</td>
+                            <td data-label="Veröffentlich am:">20. Juni 2023</td>
                         </tr>
                         <tr>
                             <th scope="row">Länge </th>
-                            <td data-label="Länge ">43 Minuten</td>
+                            <td data-label="Länge ">33 Minuten</td>
                         </tr><tr>
                                 <th scope="row">Spotify Link</th>
-                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/54JA8k5O9MJELkKX9rgUBp">Spotify Link</a></td>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/1OcMKXTsBMhW2xmNTgZdlV">Spotify Link</a></td>
                             </tr></tbody>
                 </table>
 
@@ -26,6 +26,6 @@ nav_order: 506
 ## Beschreibung der Folge
 
 <div>
-<p>Mit dickem Eis in der pelzigen Pfote und voll aufgedrehter Klimaanlage steuert diese Folge schnurgerade auf die Sommerferien zu. Was das heißt, wissen wir: ein Comeback mit Imagewechsel wird geplant, Borchardt-Reservierungen verfallen und Fürst Koblenz muss noch ein wenig an seinem Reisekatalog arbeiten. </p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
+<p>Der Unterhosen-Countdown zeigt an: die Zeichen stehen auf kurz vor Urlaub und damit heißt es Koffer packen mit Olli und Jan. Hauptsache, Ollis kleine Tellerchen samt Inhalt bleiben zuhause, dafür gibt es die Großen Fünf Lebensmittel, die man auf besondere Art isst. Guten Appetit und bitte einmal den Einbauschrank verlassen.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
 </div>
 
