@@ -45656,6 +45656,69 @@
                         }
                     }
                 }
+            },
+            "3o2X5PcuDUOYbzvd1n7UKx": {
+                "release_date": "2023-06-24",
+                "duration_sec": 3884.643,
+                "spotify_url": "https://open.spotify.com/episode/3o2X5PcuDUOYbzvd1n7UKx",
+                "name": "Eine Seele in zwei K\u00f6rpern",
+                "description": "<p>Schw\u00fcle N\u00e4chte, fiebriger Schlaf- ist alles nur im Delirium getr\u00e4umt oder wirklich passiert? Kurz vor der Sommerpause wird noch der Grundstein f\u00fcr\u2019s Podcast-Kloster gelegt, Jan liefert faszinierende Einblicke in eine Hauptstadt-Party (Achtung, Namedropping) und es werden noch Sponsoren f\u00fcr die gro\u00dfe K\u00e4sereise gesucht.\u00a0</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Eine-Seele-in-zwei-Koerpern",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
