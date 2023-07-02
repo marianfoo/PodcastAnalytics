@@ -45799,6 +45799,69 @@
                         }
                     }
                 }
+            },
+            "1z9SEFXWWkhQqcNnddeWtc": {
+                "release_date": "2023-07-01",
+                "duration_sec": 4500.062,
+                "spotify_url": "https://open.spotify.com/episode/1z9SEFXWWkhQqcNnddeWtc",
+                "name": "Die wirklich letzte Folge vor der Sommerpause",
+                "description": "<p>W\u00e4hrend der eine schon um umgebauten Bus durch Nordamerika tourt, macht der andere Urlaub im Radius der Lotto-Fu\u00dffessel. Es geht weiter mit Bubble-Party- oder Party-Bubble-Nachbesprechung und eine existenzielle Entscheidung -\u00a0Absturz oder Buch?\u00a0- steht an. Eine Seele macht jetzt in zwei K\u00f6rpern Urlaub, w\u00fcnscht allen einen sch\u00f6nen Sommer und nicht das Podcast-Bekenntnis vergessen!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Die-wirklich-letzte-Folge-vor-der-Sommerpause",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
