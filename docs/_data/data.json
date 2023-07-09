@@ -45879,6 +45879,69 @@
                         }
                     }
                 }
+            },
+            "7vHFcE66Z8ERWVdcAOxmt0": {
+                "release_date": "2023-07-08",
+                "duration_sec": 6347.755,
+                "spotify_url": "https://open.spotify.com/episode/7vHFcE66Z8ERWVdcAOxmt0",
+                "name": "Best of Fest & Flauschig - Die Gro\u00dfen F\u00fcnf",
+                "description": "<p>Kenner wissen, warum Tuffy f\u00fcr immer in einem Panzer feststeckt und mit Ottern um sich spuckt, aber warum hat er schon wieder diesen Blick? In diesem Fest &amp; Flauschig-Spezial erinnern wir an einige der sch\u00f6nsten und auch der schlimmsten Gro\u00dfe F\u00fcnf-Sammlungen: von Horrormomenten auf der B\u00fchne \u00fcber Belohnungen zu Orten, an denen man nicht gerne gro\u00df macht. Und nicht zu vergessen: Vorw\u00fcrfe in Beziehungen und Weltuntergangs-Szenarien - hach, da kommt doch richtig Sommerfeeling auf!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Best-of-Fest-und-Flauschig-Die-Grossen-Fuenf",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
