@@ -45959,6 +45959,69 @@
                         }
                     }
                 }
+            },
+            "513BtOUKv2yOuqNqJNNGjR": {
+                "release_date": "2023-07-15",
+                "duration_sec": 385.462,
+                "spotify_url": "https://open.spotify.com/episode/513BtOUKv2yOuqNqJNNGjR",
+                "name": "Fest & Flauschig Ferienprogramm - Aufr\u00e4umen in Stralsund",
+                "description": "<p>Blaumann an und einmal durchgek\u00e4rchert- die Sommerpause wird zum Aufr\u00e4umen genutzt, seelisch und sogar mit echtem Wischlappen. Kleines follow-Olli-around gef\u00e4llig? Na dann mal n\u00e4her r\u00fccken und mitschrubben!\u00a0</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Fest-und-Flauschig-Ferienprogramm-Aufraeumen-in-Stralsund",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
