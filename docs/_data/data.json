@@ -46039,6 +46039,69 @@
                         }
                     }
                 }
+            },
+            "0ZvXgdXYTgZihTjDhVaK0G": {
+                "release_date": "2023-07-22",
+                "duration_sec": 456.515,
+                "spotify_url": "https://open.spotify.com/episode/0ZvXgdXYTgZihTjDhVaK0G",
+                "name": "Fest & Flauschig Ferienprogramm - Nachsitzen in Sachen Pearl Jam",
+                "description": "<p>Im kleinen Podcaststudio an der Ostseek\u00fcste wird weiter Liegengebliebenes auf Vordermann (und frau!) gebracht, heute: aufr\u00e4umen mit einem musikalischen Nachtrag zu Metal am Mittwoch.\u00a0</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Fest-und-Flauschig-Ferienprogramm-Nachsitzen-in-Sachen-Pearl-Jam",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
