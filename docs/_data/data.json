@@ -46199,6 +46199,69 @@
                         }
                     }
                 }
+            },
+            "4fWVoXJqkleBwtof5J990G": {
+                "release_date": "2023-08-05",
+                "duration_sec": 227.291,
+                "spotify_url": "https://open.spotify.com/episode/4fWVoXJqkleBwtof5J990G",
+                "name": "Fest & Flauschig Ferienprogramm - Raus aus dem Internet",
+                "description": "<p>Poetische Gr\u00fc\u00dfe aus Kanada! Hier macht einer Cold Turkey Social Media aus und wandelt auf dem Bildungstrip. Die Kontaktsperre zum Podcastpartner bleibt eisern bestehen und nat\u00fcrlich wird weiter am Imagewandel geschmiedet.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Fest-und-Flauschig-Ferienprogramm-Raus-aus-dem-Internet",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
