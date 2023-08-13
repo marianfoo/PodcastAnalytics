@@ -1,0 +1,31 @@
+---
+title: Fest & Flauschig Ferienprogramm - Der Erfinder der Socke
+permalink: /fest-flauschig/episoden/Fest-und-Flauschig-Ferienprogramm-Der-Erfinder-der-Socke
+nav_exclude: true
+nav_order: 517
+---
+
+# Fest & Flauschig Ferienprogramm - Der Erfinder der Socke
+<table class="resp-table dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
+                    <tbody>
+                        <tr>
+                            <th scope="row">Veröffentlich am:</th>
+                            <td data-label="Veröffentlich am:">12. August 2023</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Länge </th>
+                            <td data-label="Länge ">4 Minuten</td>
+                        </tr><tr>
+                                <th scope="row">Spotify Link</th>
+                                <td data-label="Spotify Link"><a href="https://open.spotify.com/episode/6fXdVDQt1yEVOTQ5DCcd03">Spotify Link</a></td>
+                            </tr></tbody>
+                </table>
+
+***
+
+## Beschreibung der Folge
+
+<div>
+<p>Überreifes Obst, Cocktails und Sommersocken. Schon wieder Lyrik. Man funkt aus dem umgebauten Bus vom kanadischem Fjord. Langsames Durchdrehen oder von Bären gefressen werden? Qual der Wahl.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices" rel="nofollow">podcastchoices.com/adchoices</a></p>  
+</div>
+
