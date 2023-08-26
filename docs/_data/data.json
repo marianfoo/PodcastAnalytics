@@ -4249,6 +4249,23 @@
                         }
                     }
                 }
+            },
+            "7F7WkWxGdfUcjYqoWBHdP9": {
+                "release_date": "2023-08-24",
+                "duration_sec": 5029.459,
+                "spotify_url": "https://open.spotify.com/episode/7F7WkWxGdfUcjYqoWBHdP9",
+                "name": "Club Las Floridas",
+                "description": "<p>Es gibt mittlerweile nicht mehr viele Gelegenheiten zu denen Jakob Lundt freiwillig sein geliebtes Butterfass verl\u00e4sst. Die Sommerfeier seines Arbeitgebers Florida TV geh\u00f6rt aber ganz sicher dazu<br/>Da wurde ja auch einiges geboten, wie man in der aktuellen Folge Baywatch Berlin so h\u00f6ren kann.<br/>Wenn in unmittelbarer N\u00e4he zum B\u00fcro das Wort \u201eabseilen&#34; f\u00e4llt, denkt man als treuer Podcasth\u00f6rer nat\u00fcrlich sofort an Arnes unerfreulichen Toilettenvorfall, kurz nach dem Umzug in die neuen R\u00e4umlichkeiten.<br/>So versteht man das Florida-Boss und Kultgesch\u00e4ftsf\u00fchrer Thomas, ein besonderes Interesse daran hat, diesen Begriff wieder positiv aufzuladen. Zum Beginn des Festes lie\u00df er sich also buchst\u00e4blich vom Dach des Hauses abseilen und konnte in dieser Weise tats\u00e4chlich noch das Buffet der guten Laune er\u00f6ffnen, bevor er scheinbar ohnm\u00e4chtig in 15 Metern H\u00f6he am Kletterseil baumelte.<br/>So weit, so cool. Zur\u00fcck zum Angebot das wir ihnen machen wollten.<br/>Lassen auch Sie sich in der n\u00e4chsten Stunde von Jakob \u201eentstieseln&#34; und sch\u00f6pfen sie durch das M\u00e4rchen von Chris Normans heilenden Knien wieder die Kraft, an das Unm\u00f6gliche zu glauben!<br/>Schaffen sie Dinge, die kein Mensch je f\u00fcr m\u00f6glich gehalten h\u00e4tte: Locken sie Thomas Schmitt mit etwas Lebensw\u00fcrze von seiner Schei\u00df Terrasse zur\u00fcck in die Welt der Abenteuer! In die \u00e4gyptischen Pyramiden oder wenigstens mal weg vom Computer.<br/>Treten Sie n\u00e4her, machen Sie es sich bequem. Eines gilt es nur zu beachten: In unserer Praxis ist es \u00fcblich die Schuhe anzulassen. Wer Barfuss kommt fliegt raus!</p><br/><p>Du m\u00f6chtest mehr \u00fcber unsere Werbepartner erfahren? <a href=\"https://linktr.ee/BaywatchBerlin\" rel=\"nofollow\">Hier findest du alle Infos &amp; Rabatte!</a></p>",
+                "show_in_all": true,
+                "internal_url": "Club-Las-Floridas",
+                "samples_data_scannend": {
+                    "other": {
+                        "jakobsigh": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
