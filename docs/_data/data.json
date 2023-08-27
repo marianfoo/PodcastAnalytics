@@ -46439,6 +46439,69 @@
                         }
                     }
                 }
+            },
+            "4eqiCCBP0D1rMfyIBBxw5W": {
+                "release_date": "2023-08-26",
+                "duration_sec": 5234.416,
+                "spotify_url": "https://open.spotify.com/episode/4eqiCCBP0D1rMfyIBBxw5W",
+                "name": "Rattenschwanz an Asi-Freunden",
+                "description": "<p>Endlich zur\u00fcck aus der Sommerfrische! Mit v\u00f6llig neuem Image und fast festgeschraubten Z\u00e4hnen gibt es Karrieretipps f\u00fcr arbeitslose Drogenhunde, ein Tier, das es geschafft hat und ein paar braune Geheimnisse. Zum Gl\u00fcck haben die gar nichts mit Politik, daf\u00fcr mit Ostfriesland und mit Ollis Jingle-verd\u00e4chtigem Schlie\u00dfmuskel zu tun. Welcome back!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Rattenschwanz-an-Asi-Freunden",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
