@@ -46502,6 +46502,69 @@
                         }
                     }
                 }
+            },
+            "6VCjgdDVztUkTvVYsdLNBL": {
+                "release_date": "2023-08-29",
+                "duration_sec": 2503.523,
+                "spotify_url": "https://open.spotify.com/episode/6VCjgdDVztUkTvVYsdLNBL",
+                "name": "BOOMERCRINGE #35",
+                "description": "<p>Vom Fest &amp; Flauschig g\u00fctebesiegelten Imbiss mit Pommesgabel zur Kerbe im Kuchenwerkzeug - die kosmischen Zusammenh\u00e4nge sind mal wieder verbl\u00fcffend. Ob nun also der Rinderbraten mit Augen metallisch schmeckt oder abgehalfterte Showpferde ins Nirgendwo traben - auch die Mitte der Woche gibt endlich wieder Halt.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "BOOMERCRINGE-35",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
