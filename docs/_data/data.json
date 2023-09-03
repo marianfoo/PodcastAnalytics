@@ -46582,6 +46582,69 @@
                         }
                     }
                 }
+            },
+            "6GkOG7MI1lNHK8UhQ2LM1i": {
+                "release_date": "2023-09-02",
+                "duration_sec": 3862.23,
+                "spotify_url": "https://open.spotify.com/episode/6GkOG7MI1lNHK8UhQ2LM1i",
+                "name": "Curly Top Fader Taper Cut",
+                "description": "<p>Willkommen in der Casa Spotify Gold - der limitierten Ausgabe f\u00fcr den gereiften Podcast! Hier werden heute Jeans aussortiert und Egos aufeinander losgelassen. Bushido vs Capital Bra oder lieber Otto gegen Didi? Au\u00dferdem l\u00e4sst Olli beim Hausboot einen sehr gro\u00dfen Paddel zu Wasser, es gibt Einblicke in die Fernsehgeschichte und Gr\u00fc\u00dfe aus der Pfifferling-Abteilung. Ahoi!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Curly-Top-Fader-Taper-Cut",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
