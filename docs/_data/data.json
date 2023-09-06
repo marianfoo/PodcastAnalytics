@@ -46645,6 +46645,69 @@
                         }
                     }
                 }
+            },
+            "1E5T6VsTvrD5pq0FRsfGcN": {
+                "release_date": "2023-09-05",
+                "duration_sec": 2115.526,
+                "spotify_url": "https://open.spotify.com/episode/1E5T6VsTvrD5pq0FRsfGcN",
+                "name": "BOOMERCRINGE #36",
+                "description": "<p>Achtung hier werden wieder mal F\u00fc\u00dfe erw\u00e4hnt. Wenn das bei Euch schlechte Erinnerungen an Untertassen mit N\u00e4geln hervorruft, h\u00f6rt diese Folge lieber nicht alleine. Faszinierend au\u00dferdem, wie Kneipen fr\u00fcher hei\u00dfen durften und Aktenzeichen XY: der Kuhw\u00fcrger von Hamburg.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "BOOMERCRINGE-36",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
