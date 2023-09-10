@@ -46725,6 +46725,69 @@
                         }
                     }
                 }
+            },
+            "1XqTd1IWRv1lAl6Tb9W4Ur": {
+                "release_date": "2023-09-09",
+                "duration_sec": 3627.206,
+                "spotify_url": "https://open.spotify.com/episode/1XqTd1IWRv1lAl6Tb9W4Ur",
+                "name": "Goethe war sloppy",
+                "description": "<p>Willkommen in der gro\u00dfen Kissenschlacht am Sonntag, hier fliegen toxische Egos aus dem Fenster und daf\u00fcr Gr\u00fc\u00dfe aus der Bulettenk\u00fcche wieder rein. Ist vielleicht endlich der richtige Zeitpunkt f\u00fcr Olli da, um auf Twitter gro\u00df rauszukommen? Bis dahin gibt es Gnadenbrot an der Supermarktkasse und Lorbeerbl\u00e4tter f\u00fcrs Gem\u00fct.\u00a0</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Goethe-war-sloppy",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
