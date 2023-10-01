@@ -47154,6 +47154,69 @@
                         }
                     }
                 }
+            },
+            "2DnXIcZE6eQtuvIzQiLcVf": {
+                "release_date": "2023-09-30",
+                "duration_sec": 4314.2,
+                "spotify_url": "https://open.spotify.com/episode/2DnXIcZE6eQtuvIzQiLcVf",
+                "name": "Miese Ratten in New York",
+                "description": "<p>Enkeltrick in dritter Generation - jetzt kommt endlich raus, warum Dagobert B\u00f6hmermann t\u00e4glich in Geld badet! Einfach diese Folge auch mal r\u00fcckw\u00e4rts h\u00f6ren, um Anlagetipps abzugreifen. Auch gut: Promi- Begegnung im Nagelstudio, fu\u00dfl\u00e4ufiger Gyros und obendrauf einen flambierten Cr\u00eape mit Thymian.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Miese-Ratten-in-New-York",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
