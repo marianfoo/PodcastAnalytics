@@ -47297,6 +47297,69 @@
                         }
                     }
                 }
+            },
+            "4yB33iol0cf5y1Qp0nThaO": {
+                "release_date": "2023-10-07",
+                "duration_sec": 4689.841,
+                "spotify_url": "https://open.spotify.com/episode/4yB33iol0cf5y1Qp0nThaO",
+                "name": "Die Fleischhand von M. K.",
+                "description": "<p>Es duftet herbstlich und die Kastanien prasseln auf die Fontanellen - da kann man doch mal \u00fcber den Weihnachtszirkus sprechen! Au\u00dferdem: hei\u00dfe Tipps f\u00fcr den Erwerb von F\u00fchrungszeugnissen und die Gro\u00dfen F\u00fcnf Gr\u00fcnde, f\u00fcr die man sich in einer Schlange anstellen w\u00fcrde. Kurze Warnung, im Titel verbirgt sich ein Detail, das zum angeekelten Innehalten anregen k\u00f6nnte - es geht ausnahmsweise mal nicht um gewisse F\u00fc\u00dfe!\u00a0</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Die-Fleischhand-von-M-K",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
