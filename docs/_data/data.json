@@ -47440,6 +47440,69 @@
                         }
                     }
                 }
+            },
+            "6whXHPMBOAoiaHZRhgYVXt": {
+                "release_date": "2023-10-14",
+                "duration_sec": 4436.688,
+                "spotify_url": "https://open.spotify.com/episode/6whXHPMBOAoiaHZRhgYVXt",
+                "name": "Ich bin ja ne Privatperson",
+                "description": "<p>Kurz haben wir uns in Sicherheit gewiegt, da winken schon wieder DIE F\u00dcSSE. Diesmal von unter der B\u00fchne, sch\u00f6n eingecremt und - igitt, abgeleckt? Darauf einen D\u00f6ner vom Riesenspie\u00df - auf dass auch unsere K\u00f6rper heilen m\u00f6gen.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+                "show_in_all": true,
+                "internal_url": "Ich-bin-ja-ne-Privatperson",
+                "samples_data_scannend": {
+                    "rubriken": {
+                        "diegrossen5": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "tiere_dies_geschafft_haben": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "hausboot": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "partyhopping": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    },
+                    "jingles": {
+                        "wendler1": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "deutschlandwirdrasiert": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "dummheitkenntkeinegrenzen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "fraumagdiecliquenicht": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jinge_hinauslaufen": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "jennyelvers": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "traeumerschlauma": {
+                            "scanned": false,
+                            "createdAt": ""
+                        },
+                        "elmshorn": {
+                            "scanned": false,
+                            "createdAt": ""
+                        }
+                    }
+                }
             }
         }
     },
